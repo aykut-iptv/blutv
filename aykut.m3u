@@ -175,6 +175,8 @@ https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/0b9ebaaa-3ac4-4c72-aaef-49926c9fc3e6/-/preview/1000x500/-/format/auto/InFast_landscape-white.png" group-title="TR Eğlence",Infast
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1SrFzf9Xlt1bvjsb0YzPao7VVjFyKDjne" group-title="TR Eğlence",Fashion TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1SrFzf9Xlt1bvjsb0YzPao7VVjFyKDjne" group-title="TR Eğlence",BBC Lifestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" group-title="TR Eğlence",TRT Genç
