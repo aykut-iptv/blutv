@@ -139,6 +139,8 @@ https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?app=kralpoptv_web&ce=3
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cUayGoUNB45Vq6AyuPzKWzh_cvRh0lNM" tvg-id="TRACE.URBAN.HD.tr" tvg-chno="119",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=251,fit=crop/mxB7g4GZKbTeOB8R/logo-ftv-YyvZ7oR8EDSORnw4.png" tvg-id="Fashion.TV.de" tvg-chno="120",Fashion TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img-tlctv.mncdn.com/logo.png?v=1.1" tvg-id="TLC.HD.tr" tvg-chno="121",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" tvg-chno="123",FX
