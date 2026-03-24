@@ -121,8 +121,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 http://45.74.244.181:3800/izle/cosmosports.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" tvg-id="" tvg-chno="105",Fast&FunBox
 https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sariyeryenigun.com/TMB_logosu.png" tvg-id="" tvg-chno="106",TMB TV
-https://streams.uzunmuhalefet.com/stream/56ac94c5-5fba-4265-9170-1fbb136551f8.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1D7mA21AEaOGYJWguk-EWoIZhvlJhyxc3" tvg-id="EPG_ID" tvg-chno="107",NR1 Türk TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1XecYIxx6Sp3WNEIpWVp4n217xiTiMxaa" tvg-id="EPG_ID" tvg-chno="108",PowerTürk TV
@@ -145,13 +143,15 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=251,fit=crop/mxB7g4GZKbTeOB8R/logo-ftv-YyvZ7oR8EDSORnw4.png" tvg-id="Fashion.TV.de" tvg-chno="120",Fashion TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img-tlctv.mncdn.com/logo.png?v=1.1" tvg-id="TLC.HD.tr" tvg-chno="121",TLC
+#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/0b9ebaaa-3ac4-4c72-aaef-49926c9fc3e6/-/preview/1000x500/-/format/auto/InFast_landscape-white.png" tvg-id="" tvg-chno="121",Infast
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-tlctv.mncdn.com/logo.png?v=1.1" tvg-id="TLC.HD.tr" tvg-chno="123",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" tvg-chno="123",FX
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" tvg-chno="124",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1-4RHB9lDSPo8UftI0DHanJ0ZXAhj_jrq" tvg-id="SİNEMA.YERLİ.tr" tvg-chno="124",Sinema Yerli
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1-4RHB9lDSPo8UftI0DHanJ0ZXAhj_jrq" tvg-id="SİNEMA.YERLİ.tr" tvg-chno="125",Sinema Yerli
 http://45.74.244.181:3800/izle/sinemayerli.m3u8
-#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/A/Vy/246147/logo.png?v=638671715280741399" tvg-id="MovieSmartTurk.tr" tvg-chno="125",MovieSmart Türk
+#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/A/Vy/246147/logo.png?v=638671715280741399" tvg-id="MovieSmartTurk.tr" tvg-chno="126",MovieSmart Türk
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/mvturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png" tvg-id="EPG_ID" tvg-chno="127",FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
