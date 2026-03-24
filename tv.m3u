@@ -145,6 +145,8 @@ https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" tvg-id="SİNEMA.YERLİ.tr" tvg-chno="124",Sinema Yerli
 http://45.74.244.181:3800/izle/sinemayerli.m3u8
+#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" tvg-id="SİNEMA.YERLİ.tr" tvg-chno="124",Sinema Yerli
+https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/mvturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png" tvg-id="EPG_ID" tvg-chno="127",FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="EPG_ID" tvg-chno="128",tabii TV
