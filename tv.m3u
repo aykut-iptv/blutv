@@ -189,6 +189,8 @@ https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/X/zl/245964/logo.png?v=638671713691920788" tvg-id="DiscoveryChannel.tr" tvg-chno="191",Discovery Channel
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=10740&extension=ts
+#EXTINF:-1 tvg-logo="https://www.viasatworld.com/media/1438/history-vw.png" tvg-id="VIASAT.NATURE.-.HISTORY.tr" tvg-chno="192",Viasat History
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=170684&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1IHVDMyrvXYPxEysiUrcjXKqRUwpkq2X0" tvg-id="" tvg-chno="193",DocuBox
 https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest/scale-to-width-down/250?cb=20210818141459" tvg-id="CGTN.9.DOCUMENTARY.tr" tvg-chno="194",CGTN Documentary
