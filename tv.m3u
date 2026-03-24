@@ -220,7 +220,7 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="341",NPO 1
 http://62.131.195.211:8086/12.ts
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="342",BVN TV
-https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="343",AT 5
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="344",RTL
