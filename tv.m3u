@@ -199,6 +199,8 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1lCyk5l3Epunft7lolDkeM8jcloDA1MWO" tvg-id="TRT.ÇOCUK.tr" tvg-chno="160",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/223-2234621_duck-tv-duck-tv-logo.png" tvg-id="DUCKTV.HD.tr" tvg-chno="161",Duck TV
+https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo-1.png" tvg-id="BABY.TV.tr" tvg-chno="162",Baby TV
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/disneyjr_A457DDD2-0239-4CAC-BD5B-B1F5416F479F.png" tvg-id="DisneyJunior.tr" tvg-chno="165",Disney Junior
