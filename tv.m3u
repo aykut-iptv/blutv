@@ -197,9 +197,9 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_Q4zV3Ex6d0B5YM1ZkwqLDbDgvSEieXR" tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-chno="155",Sunna TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1226JeQyuRi3NQplr-WUgmBjc315JMIJz" tvg-id="VAVTV.tr" tvg-chno="156",Vav TV
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/vavtv/site/v2/c/i/vavtv-logo.svg" tvg-id="VAVTV.tr" tvg-chno="156",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://semerkand.com.tr/wp-content/uploads/2017/05/semerkand-tv-slider-logo.png" tvg-id="EPG_ID" tvg-chno="157",Semerkand TV
+#EXTINF:-1 tvg-logo="https://semerkandtv.com.tr/Content/img/logo.png" tvg-id="EPG_ID" tvg-chno="157",Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801838130.png" tvg-id="DiyanetTV.tr" tvg-chno="158",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
