@@ -157,6 +157,32 @@ https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/mvturk/i
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="EPG_ID" tvg-chno="128",tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=18eyv5hzdwzIM59hleOkqlByfWlPonF7v" tvg-id="" tvg-chno="130",Rai Uno
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WYijg4ZTn-1kMPvYyFKJ3yD94JVd3an4" tvg-id="TV5.Monde.de" tvg-chno="131",TV5Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://capriole.com/wp-content/uploads/2025/10/bloomberg.png" tvg-id="BLOOMBERG.tr" tvg-chno="139",Bloomberg
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/anews/site/v2/i/a-news-logo.png" tvg-id="A.NEWS.HD.tr" tvg-chno="140",A News
+https://trn03.tulix.tv/gt-anews/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1vsX72zzJRz_sJMfqGHbkeZVDHyMfq7kg=w2048-h2048#.png" tvg-id="BBC.World.News.de" tvg-chno="141",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Bwd_xqJHfdRsdcZ2TrG0Yuh5Hburyt1p" tvg-id="TRT.WORLD.HD.tr" tvg-chno="142",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/CNN_International_old.svg/revision/latest/scale-to-width-down/250?cb=20251104001134" tvg-id="CNN.INTERNATIONAL.tr" tvg-chno="143",CNN International
+https://trn03.tulix.tv/CNN-International/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11dYrNPDZW6_8y5rS_f31L3JDlDS_4Ja1" tvg-id="AL.JAZEERA.INTERNATIONAL.tr" tvg-chno="144",Al Jazeera International
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11CaTdAEJov2iBQaXVp29KzZjETuIHe8i" tvg-id="EURONEWS.tr" tvg-chno="145",EuroNews English
+https://dash3.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17nNdbx9eHHWPxaBju8AuS20ds7FAd9Ql" tvg-id="FRANCE.24.HD-EN.tr" tvg-chno="146",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1BgogVmqtLR2Ptgvwrv5uZljm-u2EM57i" tvg-id="DEUTSCHE.WELLE.(EN).tr" tvg-chno="147",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=111kVwe4AF-kI6QYcwj3TcG2wLK-ZfwHj" tvg-id="NHK.WORLD.tr" tvg-chno="148",NHK World-JPN
+https://dash3.antik.sk/live/test_nhk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1xaxTQcD6BtGRI1QK1DJtybf1wtkaJ_t1" tvg-id="CGTN.tr" tvg-chno="149",CGTN
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JXkSJzJxTRawoOyKzCTQZiz9zNi3OEuX" tvg-id="SAUDI.QURAN.tr" tvg-chno="154",Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_Q4zV3Ex6d0B5YM1ZkwqLDbDgvSEieXR" tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-chno="155",Sunna TV
@@ -203,28 +229,7 @@ https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1O4LR-ztnbVPio142Ayzwl5OkZdtAlR2H" tvg-id="CNBC.de" tvg-chno="300",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-logo="https://capriole.com/wp-content/uploads/2025/10/bloomberg.png" tvg-id="BLOOMBERG.tr" tvg-chno="301",Bloomberg
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/anews/site/v2/i/a-news-logo.png" tvg-id="A.NEWS.HD.tr" tvg-chno="302",A News
-https://trn03.tulix.tv/gt-anews/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1vsX72zzJRz_sJMfqGHbkeZVDHyMfq7kg=w2048-h2048#.png" tvg-id="BBC.World.News.de" tvg-chno="303",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Bwd_xqJHfdRsdcZ2TrG0Yuh5Hburyt1p" tvg-id="TRT.WORLD.HD.tr" tvg-chno="304",TRT World
-https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/CNN_International_old.svg/revision/latest/scale-to-width-down/250?cb=20251104001134" tvg-id="CNN.INTERNATIONAL.tr" tvg-chno="305",CNN International
-https://trn03.tulix.tv/CNN-International/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11dYrNPDZW6_8y5rS_f31L3JDlDS_4Ja1" tvg-id="AL.JAZEERA.INTERNATIONAL.tr" tvg-chno="306",Al Jazeera International
-https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11CaTdAEJov2iBQaXVp29KzZjETuIHe8i" tvg-id="EURONEWS.tr" tvg-chno="307",EuroNews English
-https://dash3.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17nNdbx9eHHWPxaBju8AuS20ds7FAd9Ql" tvg-id="FRANCE.24.HD-EN.tr" tvg-chno="308",France 24 English
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1BgogVmqtLR2Ptgvwrv5uZljm-u2EM57i" tvg-id="DEUTSCHE.WELLE.(EN).tr" tvg-chno="309",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=111kVwe4AF-kI6QYcwj3TcG2wLK-ZfwHj" tvg-id="NHK.WORLD.tr" tvg-chno="310",NHK World-JPN
-https://dash3.antik.sk/live/test_nhk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1xaxTQcD6BtGRI1QK1DJtybf1wtkaJ_t1" tvg-id="CGTN.tr" tvg-chno="311",CGTN
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1gA1eG2-zaWAAcQqrJwyG0l67JKa7NxSP" tvg-id="FRANCE.24.HD-FR.tr" tvg-chno="318",France 24 Français
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2016/06/al_jazeera_arabic-logo_brandlogos.net_vbnaz.png" tvg-id="AL.JAZEERA.ARABIC.tr" tvg-chno="319",Al Jazeera Channel
@@ -249,10 +254,7 @@ https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="349",Arte Deutsch
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WYijg4ZTn-1kMPvYyFKJ3yD94JVd3an4" tvg-id="TV5.Monde.de" tvg-chno="350",TV5Monde
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=18eyv5hzdwzIM59hleOkqlByfWlPonF7v" tvg-id="" tvg-chno="351",Rai Uno
-https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1zUIKKJj4CxMNeSg-xj0gJO25ytEacIMp" tvg-id="" tvg-chno="352",Rai Due
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PMaWTXYX_ptr80J4_ljzZmproJKTcwJ9" tvg-id="" tvg-chno="353",Rai Tre
