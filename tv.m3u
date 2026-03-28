@@ -101,10 +101,18 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" tvg-id="FBTV.tr" tvg-chno="76",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="" tvg-chno="83",SporSmart
-http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246003
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="TİVİBUSPOR1.tr" tvg-chno="84",Tivibu Spor 1
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="TİVİBUSPOR1.tr" tvg-chno="77",Tivibu Spor 1
 https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="TİVİBUSPOR2.tr" tvg-chno="78",Tivibu Spor 2
+https://mss.ayakkabiparti.lol/t2/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="TİVİBUSPOR3.tr" tvg-chno="79",Tivibu Spor 3
+https://mss.ayakkabiparti.lol/t3/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="TİVİBUSPOR4.tr" tvg-chno="80",Tivibu Spor 4
+https://mss.ayakkabiparti.lol/t4/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="" tvg-chno="81",SporSmart
+http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246003
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="" tvg-chno="82",SporSmart 2
+https://mss.ayakkabiparti.lol/smart2/index.m3u8
 #EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sports_yeni_HABER_250x150_.png" tvg-id="beIN.SPORTS.HABER.HD.tr" tvg-chno="85",beIN Sports Haber
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1twBcD3uoVn69--0lOafxhFF7o5ETssLf" tvg-id="TRT.SPOR.HD.tr" tvg-chno="86",TRT Spor
@@ -155,9 +163,15 @@ https://saran-live.ercdn.net/fx/index.m3u8
 http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246015
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1b13H_ZRtlai6wiWU77mkG2rxoDhahCOo" tvg-id="MovieSmartTurk.tr" tvg-chno="117",MovieSmart Türk
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/mvturk/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tqnipsIWWf3KwydON_Y0UXrkTaXCHuPT" tvg-id="EPG_ID" tvg-chno="118",FilmScreen
+#EXTINF:-1 tvg-logo="https://img-tlctv.mncdn.com/logo.png?v=1.1" tvg-id="SİNEMA.TV.HD.tr" tvg-chno="121",Sinema TV
+https://mss.ayakkabiparti.lol/sinema/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
+#EXTINF:-1 tvg-logo="https://img-tlctv.mncdn.com/logo.png?v=1.1" tvg-id="SİNEMA.AKSİYON.HD.tr" tvg-chno="123",Sinema Aksiyon
+https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
+#EXTINF:-1 tvg-logo="https://img-tlctv.mncdn.com/logo.png?v=1.1" tvg-id="SİNEMA.KOMEDİ.HD.tr" tvg-chno="125",Sinema Komedi
+https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tqnipsIWWf3KwydON_Y0UXrkTaXCHuPT" tvg-id="EPG_ID" tvg-chno="128",FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="EPG_ID" tvg-chno="119",tabii TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="EPG_ID" tvg-chno="129",tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=18eyv5hzdwzIM59hleOkqlByfWlPonF7v" tvg-id="" tvg-chno="130",Rai Uno
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
@@ -213,18 +227,22 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/disneyjr_A457DDD2-0239-4CAC-BD5B-B1F5416F479F.png" tvg-id="DisneyJunior.tr" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="" tvg-chno="169",Cartoon Network
+https://mss.ayakkabiparti.lol/cartoonnetwork/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Minika_go_new.png/revision/latest?cb=20200518122805" tvg-id="MİNİKA.GO.tr" tvg-chno="170",minikaGO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/MinikaCocuklogo.png" tvg-id="MİNİKA.ÇOCUK.tr" tvg-chno="171",minikaÇocuk
 https://streams.uzunmuhalefet.com/stream/507ebfe3-0c78-4804-b3be-637e9b45f5a0.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="" tvg-chno="180",BBC Earth
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=314485&extension=ts
+#EXTINF:-1 tvg-logo="https://www.dmax.com.tr/img/logo.svg" tvg-id="TARIHTV.tr" tvg-chno="180",Tarih TV
+https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" tvg-chno="181",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="" tvg-chno="183",BBC Earth
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=314485&extension=ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" tvg-id="NatGeoWild.tr" tvg-chno="185",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dmax.com.tr/img/logo.svg" tvg-id="TARIHTV.tr" tvg-chno="186",Tarih TV
-https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dmax.com.tr/img/logo.svg" tvg-id="DISCOVERY.ID.tr" tvg-chno="186",Investigation Discovery
+https://mss.ayakkabiparti.lol/discs/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dmax.com.tr/img/logo.svg" tvg-id="DMAX.tr" tvg-chno="187",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 #EXTINF:-1 tvg-logo="https://www.dmax.com.tr/img/logo.svg" tvg-id="" tvg-chno="188",Love Nature
