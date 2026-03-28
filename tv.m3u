@@ -37,7 +37,7 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.yirmidort.tv/assets/header/logoWhite.png" tvg-id="24.TV.tr" tvg-chno="40",24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838399.png" tvg-id="NTV.HD.tr" tvg-chno="41",NTV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15lVAi1_UHt5enamKj38KwSufVblXB1kV" tvg-id="NTV.HD.tr" tvg-chno="41",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801838363.png" tvg-id="CNN.TÜRK.HD.tr" tvg-chno="42",CNN Türk
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
