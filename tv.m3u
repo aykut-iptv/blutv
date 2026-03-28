@@ -83,9 +83,9 @@ https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17kHPx2CcotXR4FAOL9hfikoCVwddogqZ" tvg-id="TRT2.tr" tvg-chno="66",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801838732.png" tvg-id="BENGÜ.TÜRK.tr" tvg-chno="67",BengüTürk
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YqNYdGMb3bbWts1tQANHFWOpNSBpz_gX" tvg-id="BENGÜ.TÜRK.tr" tvg-chno="67",BengüTürk
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838546.png" tvg-id="AKİT.TV.tr" tvg-chno="68",Akit TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18-JymFbjseZ8GYA8MUvaQeNm1mNqYbLW" tvg-id="AKİT.TV.tr" tvg-chno="68",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1URJZszrsD218BLYBcJZnD4BYbXE1MtxW" tvg-id="EPG_ID" tvg-chno="69",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
