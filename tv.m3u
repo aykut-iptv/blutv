@@ -193,7 +193,7 @@ https://trn03.tulix.tv/gt-anews/index.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Bwd_xqJHfdRsdcZ2TrG0Yuh5Hburyt1p" tvg-id="TRT.WORLD.HD.tr" tvg-chno="142",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/CNN_International_old.svg/revision/latest/scale-to-width-down/250?cb=20251104001134" tvg-id="CNN.INTERNATIONAL.tr" tvg-chno="143",CNN International
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Dj5TWu641Vfg2FDLp-mXLnkJEP_hBnfE" tvg-id="CNN.INTERNATIONAL.tr" tvg-chno="143",CNN International
 https://trn03.tulix.tv/CNN-International/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11dYrNPDZW6_8y5rS_f31L3JDlDS_4Ja1" tvg-id="AL.JAZEERA.INTERNATIONAL.tr" tvg-chno="144",Al Jazeera International
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
@@ -211,9 +211,9 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18gBA2WQh0swl4j6Zw0_MRTG-ZsKI-Rbl" tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-chno="155",Sunna TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/vavtv/site/v2/c/i/vavtv-logo.svg" tvg-id="VAVTV.tr" tvg-chno="156",Vav TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1226JeQyuRi3NQplr-WUgmBjc315JMIJz" tvg-id="VAVTV.tr" tvg-chno="156",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://semerkandtv.com.tr/Content/img/logo.png" tvg-id="EPG_ID" tvg-chno="157",Semerkand TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1bt_ViNbAE79yimN-pT5Ylzvj2u7sZEIk" tvg-id="EPG_ID" tvg-chno="157",Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.diyanet.tv/Diyanet-Theme/images/diyanet-alt-logo.png" tvg-id="DiyanetTV.tr" tvg-chno="158",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
