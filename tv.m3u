@@ -265,14 +265,24 @@ https://ssldyg.radyotvonline.com/best/bestfm.stream/chunklist_w320028151.m3u8
 https://live.powerapp.com.tr/powerturk/abr/powerturk/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="411",Kral Pop
 https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="412",Slow Türk
+https://radyo.duhnet.tv/ak_dtvh_slowturk
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="413",Radyo 7
+https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="414",Show Radyo
 https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="415",Kral FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="416",Radyo Viva
 https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="417",MydonoseTürk
+https://25553.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="418",Radyo D
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbhLksEeiBEwf3b2fZ8E6c6a6AkQhXRZdcg&s" tvg-id="EPG_ID" tvg-chno="419",NR1 Türk FM
 https://eustr75.mediatriple.net/Number1Media/00_Number1_Turk_FM.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbhLksEeiBEwf3b2fZ8E6c6a6AkQhXRZdcg&s" tvg-id="EPG_ID" tvg-chno="420",FenomenTürk
+https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/2/logos/android_default_logo.png?v=020624104046" tvg-id="EPG_ID" tvg-chno="423",Metro FM
 https://28993.live.streamtheworld.com/METRO_FM128AAC.aac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/3/logos/android_default_logo.png?v=041022033036" tvg-id="EPG_ID" tvg-chno="424",Joy FM
@@ -285,5 +295,7 @@ https://27913.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac
 https://live.powerapp.com.tr/powerfmadver/abr/powerfmadver/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5hTFqSBotUDDcDvOj2Tr1Aqi_BQwQ0IciDQ&s" tvg-id="EPG_ID" tvg-chno="431",NR1 FM
 https://eustr75.mediatriple.net/Number1Media/01_Number1Fm.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5hTFqSBotUDDcDvOj2Tr1Aqi_BQwQ0IciDQ&s" tvg-id="EPG_ID" tvg-chno="432",Radyo Fenomen
+https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-id="EPG_ID" tvg-chno="433",Stingray Naturescape
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
