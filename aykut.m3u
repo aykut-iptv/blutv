@@ -230,7 +230,8 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" group-title="TR Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
-
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" group-title="TR Belgesel",Discovery Channel
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=10740&extension=ts
 #EXTINF:-1 tvg-id="CGTN.9.DOCUMENTARY.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="TR Belgesel",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1IHVDMyrvXYPxEysiUrcjXKqRUwpkq2X0" group-title="TR Belgesel",DocuBox
