@@ -305,7 +305,7 @@ https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8 - 
 #EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="436",Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-id="EPG_ID" tvg-chno="437",Stingray Djazz
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingraydjazz/logos/channels-logo-white._CB581386909_.png" tvg-id="EPG_ID" tvg-chno="437",Stingray Djazz
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="438",Hit List
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991117
@@ -341,8 +341,8 @@ https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="454",Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-id="EPG_ID" tvg-chno="455",Stingray Classica
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingrayclassica/logos/3p-logo._CB485943535_.png" tvg-id="EPG_ID" tvg-chno="455",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-id="EPG_ID" tvg-chno="456",MovieMusic by Stingray
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa28301e1-00c2-4783-9a44-1e822be96cb9%2F11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png" tvg-id="EPG_ID" tvg-chno="456",MovieMusic by Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
