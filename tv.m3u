@@ -223,7 +223,7 @@ http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=314485&extension
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" tvg-id="NatGeoWild.tr" tvg-chno="185",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dmax.com.tr/img/logo.svg" tvg-id="DMAX.HD.tr" tvg-chno="187",DMAX
+#EXTINF:-1 tvg-logo="https://www.dmax.com.tr/img/logo.svg" tvg-id="DMAX.tr" tvg-chno="187",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1EIbviB64pv2YBWFfgp5aHZaoUgahgSwE" tvg-id="" tvg-chno="189",Yaban TV
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
