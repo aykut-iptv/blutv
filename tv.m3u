@@ -39,7 +39,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15lVAi1_UHt5enamKj38KwSufVblXB1kV" tvg-id="NTV.HD.tr" tvg-chno="41",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801838363.png" tvg-id="CNN.TÜRK.HD.tr" tvg-chno="42",CNN Türk
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" tvg-id="CNN.TÜRK.HD.tr" tvg-chno="42",CNN Türk
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" tvg-id="A.PARA.tr" tvg-chno="43",A Para
 https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
