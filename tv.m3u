@@ -214,7 +214,7 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1226JeQyuRi3NQplr-WUgmBjc315JMIJz" tvg-id="VAVTV.tr" tvg-chno="156",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1bt_ViNbAE79yimN-pT5Ylzvj2u7sZEIk" tvg-id="EPG_ID" tvg-chno="157",Semerkand TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
 #EXTINF:-1 tvg-logo="https://www.diyanet.tv/Diyanet-Theme/images/diyanet-alt-logo.png" tvg-id="DiyanetTV.tr" tvg-chno="158",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.trtdiyanetcocuk.net.tr/logo.svg" tvg-id="EPG_ID" tvg-chno="159",TRT Diyanet Çocuk
