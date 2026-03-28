@@ -23,11 +23,11 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 https://streams.uzunmuhalefet.com/stream/b4f7a5e9-fcae-4258-83eb-cc37b6a68696.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1d1FHiWWYXK-bWywpXp06rBw-VgFyoebl" tvg-id="TRT.HABER.HD.tr" tvg-chno="33",TRT Haber
 http://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" tvg-id="KANAL.7.HD.tr" tvg-chno="34",Kanal 7
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1eLnZ5_2XnEasXQad3TUea-nXx-8anIw7" tvg-id="KANAL.7.HD.tr" tvg-chno="34",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" tvg-id="A2.HD.tr" tvg-chno="35",A2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gWtFLz5FTsqkLzIBm525B_uoBMrO3MdJ" tvg-id="A2.HD.tr" tvg-chno="35",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-logo="https://beyaztv.com.tr/images/logo.png" tvg-id="BEYAZ.TV.HD.tr" tvg-chno="36",Beyaz TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15qQosGMf0k0Nz4ZdRTlakWSTDLwZv_Di" tvg-id="BEYAZ.TV.HD.tr" tvg-chno="36",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ogOLMxAOiA0dczkOkELkBuyMv5GHmCJP" tvg-id="EPG_ID" tvg-chno="37",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
@@ -43,7 +43,7 @@ https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Tg-d_h0t1MppT_bmviODXnSEh7ixUyt9" tvg-id="A.PARA.tr" tvg-chno="43",A Para
 https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
-#EXTINF:-1 tvg-logo="https://im.haberturk.com/assets/images/haberturk-tv-logo.png" tvg-id="HABERTÜRK.tr" tvg-chno="44",HaberTürk
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12nZd-4xqGfDBGlsr5IVZuFpyE2tJtixr" tvg-id="HABERTÜRK.tr" tvg-chno="44",HaberTürk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1PGpecOWCDSpUY-RqSwyYjnBRjtlgRxAo" tvg-id="TGRT.HABER.tr" tvg-chno="45",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
