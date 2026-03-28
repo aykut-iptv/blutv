@@ -265,15 +265,15 @@ https://ssldyg.radyotvonline.com/best/bestfm.stream/chunklist_w320028151.m3u8
 https://live.powerapp.com.tr/powerturk/abr/powerturk/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdkbEAOb3HvSIgS3dP_y-aMNhU0s7l6XOJKQ&s" tvg-id="EPG_ID" tvg-chno="411",Kral Pop
 https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s107655/images/logog.png?t=636444" tvg-id="EPG_ID" tvg-chno="412",Slow Türk
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zigNezQwbOiksaYwf5v03QdMUa4hNcFUQt1ERc0fCwwHTakB0TFosSz23Mhej0QPmGQ" tvg-id="EPG_ID" tvg-chno="412",Slow Türk
 https://radyo.duhnet.tv/ak_dtvh_slowturk
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s8559/images/logog.jpg?t=163465" tvg-id="EPG_ID" tvg-chno="413",Radyo 7
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SEG2Xr2wtL_ay_tW8sMQx2GRgf8p5M7WYUBnm-70mBPy2-A98q_t3SYTrR0B55gxQg" tvg-id="EPG_ID" tvg-chno="413",Radyo 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s14244/images/logog.jpg" tvg-id="EPG_ID" tvg-chno="414",Show Radyo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e7/20100214152849%21Showradyo.jpg" tvg-id="EPG_ID" tvg-chno="414",Show Radyo
 https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1EhA3kMUinjVGt7egGScm2BbJ9PJqlgurA&s" tvg-id="EPG_ID" tvg-chno="415",Kral FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s16395/images/logog.jpg" tvg-id="EPG_ID" tvg-chno="416",Radyo Viva
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlwW8eFYRFH3HDfToBClD-7x4DegeUzuPWQ&s" tvg-id="EPG_ID" tvg-chno="416",Radyo Viva
 https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/19/logos/android_default_logo.png?v=041022033432" tvg-id="EPG_ID" tvg-chno="417",MydonoseTürk
 https://25553.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac
