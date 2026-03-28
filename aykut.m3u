@@ -112,7 +112,7 @@ https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="TRTSPORYILDIZ.tr" tvg-logo="https://drive.google.com/uc?export=view&id=1xFr9KkQuP2bVviL8MTk0XBy4PeB4wHFO" group-title="TR Spor",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OqmLQfkJQdFc42bFVnJTNUIbWel4YtLg" group-title="TR Spor",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+https://live.sportstv.saatteknoloji.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/162e1e_040f6479dc6a49cd8644a2f0eba086e0~mv2.png/v1/fill/w_102,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" group-title="TR Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" group-title="TR Spor",tabii Spor
