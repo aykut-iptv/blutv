@@ -77,6 +77,8 @@ https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.krttv.com.tr/storage/files/images/2024/04/17/logo-at-2x-3j7l.png" tvg-id="KRTTV.tr" tvg-chno="62",KRT TV
 https://trn03.tulix.tv/gt-krt--tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nqZpXxXw7j185TSvYotlPuHyRw9ww9vp" tvg-id="" tvg-chno="63",BizimEv TV
+https://live.yt-hls.workers.dev/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1tOMKDXxUION9-PN6aca1o4ItFzc91tY-" tvg-id="EPG_ID" tvg-chno="64",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/G/N-/246165/logo.png?v=638671715430862698" tvg-id="EPG_ID" tvg-chno="65",Show Max
@@ -155,8 +157,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img-tlctv.mncdn.com/logo.png?v=1.1" tvg-id="TLC.HD.tr" tvg-chno="112",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
-#EXTINF:-1 tvg-logo="https://img-tlctv.mncdn.com/logo.png?v=1.1" tvg-id="" tvg-chno="113",BizimEv TV
-https://live.yt-hls.workers.dev/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" tvg-chno="115",FX
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ArUjJ1FUzHZ-q4FnXwuc3CulwrNT0yvc" tvg-id="DiziSmartMax.tr" tvg-chno="116",DiziSmart Max
@@ -207,9 +207,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://dash3.antik.sk/live/test_nhk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1xaxTQcD6BtGRI1QK1DJtybf1wtkaJ_t1" tvg-id="CGTN.tr" tvg-chno="149",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JXkSJzJxTRawoOyKzCTQZiz9zNi3OEuX" tvg-id="SAUDI.QURAN.tr" tvg-chno="154",Quran TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1noIG9jJpEuT-Fkwyo7aqV8JEzi-Mk9mF" tvg-id="SAUDI.QURAN.tr" tvg-chno="154",Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_Q4zV3Ex6d0B5YM1ZkwqLDbDgvSEieXR" tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-chno="155",Sunna TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18gBA2WQh0swl4j6Zw0_MRTG-ZsKI-Rbl" tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-chno="155",Sunna TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/vavtv/site/v2/c/i/vavtv-logo.svg" tvg-id="VAVTV.tr" tvg-chno="156",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
