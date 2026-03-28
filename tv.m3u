@@ -29,9 +29,9 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-logo="https://beyaztv.com.tr/images/logo.png" tvg-id="BEYAZ.TV.HD.tr" tvg-chno="36",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839195.png" tvg-id="EPG_ID" tvg-chno="37",TV 100
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ogOLMxAOiA0dczkOkELkBuyMv5GHmCJP" tvg-id="EPG_ID" tvg-chno="37",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
-#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839331.png" tvg-id="ÜLKE.TV.HD.tr" tvg-chno="38",Ülke TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gWkpir1Bd4tDrnm3v1jhxAwWEQyIe6UK" tvg-id="ÜLKE.TV.HD.tr" tvg-chno="38",Ülke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839096.png" tvg-id="TVNET.HD.tr" tvg-chno="39",TVNet
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
