@@ -243,6 +243,8 @@ https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1jUw8oJuQcA4NIXpEZIy5PRxTymnzF8AB" tvg-id="" tvg-chno="252",BRT 2
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/1/logos/android_default_logo.png?v=301024040744" tvg-id="EPG_ID" tvg-chno="401",Alem FM
+https://alemfm.radyotvonline.net/alemfmaac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/1/logos/android_default_logo.png?v=301024040744" tvg-id="EPG_ID" tvg-chno="402",Süper FM
 https://27823.live.streamtheworld.com/SUPER_FM128AAC.aac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/4/logos/android_default_logo.png?v=290425114642" tvg-id="EPG_ID" tvg-chno="403",JoyTürk FM
@@ -259,7 +261,7 @@ https://28573.live.streamtheworld.com/JOY_FM128AAC.aac
 https://22593.live.streamtheworld.com/VIRGIN_RADIO128AAC.aac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/5/logos/android_default_logo.png?v=041022033737" tvg-id="EPG_ID" tvg-chno="426",Radio Mydonose
 https://27913.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_37.png?v=10" tvg-id="EPG_ID" tvg-chno="430",Power FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2TO9infI1KSKbkET_gnkkhbqa_XlZT_jNA&s" tvg-id="EPG_ID" tvg-chno="430",Power FM
 https://live.powerapp.com.tr/powerfmadver/abr/powerfmadver/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5hTFqSBotUDDcDvOj2Tr1Aqi_BQwQ0IciDQ&s" tvg-id="EPG_ID" tvg-chno="431",NR1 FM
 https://eustr75.mediatriple.net/Number1Media/01_Number1Fm.stream/playlist.m3u8
