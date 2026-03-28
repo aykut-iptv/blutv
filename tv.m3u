@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839061.png" tvg-id="SHOW.TV.HD.tr" tvg-chno="22",Show TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/42s3t41616613172.png" tvg-id="TRT.1.HD.tr" tvg-chno="23",TRT 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Sy0jDG8ieG6zW1XUPMUNeYBWI8BkYBBv" tvg-id="TRT.1.HD.tr" tvg-chno="23",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/kurtlar-vadisi/images/c/ca/Kanal_D_logo.svg/revision/latest/thumbnail/width/360/height/360?cb=20240501101427&path-prefix=tr" tvg-id="KANAL.D.HD.tr" tvg-chno="24",Kanal D
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vOEdhjNpz4NGaLLDP_fQB38Fmi9q0_bV" tvg-id="KANAL.D.HD.tr" tvg-chno="24",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" tvg-id="ATV.HD.tr" tvg-chno="25",ATV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=184rl2z2h__PRA9Ky-jnUxolCsuG9fCmi" tvg-id="ATV.HD.tr" tvg-chno="25",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 tvg-logo="https://tpsbayxekmes.merlincdn.net//img/logos/logo.svg" tvg-id="FOX.HD.tr" tvg-chno="26",NOW
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1kTvUDVd5dC_OfwWCoPwf43fvQZEoK6z0" tvg-id="FOX.HD.tr" tvg-chno="26",NOW
 https://yakala.atakann.workers.dev/?url=https://www.nowtv.com.tr/canli-yayin&ext=m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1rQDPzvVLmq4NB82ppMXVYXfdGG-kwSlL" tvg-id="STAR.TV.HD.tr" tvg-chno="27",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3
