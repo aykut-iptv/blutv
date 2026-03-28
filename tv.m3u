@@ -269,7 +269,7 @@ https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
 https://radyo.duhnet.tv/ak_dtvh_slowturk
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SEG2Xr2wtL_ay_tW8sMQx2GRgf8p5M7WYUBnm-70mBPy2-A98q_t3SYTrR0B55gxQg" tvg-id="EPG_ID" tvg-chno="413",Radyo 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e7/20100214152849%21Showradyo.jpg" tvg-id="EPG_ID" tvg-chno="414",Show Radyo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhU0kbXhLirDNlejFytrtPmJDSn-tS-CgcA&s" tvg-id="EPG_ID" tvg-chno="414",Show Radyo
 https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1EhA3kMUinjVGt7egGScm2BbJ9PJqlgurA&s" tvg-id="EPG_ID" tvg-chno="415",Kral FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
@@ -299,9 +299,9 @@ https://eustr75.mediatriple.net/Number1Media/01_Number1Fm.stream/playlist.m3u8
 https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-id="EPG_ID" tvg-chno="433",Stingray Naturescape
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
-#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-id="EPG_ID" tvg-chno="434",Easy Listening
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="434",Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-id="EPG_ID" tvg-chno="435",The Spa
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="435",The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8 - 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-id="EPG_ID" tvg-chno="436",Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
