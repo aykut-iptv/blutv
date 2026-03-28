@@ -249,6 +249,14 @@ https://alemfm.radyotvonline.net/alemfmaac
 https://27823.live.streamtheworld.com/SUPER_FM128AAC.aac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/4/logos/android_default_logo.png?v=290425114642" tvg-id="EPG_ID" tvg-chno="403",JoyTürk FM
 https://28513.live.streamtheworld.com/JOY_TURK128AAC.aac
+#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/9d472dd1-a769-4335-91bf-245c5f037c26.jpg" tvg-id="EPG_ID" tvg-chno="404",TRT Nağme
+https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/be1b7390-cd1d-43cd-9f0b-86f50a4db873.jpg" tvg-id="EPG_ID" tvg-chno="405",TRT Türkü
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/e27e1421-5735-40c1-affb-4101dc73a305.jpg" tvg-id="EPG_ID" tvg-chno="406",TRT FM
+https://rd-trtfm.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrxUmZjGqyPmlDEhB8xsrcVtiDZvwOvHIGsA&s" tvg-id="EPG_ID" tvg-chno="407",TRT Radyo 3
+https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="410",PowerTürk FM
 https://live.powerapp.com.tr/powerturk/abr/powerturk/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbhLksEeiBEwf3b2fZ8E6c6a6AkQhXRZdcg&s" tvg-id="EPG_ID" tvg-chno="419",NR1 Türk FM
