@@ -11,15 +11,15 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 https://yakala.atakann.workers.dev/?url=https://www.nowtv.com.tr/canli-yayin&ext=m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1rQDPzvVLmq4NB82ppMXVYXfdGG-kwSlL" tvg-id="STAR.TV.HD.tr" tvg-chno="27",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3
-#EXTINF:-1 tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png" tvg-id="TV8.tr" tvg-chno="28",TV8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1NqSngobOl1mdkDK8KiJml9OmhI68yYBZ" tvg-id="TV8.tr" tvg-chno="28",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/360-tr.png/revision/latest?cb=20220108145523" tvg-id="360.HD.tr" tvg-chno="29",360
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UJRxVbZZ8ioebO6PN7EjpEGDWUWOl03i" tvg-id="360.HD.tr" tvg-chno="29",360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://s.cnbce.com/dist/images/logo.png?v=1" tvg-id="EPG_ID" tvg-chno="30",CNBC-e
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1MrNjdIU_AQbMHohSYHs-rAw9B6bTmJ2w" tvg-id="EPG_ID" tvg-chno="30",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 tvg-logo="https://public.flourish.studio/uploads/f4c8dc45-ee56-403e-a5be-225565ca3a9e.png" tvg-id="BLOOMBERG.HT.HD.tr" tvg-chno="31",Bloomberg HT
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nv2k6uMzLcNGePEqkrtjO_pEm49noMKV" tvg-id="BLOOMBERG.HT.HD.tr" tvg-chno="31",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-logo="https://st01.ahaber.com.tr/images/logo.png" tvg-id="A.HABER.HD.tr" tvg-chno="32",A Haber
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gmYhwFUmP0Hq_p5uAbEUq0HREiJwTOrv" tvg-id="A.HABER.HD.tr" tvg-chno="32",A Haber
 https://streams.uzunmuhalefet.com/stream/b4f7a5e9-fcae-4258-83eb-cc37b6a68696.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1d1FHiWWYXK-bWywpXp06rBw-VgFyoebl" tvg-id="TRT.HABER.HD.tr" tvg-chno="33",TRT Haber
 http://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
