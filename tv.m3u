@@ -257,8 +257,20 @@ https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
 https://rd-trtfm.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrxUmZjGqyPmlDEhB8xsrcVtiDZvwOvHIGsA&s" tvg-id="EPG_ID" tvg-chno="407",TRT Radyo 3
 https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrxUmZjGqyPmlDEhB8xsrcVtiDZvwOvHIGsA&s" tvg-id="EPG_ID" tvg-chno="408",Kafa Radyo
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrxUmZjGqyPmlDEhB8xsrcVtiDZvwOvHIGsA&s" tvg-id="EPG_ID" tvg-chno="409",Best FM
+https://ssldyg.radyotvonline.com/best/bestfm.stream/chunklist_w320028151.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="410",PowerTürk FM
 https://live.powerapp.com.tr/powerturk/abr/powerturk/256/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="411",Kral Pop
+https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="414",Show Radyo
+https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="415",Kral FM
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="416",Radyo Viva
+https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbhLksEeiBEwf3b2fZ8E6c6a6AkQhXRZdcg&s" tvg-id="EPG_ID" tvg-chno="419",NR1 Türk FM
 https://eustr75.mediatriple.net/Number1Media/00_Number1_Turk_FM.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/2/logos/android_default_logo.png?v=020624104046" tvg-id="EPG_ID" tvg-chno="423",Metro FM
