@@ -103,17 +103,17 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" tvg-id="FBTV.tr" tvg-chno="76",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="TİVİBUSPOR1.tr" tvg-chno="77",Tivibu Spor 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1fbF7kl2WtsURL4GWUar5-OergzU3-W1Z" tvg-id="TİVİBUSPOR1.tr" tvg-chno="77",Tivibu Spor 1
 https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="TİVİBUSPOR2.tr" tvg-chno="78",Tivibu Spor 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1BS22BfJBFi6-GjeoWJpRlwzcYL_-TAFm" tvg-id="TİVİBUSPOR2.tr" tvg-chno="78",Tivibu Spor 2
 https://mss.ayakkabiparti.lol/t2/index.m3u8
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="TİVİBUSPOR3.tr" tvg-chno="79",Tivibu Spor 3
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OX0cGnuC0pyu1u8z-RK1Je6XUG5w9po7" tvg-id="TİVİBUSPOR3.tr" tvg-chno="79",Tivibu Spor 3
 https://mss.ayakkabiparti.lol/t3/index.m3u8
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="TİVİBUSPOR4.tr" tvg-chno="80",Tivibu Spor 4
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1XFgbiQpKoA4DLuH_mBrk3wg3gaul12jF" tvg-id="TİVİBUSPOR4.tr" tvg-chno="80",Tivibu Spor 4
 https://mss.ayakkabiparti.lol/t4/index.m3u8
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="" tvg-chno="81",SporSmart
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" tvg-chno="81",SporSmart
 http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246003
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-id="" tvg-chno="82",SporSmart 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IDnk4YIhvu2mHYKezkjNOEkMVQJ_1l3W" tvg-id="" tvg-chno="82",SporSmart 2
 https://mss.ayakkabiparti.lol/smart2/index.m3u8
 #EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sports_yeni_HABER_250x150_.png" tvg-id="beIN.SPORTS.HABER.HD.tr" tvg-chno="85",beIN Sports Haber
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
