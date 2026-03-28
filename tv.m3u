@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839061.png" tvg-id="SHOW.TV.HD.tr" tvg-chno="21",test
+http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246015
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839061.png" tvg-id="SHOW.TV.HD.tr" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/42s3t41616613172.png" tvg-id="TRT.1.HD.tr" tvg-chno="23",TRT 1
