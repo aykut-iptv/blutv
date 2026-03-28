@@ -223,7 +223,7 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" tvg-id="TRT.BELGESEL.HD.tr" tvg-chno="190",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/X/zl/245964/logo.png?v=638671713691920788" tvg-id="DiscoveryChannel.tr" tvg-chno="191",Discovery Channel
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1GJDuT-JPW6_12zkHYKX2LjkYPRIvj3i6" tvg-id="DiscoveryChannel.tr" tvg-chno="191",Discovery Channel
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=10740&extension=ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Viasat_History_2014.svg/revision/latest/scale-to-width-down/150?cb=20210313083338" tvg-id="VIASAT.NATURE.-.HISTORY.tr" tvg-chno="192",Viasat History
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=170684&extension=ts
