@@ -65,7 +65,7 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1d1SzO0Ov1LRUX0Jctg1zfmSy1U-AB-v3" tvg-id="EPG_ID" tvg-chno="55",TV8Buçuk
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 tvg-logo="https://www.trtavaz.com.tr/Content/img/trt-avaz-logo.png" tvg-id="TRT.AVAZ.HD.tr" tvg-chno="57",TRT Avaz
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1iFRP9ref2umCB28F8hbYhGR6UhtaDUxw" tvg-id="TRT.AVAZ.HD.tr" tvg-chno="57",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" tvg-id="TRT.KURDİ.tr" tvg-chno="58",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
@@ -73,15 +73,15 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="EPG_ID" tvg-chno="60",SZC
 https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8
-#EXTINF:-1 tvg-logo="https://www.trtturk.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trtturk_logo.png" tvg-id="TRT.TÜRK.tr" tvg-chno="61",TRT Türk
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Ax_vjWiDY28v7zjSujoLymiZ-I5awaHK" tvg-id="TRT.TÜRK.tr" tvg-chno="61",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.krttv.com.tr/storage/files/images/2024/04/17/logo-at-2x-3j7l.png" tvg-id="KRTTV.tr" tvg-chno="62",KRT TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1iHdBGwOPnauZjBQCRdCtptMCTnc8cytl" tvg-id="KRTTV.tr" tvg-chno="62",KRT TV
 https://trn03.tulix.tv/gt-krt--tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nqZpXxXw7j185TSvYotlPuHyRw9ww9vp" tvg-id="" tvg-chno="63",BizimEv TV
 https://live.yt-hls.workers.dev/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1tOMKDXxUION9-PN6aca1o4ItFzc91tY-" tvg-id="EPG_ID" tvg-chno="64",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/G/N-/246165/logo.png?v=638671715430862698" tvg-id="EPG_ID" tvg-chno="65",Show Max
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sLG8ypag1LTO1hbj_tjUfinePU-DdB-a" tvg-id="EPG_ID" tvg-chno="65",Show Max
 https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17kHPx2CcotXR4FAOL9hfikoCVwddogqZ" tvg-id="TRT2.tr" tvg-chno="66",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
@@ -93,9 +93,9 @@ https://akittv-live.ercdn.net/akittv/akittv.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uOqGFPGbS2UyWxHiKugs8SFUD9HHnWFT" tvg-id="EPG_ID" tvg-chno="70",TYT Türk
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.bikanal.com/frontend/img/favicon.png" tvg-id="EPG_ID" tvg-chno="71",Bi Kanal
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Kiia19jwJ6-pX5ifthdYqzUzHuhA0w4O" tvg-id="EPG_ID" tvg-chno="71",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
-#EXTINF:-1 tvg-logo="https://i.dsmart.com.tr/kanallar/sifir-tv.png" tvg-id="EPG_ID" tvg-chno="72",Sıfır TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wd44lzRclTWd0X31BeMOB9ZjzecBgVos" tvg-id="EPG_ID" tvg-chno="72",Sıfır TV
 https://streams.uzunmuhalefet.com/stream/d1208b47-c4c7-48d2-8c1a-d36cdadf5467.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JLHxSyaZeVjbHxYgo8C8SjZUkH5UHYpq" tvg-id="EPG_ID" tvg-chno="73",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
@@ -123,7 +123,7 @@ https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1KedmjM_DFajZtSqXzLvVegEuVuHtDjFx" tvg-id="A.SPOR.tr" tvg-chno="88",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/162e1e_040f6479dc6a49cd8644a2f0eba086e0~mv2.png/v1/fill/w_102,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" tvg-id="EPG_ID" tvg-chno="89",TJK TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=14Q9-CtHHpaAmezbsFz6sGi3MOf8UQrvl" tvg-id="EPG_ID" tvg-chno="89",TJK TV
 https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OqmLQfkJQdFc42bFVnJTNUIbWel4YtLg" tvg-id="SPORTS.TV.tr" tvg-chno="90",Sports TV
 https://live.sportstv.saatteknoloji.com.tr/hls/low/sportstv_fhd/index.m3u8
@@ -139,9 +139,9 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1eJfQtdb2pR32UH_gzX_hNvJESfBWteZd" tvg-id="EPG_ID" tvg-chno="100",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/m-r/mezzoit/logos/3p-logo._CB588295793_.png" tvg-id="Mezzo.de" tvg-chno="102",Mezzo
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13tYebbRelsjOz169_K9oyvFLd633mgaF" tvg-id="Mezzo.de" tvg-chno="102",Mezzo
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
-#EXTINF:-1 tvg-logo="https://gauermusic.com/geekroom/wp-content/uploads/2014/02/360tunebox.png" tvg-id="EPG_ID" tvg-chno="103",360TuneBox
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nTVnP-Ar1vRICd8TM46Zjdb-HMzlM_Gr" tvg-id="EPG_ID" tvg-chno="103",360TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=10veMRAs5tQv5IRQXlJQQ7IBWzw8OUOtP" tvg-id="TRT.MÜZİK.tr" tvg-chno="104",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
@@ -151,11 +151,11 @@ https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?app=kralpoptv_web&ce=3
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cUayGoUNB45Vq6AyuPzKWzh_cvRh0lNM" tvg-id="TRACE.URBAN.HD.tr" tvg-chno="109",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=251,fit=crop/mxB7g4GZKbTeOB8R/logo-ftv-YyvZ7oR8EDSORnw4.png" tvg-id="Fashion.TV.de" tvg-chno="110",Fashion TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1pYaka6Uc-WsU3lCLXWjkWyXi4lTYFtR4" tvg-id="Fashion.TV.de" tvg-chno="110",Fashion TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1DoqM5YYsG58CmhaFd1kC-dyk-axtu8Ig" tvg-id="" tvg-chno="111",Infast
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img-tlctv.mncdn.com/logo.png?v=1.1" tvg-id="TLC.HD.tr" tvg-chno="112",TLC
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12aG27v5xMNk2FMbQ4qbjFhFoEbnoaD2Q" tvg-id="TLC.HD.tr" tvg-chno="112",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" tvg-chno="115",FX
 https://saran-live.ercdn.net/fx/index.m3u8
@@ -181,15 +181,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Q1J8AUNj7FqZevcfeJB_haOX6kTtuCk5" tvg-id="TRTArabi.tr" tvg-chno="133",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2016/06/al_jazeera_arabic-logo_brandlogos.net_vbnaz.png" tvg-id="AL.JAZEERA.ARABIC.tr" tvg-chno="134",Al Jazeera Channel
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Jdd7txogrijXcbNmedI4r9cOyct4ZkWZ" tvg-id="AL.JAZEERA.ARABIC.tr" tvg-chno="134",Al Jazeera Channel
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1O4LR-ztnbVPio142Ayzwl5OkZdtAlR2H" tvg-id="CNBC.de" tvg-chno="138",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PsEqL1EZkFa_G3tiDrZphtUkGtfdcOdK" tvg-id="BLOOMBERG.tr" tvg-chno="139",Bloomberg
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/anews/site/v2/i/a-news-logo.png" tvg-id="A.NEWS.HD.tr" tvg-chno="140",A News
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vbATr4qcvZMzlyhxBx7xpyHLr8nNhMUD" tvg-id="A.NEWS.HD.tr" tvg-chno="140",A News
 https://trn03.tulix.tv/gt-anews/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1vsX72zzJRz_sJMfqGHbkeZVDHyMfq7kg=w2048-h2048#.png" tvg-id="BBC.World.News.de" tvg-chno="141",BBC News
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vsX72zzJRz_sJMfqGHbkeZVDHyMfq7kg" tvg-id="BBC.World.News.de" tvg-chno="141",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Bwd_xqJHfdRsdcZ2TrG0Yuh5Hburyt1p" tvg-id="TRT.WORLD.HD.tr" tvg-chno="142",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
