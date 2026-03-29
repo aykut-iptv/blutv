@@ -413,11 +413,11 @@ https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 https://radio-trttsr.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1f3IShrCW7t765MGI5ptiSpRqCBTgt7M8" tvg-id="" tvg-chno="502",TRT Memleketim FM
 https://radio-trtmemleketimfm.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="503",Türkiye Polis Radyosu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQocEdmHCNogBeVKSuzIc5p9rWvTe3hYNklWQ&s" tvg-id="" tvg-chno="503",Türkiye Polis Radyosu
 https://m.egm.gov.tr:8093/;
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="504",Pal FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFYO9v9sg8GSxkBfxK2y_DlDE_qMq-Of2xw&s" tvg-id="" tvg-chno="504",Pal FM
 https://moondigitalmaster.radyotvonline.net/palfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="505",Pal Nostalji
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/55/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=0b4d2f&tr=w-1000%3A%2Cbg-0b4d2f&v=150121030000" tvg-id="" tvg-chno="505",Pal Nostalji
 https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/9/logos/android_default_logo.png?v=271025021315" tvg-id="" tvg-chno="508",JoyTürk Akustik
 https://25583.live.streamtheworld.com/JOYTURK_AKUSTIK128AAC.aac
