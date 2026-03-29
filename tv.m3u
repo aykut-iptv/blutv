@@ -403,14 +403,29 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa28301e1-00c2-4783-9a44-1e822be96cb9%2F11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png" tvg-id="EPG_ID" tvg-chno="457",MovieMusic by Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="500",TRT Radyo 1
+#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/ded6c190-5f9e-4de3-a5e5-868f789df1a5.jpg" tvg-id="" tvg-chno="500",TRT Radyo 1
 https://trt.radyotvonline.net/trt_1.aac
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="501",TRT TSR
+#EXTINF:-1 tvg-logo="" tvg-id="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/97b4cc85-0765-4010-8ba4-117e49b2b087.png" tvg-chno="501",TRT TSR
 https://radio-trttsr.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="502",TRT Memleketim FM
+#EXTINF:-1 tvg-logo="" tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX8cCB6_tEgVi6gZfdAsmD-UbZ9SE4hV50Wg&s" tvg-chno="502",TRT Memleketim FM
 https://radio-trtmemleketimfm.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="503",JoyTürk Akustik
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/9/logos/android_default_logo.png?v=271025021315" tvg-id="" tvg-chno="503",JoyTürk Akustik
 https://25583.live.streamtheworld.com/JOYTURK_AKUSTIK128AAC.aac
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="504",Pop90
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/41/logos/android_default_logo.png?v=041022033335" tvg-id="" tvg-chno="504",Pop90
 https://25503.live.streamtheworld.com/POP90128AAC.aac
-
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/13/logos/android_default_logo.png?v=041022033552" tvg-id="" tvg-chno="505",Efkâr
+https://22193.live.streamtheworld.com/EFKAR128AAC.aac
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/16/logos/android_default_logo.png?v=041022033529" tvg-id="" tvg-chno="506",Süper2
+https://25683.live.streamtheworld.com/SUPER2128AAC.aac
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/22/logos/android_default_logo.png?v=041022033414" tvg-id="" tvg-chno="507",JoyTürk Rock
+https://23623.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/356/logos/android_default_logo.png?v=231024025711" tvg-id="" tvg-chno="508",Popbesk
+https://27913.live.streamtheworld.com/POPBESK128AAC.aac
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/312/logos/android_default_logo.png?v=200123021802" tvg-id="" tvg-chno="509",Yol Arkadaşım
+https://25453.live.streamtheworld.com/YOL_ARKADASIM128AAC.aac
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/23/logos/android_default_logo.png?v=130423045323" tvg-id="" tvg-chno="510",Gönül Türküleri
+https://25453.live.streamtheworld.com/GONUL_TURKULERI128AAC.aac
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/8/logos/android_default_logo.png?v=041022033718" tvg-id="" tvg-chno="511",RetroTürk
+https://29103.live.streamtheworld.com/RETROTURK128AAC.aac
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/357/logos/android_default_logo.png?v=231024025559" tvg-id="" tvg-chno="513",Tüm Zamanların En İyileri
+https://27913.live.streamtheworld.com/GHOAT_TR128AAC.aac
