@@ -71,7 +71,7 @@ https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14mnH90Uc56_BHzc2gi-DJmJ0B5A2rthL" tvg-id="TURKHABERTV.tr" tvg-chno="59",TH Türk Haber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="EPG_ID" tvg-chno="60",SZC
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",SZC
 https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Ax_vjWiDY28v7zjSujoLymiZ-I5awaHK" tvg-id="TRT.TÜRK.tr" tvg-chno="61",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
@@ -241,7 +241,7 @@ https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="" tvg-chno="183",BBC Earth
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=314485&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wj9dufYesBbTbg2-hTlPyEDT7GgGm2pL" tvg-id="" tvg-chno="184",Love Nature
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wj9dufYesBbTbg2-hTlPyEDT7GgGm2pL" tvg-id="LOVE.NATURE.HD.tr" tvg-chno="184",Love Nature
 https://mss.ayakkabiparti.lol/lovenature/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UsloiMCuw66vrFyAL1lEFk_quikFrj4D" tvg-id="NatGeoWild.tr" tvg-chno="185",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
