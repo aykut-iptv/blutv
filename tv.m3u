@@ -150,7 +150,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cCbsQDiaNvwdyBJSsflFEsi3W6WFpAcp" tvg-id="EPG_ID" tvg-chno="105",Kral Pop TV
 https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?app=kralpoptv_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1l5Bgw1i5gbdYtZlSHWCcDnkYToG1wtGH" tvg-id="EPG_ID" tvg-chno="108",Dream Türk
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cUayGoUNB45Vq6AyuPzKWzh_cvRh0lNM" tvg-id="TRACE.URBAN.HD.tr" tvg-chno="109",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1pYaka6Uc-WsU3lCLXWjkWyXi4lTYFtR4" tvg-id="Fashion.TV.de" tvg-chno="110",Fashion TV
