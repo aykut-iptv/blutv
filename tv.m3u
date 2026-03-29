@@ -113,9 +113,11 @@ https://mss.ayakkabiparti.lol/t2/index.m3u8
 https://mss.ayakkabiparti.lol/t3/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1XFgbiQpKoA4DLuH_mBrk3wg3gaul12jF" tvg-id="TİVİBUSPOR4.tr" tvg-chno="80",Tivibu Spor 4
 https://mss.ayakkabiparti.lol/t4/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" tvg-chno="81",SporSmart
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" tvg-chno="81",S Sport
+https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" tvg-chno="83",SporSmart
 http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246003
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IDnk4YIhvu2mHYKezkjNOEkMVQJ_1l3W" tvg-id="" tvg-chno="82",SporSmart 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IDnk4YIhvu2mHYKezkjNOEkMVQJ_1l3W" tvg-id="" tvg-chno="84",SporSmart 2
 https://mss.ayakkabiparti.lol/smart2/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vGzs00VOq0aaaNB9niucjDrDEipf5INg" tvg-id="beIN.SPORTS.HABER.HD.tr" tvg-chno="85",beIN Sports Haber
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
