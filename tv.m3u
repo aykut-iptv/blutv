@@ -169,8 +169,12 @@ http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246015
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/mvturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" tvg-chno="122",Sinema TV
 https://mss.ayakkabiparti.lol/sinema/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="126",Sinema 2
+http://65.108.239.207:80/sinema2/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mmd3xM0U294nb16LDZ_YeLhgKrhzuxXU" tvg-id="SİNEMA.AKSİYON.tr" tvg-chno="123",Sinema Aksiyon
 https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="124",Sinema Aksiyon 2
+http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="124",Sinema Yerli
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L0DrXWhq35YDfaGuPcTDjoU6FNzyrdto" tvg-id="SİNEMA.KOMEDİ.tr" tvg-chno="125",Sinema Komedi
