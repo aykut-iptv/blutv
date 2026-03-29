@@ -100,7 +100,7 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 #EXTINF:-1 tvg-id="HTSPOR.tr" tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" group-title="TR Spor",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-id="FENERBAHÇE.TV.tr" tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" group-title="TR Spor",FB TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/chunklist.m3u8
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="beIN.SPORTS.HABER.HD.tr" tvg-logo="" group-title="TR Spor",beIN Sports Haber
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-id="TİVİBUSPOR.tr" tvg-logo="https://drive.google.com/uc?export=view&id=1OBdyl8daNtoPCkH0ZWstWsb5r5oyF0Ot" group-title="TR Spor",Tivibu Spor
