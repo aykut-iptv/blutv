@@ -79,7 +79,7 @@ https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
 https://trn03.tulix.tv/gt-krt--tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nqZpXxXw7j185TSvYotlPuHyRw9ww9vp" tvg-id="BİZİM.EV.TV.tr" tvg-chno="63",BizimEv TV
 https://live.yt-hls.workers.dev/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1tOMKDXxUION9-PN6aca1o4ItFzc91tY-" tvg-id="EPG_ID" tvg-chno="64",TV 4
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1tOMKDXxUION9-PN6aca1o4ItFzc91tY-" tvg-id="TV.4.tr" tvg-chno="64",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sLG8ypag1LTO1hbj_tjUfinePU-DdB-a" tvg-id="EPG_ID" tvg-chno="65",Show Max
 https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8
@@ -99,19 +99,19 @@ https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 https://streams.uzunmuhalefet.com/stream/d1208b47-c4c7-48d2-8c1a-d36cdadf5467.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JLHxSyaZeVjbHxYgo8C8SjZUkH5UHYpq" tvg-id="Ekol.Sports.tr" tvg-chno="73",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" tvg-id="" tvg-chno="74",tabii Spor
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" tvg-id="tabii.spor.tr" tvg-chno="74",tabii Spor
 http://live.tabitv.workers.dev/?ID=tabii%20spor
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" tvg-id="HTSPOR.tr" tvg-chno="75",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" tvg-id="FBTV.tr" tvg-chno="76",FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1fbF7kl2WtsURL4GWUar5-OergzU3-W1Z" tvg-id="TİVİBUSPOR1.tr" tvg-chno="77",Tivibu Spor 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1fbF7kl2WtsURL4GWUar5-OergzU3-W1Z" tvg-id="TİVİBU.SPOR.1.tr" tvg-chno="77",Tivibu Spor 1
 https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1BS22BfJBFi6-GjeoWJpRlwzcYL_-TAFm" tvg-id="TİVİBUSPOR2.tr" tvg-chno="78",Tivibu Spor 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1BS22BfJBFi6-GjeoWJpRlwzcYL_-TAFm" tvg-id="TİVİBU.SPOR.2.tr" tvg-chno="78",Tivibu Spor 2
 https://mss.ayakkabiparti.lol/t2/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OX0cGnuC0pyu1u8z-RK1Je6XUG5w9po7" tvg-id="TİVİBUSPOR3.tr" tvg-chno="79",Tivibu Spor 3
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OX0cGnuC0pyu1u8z-RK1Je6XUG5w9po7" tvg-id="TİVİBU.SPOR.3.tr" tvg-chno="79",Tivibu Spor 3
 https://mss.ayakkabiparti.lol/t3/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1XFgbiQpKoA4DLuH_mBrk3wg3gaul12jF" tvg-id="TİVİBUSPOR4.tr" tvg-chno="80",Tivibu Spor 4
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1XFgbiQpKoA4DLuH_mBrk3wg3gaul12jF" tvg-id="TİVİBU.SPOR.4.tr" tvg-chno="80",Tivibu Spor 4
 https://mss.ayakkabiparti.lol/t4/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" tvg-chno="83",SporSmart
 http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246003
