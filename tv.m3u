@@ -209,10 +209,12 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://dash3.antik.sk/live/test_nhk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1xaxTQcD6BtGRI1QK1DJtybf1wtkaJ_t1" tvg-id="CGTN.tr" tvg-chno="149",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1noIG9jJpEuT-Fkwyo7aqV8JEzi-Mk9mF" tvg-id="SAUDI.QURAN.tr" tvg-chno="154",Quran TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1noIG9jJpEuT-Fkwyo7aqV8JEzi-Mk9mF" tvg-id="SAUDI.QURAN.tr" tvg-chno="153",Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18gBA2WQh0swl4j6Zw0_MRTG-ZsKI-Rbl" tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-chno="155",Sunna TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18gBA2WQh0swl4j6Zw0_MRTG-ZsKI-Rbl" tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-chno="154",Sunna TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=11Nd9LgBwYcpyik25wz8ghWPj-m592O15" tvg-id="LALEGÜL.tr" tvg-chno="155",Lâlegül TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1226JeQyuRi3NQplr-WUgmBjc315JMIJz" tvg-id="VAVTV.tr" tvg-chno="156",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1bt_ViNbAE79yimN-pT5Ylzvj2u7sZEIk" tvg-id="SEMERKAND.HD.tr" tvg-chno="157",Semerkand TV
@@ -257,10 +259,12 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=10740&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dVMsNq4T6Krb2M-of4K69e5AYqTmVVuU" tvg-id="VIASAT.NATURE.-.HISTORY.tr" tvg-chno="192",Viasat History
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=170684&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1IHVDMyrvXYPxEysiUrcjXKqRUwpkq2X0" tvg-id="" tvg-chno="193",DocuBox
-https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YX1tyX5T85T-AKgZPxIfcqNH4N8MRcOF" tvg-id="CGTN.9.DOCUMENTARY.tr" tvg-chno="194",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1IHVDMyrvXYPxEysiUrcjXKqRUwpkq2X0" tvg-id="" tvg-chno="198",DocuBox
+https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15xH6DNTNXYo19DZBmJ6FimVXkcWMEEBn" tvg-id="ÇİFTÇİ.TV.tr" tvg-chno="199",Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UJVRYUbbnChoVxoH37dofaLVyWgXvVx-" tvg-id="" tvg-chno="245",Az TV
 https://str.yodacdn.net/azertv/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://turkmenelitv.com/storage/logo-turk.png" tvg-id="" tvg-chno="250",Türkmeneli TV
@@ -287,8 +291,7 @@ https://streams.uzunmuhalefet.com/stream/e12ae805-19c9-4c7f-ac92-cdd89d953d10.m3
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="MELTEM.TV.tr" tvg-chno="270",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="ÇİFTÇİ.TV.tr" tvg-chno="271",Çiftçi TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="" tvg-id="KONTV.HD.tr" tvg-chno="272",Kon TV
 https://streams.uzunmuhalefet.com/stream/b9473b85-d7bf-4129-b148-d2c079b18bf8.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="KANAL.23.tr" tvg-chno="273",Kanal 23
@@ -297,8 +300,6 @@ https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v1a1/mono.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="KANAL.26.tr" tvg-chno="275",Kanal 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="LALEGÜL.tr" tvg-chno="276",Lâlegül TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6swVbl5M_XqlHqaVKEM0Fg3dXdmkYOWqVQ&s" tvg-id="EPG_ID" tvg-chno="401",Alem FM
 https://alemfm.radyotvonline.net/alemfmaac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/1/logos/android_default_logo.png?v=301024040744" tvg-id="EPG_ID" tvg-chno="402",Süper FM
