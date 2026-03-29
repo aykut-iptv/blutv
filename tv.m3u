@@ -405,9 +405,9 @@ https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/ded6c190-5f9e-4de3-a5e5-868f789df1a5.jpg" tvg-id="" tvg-chno="500",TRT Radyo 1
 https://trt.radyotvonline.net/trt_1.aac
-#EXTINF:-1 tvg-logo="" tvg-id="https://drive.google.com/thumbnail?id=12JYkmyYeCX_74ZcOdUfHZx8Rs7VEk8gG" tvg-chno="501",TRT TSR
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12JYkmyYeCX_74ZcOdUfHZx8Rs7VEk8gG" tvg-id="" tvg-chno="501",TRT TSR
 https://radio-trttsr.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="https://drive.google.com/thumbnail?id=1f3IShrCW7t765MGI5ptiSpRqCBTgt7M8" tvg-chno="502",TRT Memleketim FM
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1f3IShrCW7t765MGI5ptiSpRqCBTgt7M8" tvg-id="" tvg-chno="502",TRT Memleketim FM
 https://radio-trtmemleketimfm.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/9/logos/android_default_logo.png?v=271025021315" tvg-id="" tvg-chno="503",JoyTürk Akustik
 https://25583.live.streamtheworld.com/JOYTURK_AKUSTIK128AAC.aac
