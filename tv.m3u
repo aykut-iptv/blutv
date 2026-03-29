@@ -355,14 +355,14 @@ https://eustr75.mediatriple.net/Number1Media/01_Number1Fm.stream/playlist.m3u8
 https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-id="EPG_ID" tvg-chno="433",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="434",Easy Listening
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="435",The Spa
-https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="436",Smooth Jazz
-https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingraydjazz/logos/channels-logo-white._CB581386909_.png" tvg-id="EPG_ID" tvg-chno="437",Stingray Djazz
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingraydjazz/logos/channels-logo-white._CB581386909_.png" tvg-id="EPG_ID" tvg-chno="434",Stingray Djazz
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="435",Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="436",The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="437",Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="438",Hit List
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991117
 #EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="439",Greatest Hits
