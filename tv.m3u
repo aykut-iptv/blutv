@@ -273,8 +273,6 @@ https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v1a1/mono.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15qxVvAdRg-Jg_Y18EM0O6ty4QExRmP0C" tvg-id="KANAL.26.tr" tvg-chno="275",Kanal 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" tvg-id="TRT.GENÇ.tr" tvg-chno="260",TRT Genç
-https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1P0E-Rb7yrIKdVd17WYB7qalukYZSVdFI" tvg-id="AS.TV.tr" tvg-chno="261",As TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1A-SHe-ANszNcJq-I8flgwSFIiT7M-0Ck" tvg-id="TV5.tr" tvg-chno="265",TV 5
@@ -283,6 +281,8 @@ https://streams.uzunmuhalefet.com/stream/e12ae805-19c9-4c7f-ac92-cdd89d953d10.m3
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1KZVY3H6zIKngnOgq6MoACaR8I30e09Sx" tvg-id="MELTEM.TV.tr" tvg-chno="270",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" tvg-id="TRT.GENÇ.tr" tvg-chno="280",TRT Genç
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UJVRYUbbnChoVxoH37dofaLVyWgXvVx-" tvg-id="" tvg-chno="286",Az TV
 https://str.yodacdn.net/azertv/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://turkmenelitv.com/storage/logo-turk.png" tvg-id="" tvg-chno="290",Türkmeneli TV
@@ -291,13 +291,13 @@ https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1jUw8oJuQcA4NIXpEZIy5PRxTymnzF8AB" tvg-id="BRT.2.HD.tr" tvg-chno="292",BRT 2
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="KIBRIS.ADA.TV.tr" tvg-chno="294",Ada TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ek9rbnV0K-qrad7ERmYW_jbyes6zwtG0" tvg-id="KIBRIS.ADA.TV.tr" tvg-chno="294",Ada TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w1855707650.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="KIBRIS.GENC.TV.tr" tvg-chno="295",Genç TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dn1PYt8bDN8F4-4C7xzxvoY8Yb-PJ3ws" tvg-id="KIBRIS.GENC.TV.tr" tvg-chno="295",Genç TV
 https://streams.uzunmuhalefet.com/stream/d1e7e32f-d06d-42db-997c-acdb9b0971f5.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="KANAL.T.tr" tvg-chno="297",Kanal T
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rGa5ZLI-XMHIjm9yO6VhgIYxsFNe3TOg" tvg-id="KANAL.T.tr" tvg-chno="297",Kanal T
 https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="KIBRIS.TV.tr" tvg-chno="298",Kıbrıs TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1P-XxhRE8fVkowvNNJbyGdpnasB06VNu6" tvg-id="KIBRIS.TV.tr" tvg-chno="298",Kıbrıs TV
 https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6swVbl5M_XqlHqaVKEM0Fg3dXdmkYOWqVQ&s" tvg-id="EPG_ID" tvg-chno="401",Alem FM
 https://alemfm.radyotvonline.net/alemfmaac
