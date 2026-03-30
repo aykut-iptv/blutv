@@ -309,10 +309,6 @@ https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="267",Kanal Z
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UJVRYUbbnChoVxoH37dofaLVyWgXvVx-" tvg-id="" tvg-chno="286",Az TV
-https://str.yodacdn.net/azertv/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://turkmenelitv.com/storage/logo-turk.png" tvg-id="" tvg-chno="290",Türkmeneli TV
-https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1hIeD4EhQPvWKfhp2EyBSXxjhlhg7tk5M" tvg-id="BRT.1.HD.tr" tvg-chno="291",BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1jUw8oJuQcA4NIXpEZIy5PRxTymnzF8AB" tvg-id="BRT.2.HD.tr" tvg-chno="292",BRT 2
@@ -505,6 +501,8 @@ https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="759",RTR Planeta
 https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UJVRYUbbnChoVxoH37dofaLVyWgXvVx-" tvg-id="" tvg-chno="761",Az TV
+https://str.yodacdn.net/azertv/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="764",Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="766",ARB TV
