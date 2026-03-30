@@ -481,4 +481,8 @@ https://29103.live.streamtheworld.com/SC002_SO1AAC.aac
 https://25693.live.streamtheworld.com/SC009_SO1AAC.aac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/362/logos/android_default_logo.png?v=170725021356" tvg-id="" tvg-chno="591",K-Pop
 https://28563.live.streamtheworld.com/KPOP128AAC.aac
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="777",İdman TV
+http://live.cdn-vizi.workers.dev/?ID=53
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="778",CBC Sport
+http://live.cdn-vizi.workers.dev/?ID=52
 
