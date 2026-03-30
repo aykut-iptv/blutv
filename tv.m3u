@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="18",beIN İZ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:0B:BD:D3&stream=1925951&extension=ts&play_token=EGZq4We5VP
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="21",beIN Gurme
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="21",beIN Gurmes
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:0B:BD:D3&stream=913165&extension=ts&play_token=pQf36odki3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
