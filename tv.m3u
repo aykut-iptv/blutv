@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="21",TEST
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="18",beIN İZ
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:B5:9F:7C&stream=1925951&extension=ts&play_token=wstAIsWcE0
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="21",beIN Gurme
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:B5:9F:7C&stream=913165&extension=ts&play_token=zGQsE8sayX
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
@@ -251,6 +253,8 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="168",Cartoonito
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:B5:9F:7C&stream=913123&extension=ts&play_token=boFmlUvFqg
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="CARTOON.NETWORK.tr" tvg-chno="169",Cartoon Network
 https://mss.ayakkabiparti.lol/cartoonnetwork/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mHVB1z9fEHLFyYRYwxLNjT_TiclEdsh9" tvg-id="MİNİKA.GO.tr" tvg-chno="170",minikaGO
