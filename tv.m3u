@@ -281,11 +281,11 @@ https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15xH6DNTNXYo19DZBmJ6FimVXkcWMEEBn" tvg-id="ÇİFTÇİ.TV.tr" tvg-chno="199",Çiftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="251",Kanal B
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yaJQ755pOGfGEVg1X6gsvEgdu4wjIAkL" tvg-id="" tvg-chno="251",Kanal B
 https://tv.kanalb.tr/hls/kanalb/1_2/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="252",MK TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Z5EBaW_XkpuN7uo7AqAUjVy8W5_ajSWC" tvg-id="" tvg-chno="252",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="253",Cine 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O946xn-OQEoYwAOCqqxUQdqk0cNKxYlO" tvg-id="" tvg-chno="253",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Nd58IEXkUH0sTNjB4EmcNwfUakxasQt0" tvg-id="KONTV.HD.tr" tvg-chno="255",Kon TV
 https://streams.uzunmuhalefet.com/stream/b9473b85-d7bf-4129-b148-d2c079b18bf8.m3u8
@@ -305,9 +305,9 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" tvg-id="TRT.GENÇ.tr" tvg-chno="265",TRT Genç
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="266",BRTV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1w9Ofj6iOdSr2CW9YUmfrROB8KfMFq8jD" tvg-id="" tvg-chno="266",BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="267",Kanal Z
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ac7H13XMypsKemrd8LCqX-jDwf2FHy7b" tvg-id="" tvg-chno="267",Kanal Z
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1hIeD4EhQPvWKfhp2EyBSXxjhlhg7tk5M" tvg-id="BRT.1.HD.tr" tvg-chno="291",BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
