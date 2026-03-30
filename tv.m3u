@@ -553,17 +553,17 @@ https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="807",ZDF Neo
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="808",RTL Zwei
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1MDWTbn_ZFxIq2kxnLuCxLcvY8_vetYpt" tvg-id="" tvg-chno="808",RTL Zwei
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="809",Sat.1 Gold
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1f-RmQucu68JDciiONf-x7k5YXgVNcK-V" tvg-id="" tvg-chno="809",Sat.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="810",Nitro
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1c4S5GlGE9uDXfrQYM5a_Z7a4n22LTImI" tvg-id="" tvg-chno="810",Nitro
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="811",3sat
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JB0_B2dGWdmI_EvWR9ANcq3aqapzhLH9" tvg-id="" tvg-chno="811",3sat
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="812",Arte Deutsch
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=17VvwMxfAdgIPtaA5xBAX2hnoYAO7JhbM" tvg-id="" tvg-chno="812",Arte Deutsch
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="813",One
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hRBLXgHHy1BSgq4ftAfjd-8wVfEKWw53" tvg-id="" tvg-chno="813",One
 https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18MkZaaqYB2pXSfd6E4hoKuMF5wEHxZzS" tvg-id="" tvg-chno="814",Phoenix
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
