@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="" tvg-chno="18",beIN İZ
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dlu_9l0qCLoeACCJXxCvzjjGnQrYMjcZ" tvg-id="" tvg-chno="18",beIN İZ
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:0B:BD:D3&stream=1925951&extension=ts&play_token=EGZq4We5VP
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="" tvg-chno="21",beIN Gurmes
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1BoihRLP0kQY6N_yX0oNq3SS7q6qmq_wF" tvg-id="" tvg-chno="21",beIN Gurme
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:0B:BD:D3&stream=913165&extension=ts&play_token=pQf36odki3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
@@ -139,11 +139,11 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OqmLQfkJQdFc42bFVnJTNUIbWel4YtLg" tvg-id="SPORTS.TV.tr" tvg-chno="90",Sports TV
 https://live.sportstv.saatteknoloji.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="91",Eurosport 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yxv4YY-WqshTPQBXhSIyVcN8CuHCKszz" tvg-id="EUROSPORT.1.HD.tr" tvg-chno="91",Eurosport 1
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:0B:BD:D3&stream=1851351&extension=ts&play_token=MRy8mO6dX6
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="92",Eurosport 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tWn6wSJoum-yPH1UYaaoPXxE--o-b5wS" tvg-id="EUROSPORT.2.HD.tr" tvg-chno="92",Eurosport 2
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:0B:BD:D3&stream=1851352&extension=ts&play_token=vV5Dv9OsEf
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="93",S Sport
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-49zvrB6Jl_2GMx_ybzuQBm_8LMTF4Ic" tvg-id="S.SPORT.tr" tvg-chno="93",S Sport
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:0B:BD:D3&stream=913369&extension=ts&play_token=JuoQvEZuv9
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-AM7yL3ikUm4m4K9BhELsdjzQzP9RaOa" tvg-id="TRACE.SPORT.STARS.HD.tr" tvg-chno="95",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -187,7 +187,7 @@ https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/mvturk/i
 https://mss.ayakkabiparti.lol/sinema/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mmd3xM0U294nb16LDZ_YeLhgKrhzuxXU" tvg-id="SİNEMA.AKSİYON.tr" tvg-chno="123",Sinema Aksiyon
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinemaaksiyon/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="124",Sinema Yerli
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-4RHB9lDSPo8UftI0DHanJ0ZXAhj_jrq" tvg-id="SİNEMA.YERLİ.HD.tr" tvg-chno="124",Sinema Yerli
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:7C:6F:A9&stream=913320&extension=ts&play_token=pvydRxSgLH
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L0DrXWhq35YDfaGuPcTDjoU6FNzyrdto" tvg-id="SİNEMA.KOMEDİ.tr" tvg-chno="125",Sinema Komedi
 https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
@@ -263,14 +263,14 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="CARTOONITO.tr" tvg-chno="168",Cartoonito
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13ZqCaHRRvLDaZYWOJE4stAG5Owe0Eh2A" tvg-id="Nick.JR.tr" tvg-chno="166",Nick Jr.
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:7C:6F:A9&stream=913121&extension=ts&play_token=ry2qa0VO9m
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dcA3GGJnK2EBDKhp-70djJZVdVekBJI_" tvg-id="CARTOONITO.tr" tvg-chno="168",Cartoonito
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:7C:6F:A9&stream=913123&extension=ts&play_token=OF4Kms7GAt
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="CARTOON.NETWORK.tr" tvg-chno="169",Cartoon Network
 https://mss.ayakkabiparti.lol/cartoonnetwork/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mHVB1z9fEHLFyYRYwxLNjT_TiclEdsh9" tvg-id="MİNİKA.GO.tr" tvg-chno="170",minikaGO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="171",Nick Jr.
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:7C:6F:A9&stream=913121&extension=ts&play_token=ry2qa0VO9m
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hpoAES0Zzbep6AZ99rpLwMklG5D9zbpx" tvg-id="MİNİKA.ÇOCUK.tr" tvg-chno="174",minikaÇocuk
 https://streams.uzunmuhalefet.com/stream/507ebfe3-0c78-4804-b3be-637e9b45f5a0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13DVcGU831tZ5qYbA4aZTtMtzvJkzRMfl" tvg-id="TARIHTV.tr" tvg-chno="180",Tarih TV
