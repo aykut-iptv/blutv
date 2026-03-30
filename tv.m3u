@@ -511,8 +511,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 http://live.cdn-vizi.workers.dev/?ID=53
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_sJKU0ZH6SrXXcPeHTqFPPZymoTysGWB" tvg-id="" tvg-chno="778",CBC Sport
 http://live.cdn-vizi.workers.dev/?ID=52
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="782",BBC Two
-https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="784",Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="785",Channel 5
@@ -531,11 +529,11 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="788",Film 4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="791",NPO 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1XpGnG06WCGiyiipKuyRe4fgF-4rFcRGo" tvg-id="" tvg-chno="791",NPO 1
 http://62.131.195.211:8086/12.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="794",BVN TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1y9kD9Fm9i15AcTliHz15ZpCv-MsuMuKq" tvg-id="" tvg-chno="794",BVN TV
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="795",AT 5
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=19Ztl4SHPXTxDh306b1qjykyyR6M1z5nY" tvg-id="" tvg-chno="795",AT 5
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="796",Xite
 https://xite-rakuten.amagi.tv/playlist.m3u8
