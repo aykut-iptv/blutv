@@ -67,6 +67,8 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1d1SzO0Ov1LRUX0Jctg1zfmSy1U-AB-v3" tvg-id="TV8,5.HD.tr" tvg-chno="55",TV8Buçuk
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13KoPn0sUPrBMBhpa1EZRBDTo8mOnxAGT" tvg-id="TRT.3.SPOR.tr" tvg-chno="56",TRT 3
+https://streams.uzunmuhalefet.com/stream/82cce5b2-d998-4108-85d8-db0728722c4a
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1iFRP9ref2umCB28F8hbYhGR6UhtaDUxw" tvg-id="TRT.AVAZ.HD.tr" tvg-chno="57",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" tvg-id="TRT.KURDİ.tr" tvg-chno="58",TRT Kurdî
@@ -307,10 +309,14 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" tvg-id="TRT.GENÇ.tr" tvg-chno="265",TRT Genç
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1w9Ofj6iOdSr2CW9YUmfrROB8KfMFq8jD" tvg-id="" tvg-chno="266",BRTV
-https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1y5_SfcAq8EmRJfzOFqsDkQfgtLzZJCh7" tvg-id="TRT.EBA.tr" tvg-chno="266",TRT Eba
+https://streams.uzunmuhalefet.com/stream/3cad8cd6-f7b5-4a71-98ea-586e50109ca0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ac7H13XMypsKemrd8LCqX-jDwf2FHy7b" tvg-id="" tvg-chno="267",Kanal Z
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1w9Ofj6iOdSr2CW9YUmfrROB8KfMFq8jD" tvg-id="" tvg-chno="268",BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12by1JhNeoWLGtVKX-Hugmn9LK9hZp5VW" tvg-id="" tvg-chno="290",Türkmeneli TV
+https://streams.uzunmuhalefet.com/stream/a0b3f486-60ca-4956-925b-a5d2b4c8f5ee.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1hIeD4EhQPvWKfhp2EyBSXxjhlhg7tk5M" tvg-id="BRT.1.HD.tr" tvg-chno="291",BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1jUw8oJuQcA4NIXpEZIy5PRxTymnzF8AB" tvg-id="BRT.2.HD.tr" tvg-chno="292",BRT 2
