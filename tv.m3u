@@ -5,7 +5,7 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vOEdhjNpz4NGaLLDP_fQB38Fmi9q0_bV" tvg-id="KANAL.D.HD.tr" tvg-chno="24",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=184rl2z2h__PRA9Ky-jnUxolCsuG9fCmi" tvg-id="ATV.HD.tr" tvg-chno="25",ATV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13U7rfUFO39eszqVJV1ew5t1TMPth9dXe" tvg-id="ATV.HD.tr" tvg-chno="25",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1kTvUDVd5dC_OfwWCoPwf43fvQZEoK6z0" tvg-id="FOX.HD.tr" tvg-chno="26",NOW
 https://yakala.atakann.workers.dev/?url=https://www.nowtv.com.tr/canli-yayin&ext=m3u8
