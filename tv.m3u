@@ -191,11 +191,11 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Jdd7txogrijXcbNmedI4r9cOyct4ZkWZ" tvg-id="AL.JAZEERA.ARABIC.tr" tvg-chno="134",Al Jazeera Channel
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="135",Freedom
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1CDuzjHfQyYUuPajpeUa_KfzwZHneZHbs" tvg-id="" tvg-chno="135",Freedom
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="136",Rossiya 24
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1K5X8JGDzwzlVedYHDok6aMGaEh5KfqKQ" tvg-id="" tvg-chno="136",Rossiya 24
 http://live.sarkortv.workers.dev/?ID=29
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="137",Sky News
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1vjRpgMvOYc-2zYLJ0YsOaFVb19uLHXMG" tvg-id="" tvg-chno="137",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1O4LR-ztnbVPio142Ayzwl5OkZdtAlR2H" tvg-id="CNBC.de" tvg-chno="138",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
@@ -221,7 +221,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://dash3.antik.sk/live/test_nhk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1xaxTQcD6BtGRI1QK1DJtybf1wtkaJ_t1" tvg-id="CGTN.tr" tvg-chno="149",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="150",RT News
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dyEuChX2aRClHJ7de4emIOInX3JklpaS" tvg-id="" tvg-chno="150",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1noIG9jJpEuT-Fkwyo7aqV8JEzi-Mk9mF" tvg-id="SAUDI.QURAN.tr" tvg-chno="153",Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
