@@ -191,6 +191,12 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Jdd7txogrijXcbNmedI4r9cOyct4ZkWZ" tvg-id="AL.JAZEERA.ARABIC.tr" tvg-chno="134",Al Jazeera Channel
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="135",Freedom
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="136",Rossiya 24
+http://live.sarkortv.workers.dev/?ID=29
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="137",Sky News
+https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1O4LR-ztnbVPio142Ayzwl5OkZdtAlR2H" tvg-id="CNBC.de" tvg-chno="138",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PsEqL1EZkFa_G3tiDrZphtUkGtfdcOdK" tvg-id="BLOOMBERG.tr" tvg-chno="139",Bloomberg
@@ -215,6 +221,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://dash3.antik.sk/live/test_nhk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1xaxTQcD6BtGRI1QK1DJtybf1wtkaJ_t1" tvg-id="CGTN.tr" tvg-chno="149",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="150",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1noIG9jJpEuT-Fkwyo7aqV8JEzi-Mk9mF" tvg-id="SAUDI.QURAN.tr" tvg-chno="153",Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18gBA2WQh0swl4j6Zw0_MRTG-ZsKI-Rbl" tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-chno="154",Sunna TV
@@ -273,24 +281,34 @@ https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15xH6DNTNXYo19DZBmJ6FimVXkcWMEEBn" tvg-id="ÇİFTÇİ.TV.tr" tvg-chno="199",Çiftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Nd58IEXkUH0sTNjB4EmcNwfUakxasQt0" tvg-id="KONTV.HD.tr" tvg-chno="272",Kon TV
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="251",Kanal B
+https://tv.kanalb.tr/hls/kanalb/1_2/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="252",MK TV
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="253",Cine 1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Nd58IEXkUH0sTNjB4EmcNwfUakxasQt0" tvg-id="KONTV.HD.tr" tvg-chno="255",Kon TV
 https://streams.uzunmuhalefet.com/stream/b9473b85-d7bf-4129-b148-d2c079b18bf8.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_x31EHaOaJ-SLZlb-7K193A7G6soX2EL" tvg-id="KANAL.23.tr" tvg-chno="273",Kanal 23
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_x31EHaOaJ-SLZlb-7K193A7G6soX2EL" tvg-id="KANAL.23.tr" tvg-chno="256",Kanal 23
 https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hsUu5AnEIZKEJKAdrntEJ1n1J4xfJyzR" tvg-id="KANAL.V.tr" tvg-chno="274",Kanal V
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hsUu5AnEIZKEJKAdrntEJ1n1J4xfJyzR" tvg-id="KANAL.V.tr" tvg-chno="257",Kanal V
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15qxVvAdRg-Jg_Y18EM0O6ty4QExRmP0C" tvg-id="KANAL.26.tr" tvg-chno="275",Kanal 26
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15qxVvAdRg-Jg_Y18EM0O6ty4QExRmP0C" tvg-id="KANAL.26.tr" tvg-chno="258",Kanal 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1P0E-Rb7yrIKdVd17WYB7qalukYZSVdFI" tvg-id="AS.TV.tr" tvg-chno="261",As TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1P0E-Rb7yrIKdVd17WYB7qalukYZSVdFI" tvg-id="AS.TV.tr" tvg-chno="259",As TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1A-SHe-ANszNcJq-I8flgwSFIiT7M-0Ck" tvg-id="TV5.tr" tvg-chno="265",TV 5
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1A-SHe-ANszNcJq-I8flgwSFIiT7M-0Ck" tvg-id="TV5.tr" tvg-chno="260",TV 5
 https://streams.uzunmuhalefet.com/stream/e12ae805-19c9-4c7f-ac92-cdd89d953d10.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1o6Wkc6TNjejReEg-dSdO1ZZk4BYCFY_N" tvg-id="TİVİ6.tr" tvg-chno="266",Tivi6
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1o6Wkc6TNjejReEg-dSdO1ZZk4BYCFY_N" tvg-id="TİVİ6.tr" tvg-chno="263",Tivi6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1KZVY3H6zIKngnOgq6MoACaR8I30e09Sx" tvg-id="MELTEM.TV.tr" tvg-chno="270",Meltem TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1KZVY3H6zIKngnOgq6MoACaR8I30e09Sx" tvg-id="MELTEM.TV.tr" tvg-chno="264",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" tvg-id="TRT.GENÇ.tr" tvg-chno="280",TRT Genç
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" tvg-id="TRT.GENÇ.tr" tvg-chno="265",TRT Genç
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="266",BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="267",Kanal Z
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UJVRYUbbnChoVxoH37dofaLVyWgXvVx-" tvg-id="" tvg-chno="286",Az TV
 https://str.yodacdn.net/azertv/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://turkmenelitv.com/storage/logo-turk.png" tvg-id="" tvg-chno="290",Türkmeneli TV
@@ -481,8 +499,79 @@ https://29103.live.streamtheworld.com/SC002_SO1AAC.aac
 https://25693.live.streamtheworld.com/SC009_SO1AAC.aac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/362/logos/android_default_logo.png?v=170725021356" tvg-id="" tvg-chno="591",K-Pop
 https://28563.live.streamtheworld.com/KPOP128AAC.aac
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="757",Arirang
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="758",Saudi TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="759",RTR Planeta
+https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="760",Perviy Kanal
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="764",Xəzər TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="766",ARB TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="777",İdman TV
 http://live.cdn-vizi.workers.dev/?ID=53
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="778",CBC Sport
 http://live.cdn-vizi.workers.dev/?ID=52
-
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="782",BBC Two
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="784",Channel 4
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="785",Channel 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="786",BBC Three/CBBC
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="787",BBC Four/CBeebies
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="782",ITV 2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="783",ITV 3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="784",ITV 4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="786",More 4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="788",Film 4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="791",NPO 1
+http://62.131.195.211:8086/12.ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="794",BVN TV
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="795",AT 5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="796",Xite
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="800",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="801",ZDF
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="802",RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="803",Vox
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="804",Sat.1
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="805",ProSieben
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="806",Kabel Eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="807",ZDF Neo
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="808",RTL Zwei
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="809",Sat.1 Gold
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="810",Nitro
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="811",3sat
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="812",Arte Deutsch
+http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="813",One
+https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="814",Phoenix
+https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="816",Tagesschau 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
