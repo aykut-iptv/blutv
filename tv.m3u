@@ -179,13 +179,13 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" tvg-chno="115",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="116",Epic Drama
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1zNDrMUVCU1B85uTHq0LBERAu3QlB4Dpv" tvg-id="EPIC.DRAMA.tr" tvg-chno="116",Epic Drama
 http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314500&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="117",DiziSmart Premium
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1wbbUBTF9DlOmVOm6jIdscD-eBwP6PgdK" tvg-id="DiziSmartPremium.tr" tvg-chno="117",DiziSmart Premium
 http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=151776&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ArUjJ1FUzHZ-q4FnXwuc3CulwrNT0yvc" tvg-id="DiziSmartMax.tr" tvg-chno="118",DiziSmart Max
 http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246015
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="119",MovieSmart Classic
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1TNU5P8oY6haVYxCRN1dAABIbFSu6yvC6" tvg-id="MovieSmartClassic.tr" tvg-chno="119",MovieSmart Classic
 http://sup-4k.org/play/live.php?mac=00:1A:79:A3:67:42&stream=170515&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1b13H_ZRtlai6wiWU77mkG2rxoDhahCOo" tvg-id="MovieSmartTurk.tr" tvg-chno="120",MovieSmart Türk
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/mvturk/index.m3u8
