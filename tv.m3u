@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dlu_9l0qCLoeACCJXxCvzjjGnQrYMjcZ" tvg-id="" tvg-chno="18",beIN İZ
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=314487&extension=ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1BoihRLP0kQY6N_yX0oNq3SS7q6qmq_wF" tvg-id="" tvg-chno="21",beIN Gurme
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=314486&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Sy0jDG8ieG6zW1XUPMUNeYBWI8BkYBBv" tvg-id="TRT.1.HD.tr" tvg-chno="23",TRT 1
@@ -135,6 +139,14 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OqmLQfkJQdFc42bFVnJTNUIbWel4YtLg" tvg-id="SPORTS.TV.tr" tvg-chno="90",Sports TV
 https://live.sportstv.saatteknoloji.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="91",Eurosport 1
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=196844&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="92",Eurosport 2
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10691&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="93",S Sport
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=196856&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="94",S Sport 2
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196857&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-AM7yL3ikUm4m4K9BhELsdjzQzP9RaOa" tvg-id="TRACE.SPORT.STARS.HD.tr" tvg-chno="95",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" tvg-id="" tvg-chno="96",Fast&FunBox
@@ -167,21 +179,27 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" tvg-chno="115",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ArUjJ1FUzHZ-q4FnXwuc3CulwrNT0yvc" tvg-id="DiziSmartMax.tr" tvg-chno="117",DiziSmart Max
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="116",Epic Drama
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314500&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="117",DiziSmart Premium
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=151776&extension=ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ArUjJ1FUzHZ-q4FnXwuc3CulwrNT0yvc" tvg-id="DiziSmartMax.tr" tvg-chno="118",DiziSmart Max
 http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246015
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1b13H_ZRtlai6wiWU77mkG2rxoDhahCOo" tvg-id="MovieSmartTurk.tr" tvg-chno="119",MovieSmart Türk
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="119",MovieSmart Classic
+http://sup-4k.org/play/live.php?mac=00:1A:79:A3:67:42&stream=170515&extension=ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1b13H_ZRtlai6wiWU77mkG2rxoDhahCOo" tvg-id="MovieSmartTurk.tr" tvg-chno="120",MovieSmart Türk
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207/mvturk/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" tvg-chno="122",Sinema TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" tvg-chno="121",Sinema TV
 https://mss.ayakkabiparti.lol/sinema/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mmd3xM0U294nb16LDZ_YeLhgKrhzuxXU" tvg-id="SİNEMA.AKSİYON.tr" tvg-chno="123",Sinema Aksiyon
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mmd3xM0U294nb16LDZ_YeLhgKrhzuxXU" tvg-id="SİNEMA.AKSİYON.tr" tvg-chno="122",Sinema Aksiyon
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinemaaksiyon/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L0DrXWhq35YDfaGuPcTDjoU6FNzyrdto" tvg-id="SİNEMA.KOMEDİ.tr" tvg-chno="125",Sinema Komedi
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L0DrXWhq35YDfaGuPcTDjoU6FNzyrdto" tvg-id="SİNEMA.KOMEDİ.tr" tvg-chno="124",Sinema Komedi
 https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uQJxABxPkuYHxqt6Y6JIgEJSj_K1oDz_" tvg-id="SİNEMA.AİLE.HD.tr" tvg-chno="126",Sinema Aile
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uQJxABxPkuYHxqt6Y6JIgEJSj_K1oDz_" tvg-id="SİNEMA.AİLE.HD.tr" tvg-chno="125",Sinema Aile
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinemaaile/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IHhsxbryQtPGgC1zxL2SD2ND_PdzN8x4" tvg-id="SİNEMA.TV.1001.HD.tr" tvg-chno="127",Sinema 1001
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IHhsxbryQtPGgC1zxL2SD2ND_PdzN8x4" tvg-id="SİNEMA.TV.1001.HD.tr" tvg-chno="126",Sinema 1001
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinema1001/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tqnipsIWWf3KwydON_Y0UXrkTaXCHuPT" tvg-id="FILM.SCREEN.tr" tvg-chno="128",FilmScreen
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tqnipsIWWf3KwydON_Y0UXrkTaXCHuPT" tvg-id="FILM.SCREEN.tr" tvg-chno="127",FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="tabii.TV.tr" tvg-chno="129",tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
@@ -247,14 +265,26 @@ https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RpsnevyYc38xtZ8d35Fl_aikSJFIeWqr" tvg-id="BABY.TV.tr" tvg-chno="162",Baby TV
 https://saran-live.ercdn.net/babytv/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="163",Da Vinci
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196819&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="164",ÇocukSmart
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196860&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="166",Nick Jr.
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10745&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="167",Nicktoons
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314448&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="168",Cartoonito
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10753&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="CARTOON.NETWORK.tr" tvg-chno="169",Cartoon Network
 https://mss.ayakkabiparti.lol/cartoonnetwork/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mHVB1z9fEHLFyYRYwxLNjT_TiclEdsh9" tvg-id="MİNİKA.GO.tr" tvg-chno="170",minikaGO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hpoAES0Zzbep6AZ99rpLwMklG5D9zbpx" tvg-id="MİNİKA.ÇOCUK.tr" tvg-chno="174",minikaÇocuk
 https://streams.uzunmuhalefet.com/stream/507ebfe3-0c78-4804-b3be-637e9b45f5a0.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="175",Spacetoon
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314449&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13DVcGU831tZ5qYbA4aZTtMtzvJkzRMfl" tvg-id="TARIHTV.tr" tvg-chno="180",Tarih TV
 https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" tvg-chno="181",National Geographic
@@ -577,33 +607,3 @@ https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10aIDQ64Ei-6sEPnjzuGHADCG6NLTXqMv" tvg-id="" tvg-chno="816",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Nicktoons
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314448&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Nick Jr.
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10745&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Eurosport 2
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10691&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Epic Drama
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314500&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",DiziSmart Premium
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=151776&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Spacetoon
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314449&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Cartoonito
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10753&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN İZ
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=314487&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Gurme
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=314486&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",ÇocukSmart
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196860&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",S Sport 2
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196857&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",S Sport
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=196856&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",MovieSmart Classic
-http://sup-4k.org/play/live.php?mac=00:1A:79:A3:67:42&stream=170515&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Eurosport 1
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=196844&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Da Vinci
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196819&extension=ts
