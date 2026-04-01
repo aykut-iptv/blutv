@@ -265,13 +265,13 @@ https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RpsnevyYc38xtZ8d35Fl_aikSJFIeWqr" tvg-id="BABY.TV.tr" tvg-chno="162",Baby TV
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="163",Da Vinci
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CzyIoMtStfQe2mieI2gx8PNI-nIeXxdb" tvg-id="DA.VINCI.HD.tr" tvg-chno="163",Da Vinci
 http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196819&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="164",ÇocukSmart
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1a52dBPyPzCf9L8L6v_5KYgRX8dH5kmOS" tvg-id="" tvg-chno="164",ÇocukSmart
 http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196860&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="166",Nick Jr.
+#EXTINF:-1 tvg-logo="" tvg-id="NICK.JR.tr" tvg-chno="166",Nick Jr.
 http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10745&extension=ts
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="167",Nicktoons
 http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314448&extension=ts
