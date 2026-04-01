@@ -577,3 +577,33 @@ https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10aIDQ64Ei-6sEPnjzuGHADCG6NLTXqMv" tvg-id="" tvg-chno="816",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Nicktoons
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314448&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Nick Jr.
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10745&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Eurosport 2
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10691&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Epic Drama
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314500&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",DiziSmart Premium
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=151776&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Spacetoon
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314449&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Cartoonito
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10753&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN İZ
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=314487&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Gurme
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=314486&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",ÇocukSmart
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196860&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",S Sport 2
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196857&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",S Sport
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=196856&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",MovieSmart Classic
+http://sup-4k.org/play/live.php?mac=00:1A:79:A3:67:42&stream=170515&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Eurosport 1
+http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=196844&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Da Vinci
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196819&extension=ts
