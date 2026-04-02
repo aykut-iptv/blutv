@@ -271,11 +271,11 @@ http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196819&extension=ts
 http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196860&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="NICK.JR.tr" tvg-chno="166",Nick Jr.
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13ZqCaHRRvLDaZYWOJE4stAG5Owe0Eh2A" tvg-id="NICK.JR.tr" tvg-chno="166",Nick Jr.
 http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10745&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="167",Nicktoons
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1txv9xUt9-lgEgqqVbfaGM2EdveMo22Is" tvg-id="NICKTOONS.tr" tvg-chno="167",Nicktoons
 http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314448&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="168",Cartoonito
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dcA3GGJnK2EBDKhp-70djJZVdVekBJI_" tvg-id="CARTOONITO.tr" tvg-chno="168",Cartoonito
 http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10753&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="CARTOON.NETWORK.tr" tvg-chno="169",Cartoon Network
 https://mss.ayakkabiparti.lol/cartoonnetwork/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
@@ -283,7 +283,7 @@ https://mss.ayakkabiparti.lol/cartoonnetwork/index.m3u8?token=tStZH2zQN1DUgV7dNG
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hpoAES0Zzbep6AZ99rpLwMklG5D9zbpx" tvg-id="MİNİKA.ÇOCUK.tr" tvg-chno="174",minikaÇocuk
 https://streams.uzunmuhalefet.com/stream/507ebfe3-0c78-4804-b3be-637e9b45f5a0.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="175",Spacetoon
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1WMW0lrwJPuSEI6u7JXlHLkYJrJWDadrE" tvg-id="SPACETOON.tr" tvg-chno="175",Spacetoon
 http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314449&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13DVcGU831tZ5qYbA4aZTtMtzvJkzRMfl" tvg-id="TARIHTV.tr" tvg-chno="180",Tarih TV
 https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
