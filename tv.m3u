@@ -139,13 +139,13 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OqmLQfkJQdFc42bFVnJTNUIbWel4YtLg" tvg-id="SPORTS.TV.tr" tvg-chno="90",Sports TV
 https://live.sportstv.saatteknoloji.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="91",Eurosport 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yxv4YY-WqshTPQBXhSIyVcN8CuHCKszz" tvg-id="EUROSPORT.1.tr" tvg-chno="91",Eurosport 1
 http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=196844&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="92",Eurosport 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tWn6wSJoum-yPH1UYaaoPXxE--o-b5wS" tvg-id="EUROSPORT.2.tr" tvg-chno="92",Eurosport 2
 http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10691&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="93",S Sport
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-49zvrB6Jl_2GMx_ybzuQBm_8LMTF4Ic" tvg-id="S.SPORT.tr" tvg-chno="93",S Sport
 http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=196856&extension=ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="94",S Sport 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1XQwl5K4ukGqaBNSNW1hbfJJtGH21Uoh6" tvg-id="S.SPORT.2.tr" tvg-chno="94",S Sport 2
 http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196857&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-AM7yL3ikUm4m4K9BhELsdjzQzP9RaOa" tvg-id="TRACE.SPORT.STARS.HD.tr" tvg-chno="95",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
