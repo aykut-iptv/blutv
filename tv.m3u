@@ -613,3 +613,5 @@ http://janya-ayaztv.vgcdn.net/ptnr-Vintera/title-Ayaz_TV/v1/vglive-sk-934820/Aya
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",MCM Top
 http://41.205.93.154/MCM/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",MCM Top
+http://ott-cdn.ucom.am/s49/index.m3u8
