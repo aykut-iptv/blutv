@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dlu_9l0qCLoeACCJXxCvzjjGnQrYMjcZ" tvg-id="" tvg-chno="18",beIN İZ
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=314487&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1BoihRLP0kQY6N_yX0oNq3SS7q6qmq_wF" tvg-id="" tvg-chno="21",beIN Gurme
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=314486&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Sy0jDG8ieG6zW1XUPMUNeYBWI8BkYBBv" tvg-id="TRT.1.HD.tr" tvg-chno="23",TRT 1
@@ -51,16 +47,10 @@ https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1PGpecOWCDSpUY-RqSwyYjnBRjtlgRxAo" tvg-id="TGRT.HABER.tr" tvg-chno="45",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ZYuPUIVMWnM39zaxnPXtOdpEMbDJvB-A" tvg-id="EKOTÜRK.HD.tr" tvg-chno="46",EkoTürk
-https://trn03.tulix.tv/gt-ekoturk/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Y9UxsEm_WaAekb5gLR4C5UI8EH1Tr_rm" tvg-id="HABERGLOBAL.tr" tvg-chno="47",Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18koFZcCcDlofpVKxWnNLPpfmpucTwIpm" tvg-id="TELE1.tr" tvg-chno="48",Tele 1
 https://streams.uzunmuhalefet.com/stream/edba8b19-4745-4c5c-a235-b23a06d83eda.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uRv06DHJekrqGjtiofCJsH75D4GwrjyS" tvg-id="EKOL.TV.tr" tvg-chno="49",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1a9e9XgxGtrTeLGExmpzO26Zj1tthLEa9" tvg-id="FlashHaberTV.tr" tvg-chno="50",Flash Haber
-https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1aRLVEbjAOeshPq_GRQClgdOqGvpgrszY" tvg-id="LIDERHABERTV.tr" tvg-chno="51",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1G4Zkfxa7L5WggTbU9KLc54eeolcBLEF6" tvg-id="ULUSAL.KANAL.tr" tvg-chno="52",Ulusal TV
@@ -77,8 +67,6 @@ https://streams.uzunmuhalefet.com/stream/82cce5b2-d998-4108-85d8-db0728722c4a
 https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" tvg-id="TRT.KURDİ.tr" tvg-chno="58",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14mnH90Uc56_BHzc2gi-DJmJ0B5A2rthL" tvg-id="TURKHABERTV.tr" tvg-chno="59",TH Türk Haber
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",SZC
 https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Ax_vjWiDY28v7zjSujoLymiZ-I5awaHK" tvg-id="TRT.TÜRK.tr" tvg-chno="61",TRT Türk
@@ -113,10 +101,6 @@ http://live.tabitv.workers.dev/?ID=tabii%20spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" tvg-id="FBTV.tr" tvg-chno="76",FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" tvg-chno="77",SporSmart
-http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246003
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IDnk4YIhvu2mHYKezkjNOEkMVQJ_1l3W" tvg-id="" tvg-chno="78",SporSmart 2
-https://mss.ayakkabiparti.lol/smart2/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1fbF7kl2WtsURL4GWUar5-OergzU3-W1Z" tvg-id="TİVİBU.SPOR.1.tr" tvg-chno="79",Tivibu Spor 1
 https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1BS22BfJBFi6-GjeoWJpRlwzcYL_-TAFm" tvg-id="TİVİBU.SPOR.2.tr" tvg-chno="80",Tivibu Spor 2
@@ -615,3 +599,19 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 http://41.205.93.154/MCM/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",MCM Top
 http://ott-cdn.ucom.am/s49/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dlu_9l0qCLoeACCJXxCvzjjGnQrYMjcZ" tvg-id="" tvg-chno="18",beIN İZ
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=314487&extension=ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1BoihRLP0kQY6N_yX0oNq3SS7q6qmq_wF" tvg-id="" tvg-chno="21",beIN Gurme
+http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=314486&extension=ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ZYuPUIVMWnM39zaxnPXtOdpEMbDJvB-A" tvg-id="EKOTÜRK.HD.tr" tvg-chno="46",EkoTürk
+https://trn03.tulix.tv/gt-ekoturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Y9UxsEm_WaAekb5gLR4C5UI8EH1Tr_rm" tvg-id="HABERGLOBAL.tr" tvg-chno="47",Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1a9e9XgxGtrTeLGExmpzO26Zj1tthLEa9" tvg-id="FlashHaberTV.tr" tvg-chno="50",Flash Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14mnH90Uc56_BHzc2gi-DJmJ0B5A2rthL" tvg-id="TURKHABERTV.tr" tvg-chno="59",TH Türk Haber
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" tvg-chno="77",SporSmart
+http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246003
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IDnk4YIhvu2mHYKezkjNOEkMVQJ_1l3W" tvg-id="" tvg-chno="78",SporSmart 2
+https://mss.ayakkabiparti.lol/smart2/index.m3u8
