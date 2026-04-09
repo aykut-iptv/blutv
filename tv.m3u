@@ -253,6 +253,8 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 https://mss.ayakkabiparti.lol/discs/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nub8nwDeupjt3EF2626hdEVSwWTb9l_T" tvg-id="DMAX.tr" tvg-chno="187",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1m7sNn4fgmIIYX0Qu2wGZtagaCV6aadPi" tvg-id="" tvg-chno="188",DocuScreen
+https://mss.ayakkabiparti.lol/docubox/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1EIbviB64pv2YBWFfgp5aHZaoUgahgSwE" tvg-id="" tvg-chno="189",Yaban TV
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" tvg-id="TRT.BELGESEL.HD.tr" tvg-chno="190",TRT Belgesel
@@ -611,8 +613,6 @@ http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10753&extension=ts
 http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314449&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="BBC.EARTH.tr" tvg-chno="183",BBC Earth
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=314485&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1m7sNn4fgmIIYX0Qu2wGZtagaCV6aadPi" tvg-id="" tvg-chno="188",DocuScreen
-https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/docubox/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dVMsNq4T6Krb2M-of4K69e5AYqTmVVuU" tvg-id="VIASAT.NATURE.-.HISTORY.tr" tvg-chno="192",Viasat History
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=170684&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",SZC
@@ -625,4 +625,5 @@ https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/atvaz
 https://streams.uzunmuhalefet.com/stream/a7795b5c-44dd-4a7e-b428-af25170193c5.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",TMB TV
 https://streams.uzunmuhalefet.com/stream/56ac94c5-5fba-4265-9170-1fbb136551f8.m3u8
-
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",BBC
+https://mss.ayakkabiparti.lol/bbc/index.m3u8
