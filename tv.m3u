@@ -303,6 +303,8 @@ https://streams.uzunmuhalefet.com/stream/3cad8cd6-f7b5-4a71-98ea-586e50109ca0.m3
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1w9Ofj6iOdSr2CW9YUmfrROB8KfMFq8jD" tvg-id="" tvg-chno="268",BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1V-C7mLtYuBKS9njNJzfNAgU49ykty76F" tvg-id="" tvg-chno="289",Semerkand Way
+https://streams.uzunmuhalefet.com/stream/a7795b5c-44dd-4a7e-b428-af25170193c5.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12by1JhNeoWLGtVKX-Hugmn9LK9hZp5VW" tvg-id="" tvg-chno="290",Türkmeneli TV
 https://streams.uzunmuhalefet.com/stream/a0b3f486-60ca-4956-925b-a5d2b4c8f5ee.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1hIeD4EhQPvWKfhp2EyBSXxjhlhg7tk5M" tvg-id="BRT.1.HD.tr" tvg-chno="291",BRT 1
@@ -501,6 +503,8 @@ https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd315
 https://str.yodacdn.net/azertv/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yUbXlYlapAH59YiBkMcMYvFvojJXcu31" tvg-id="" tvg-chno="764",Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" tvg-chno="765",Azad TV
+https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/atvaz
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UbMMwiKMuiuL5TSx7GFPM0gIBsEJkZDJ" tvg-id="" tvg-chno="766",ARB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JJYjHK6kqRxms_xQT-ZOVBOsEfdcrU-J" tvg-id="" tvg-chno="777",İdman TV
@@ -619,10 +623,6 @@ http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=314485&extension
 https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",SZC
 http://smart.cdn-sports.workers.dev/patron.m3u8.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" tvg-chno="",Azad TV
-https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/atvaz
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",Semerkand Way
-https://streams.uzunmuhalefet.com/stream/a7795b5c-44dd-4a7e-b428-af25170193c5.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",TMB TV
 https://streams.uzunmuhalefet.com/stream/56ac94c5-5fba-4265-9170-1fbb136551f8.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",BBC
