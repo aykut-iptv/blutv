@@ -249,6 +249,8 @@ https://streams.uzunmuhalefet.com/stream/507ebfe3-0c78-4804-b3be-637e9b45f5a0.m3
 https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" tvg-chno="181",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="BBC.EARTH.tr" tvg-chno="183",BBC Earth
+https://mss.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wj9dufYesBbTbg2-hTlPyEDT7GgGm2pL" tvg-id="LOVE.NATURE.HD.tr" tvg-chno="184",Love Nature
 https://mss.ayakkabiparti.lol/lovenature/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UsloiMCuw66vrFyAL1lEFk_quikFrj4D" tvg-id="NatGeoWild.tr" tvg-chno="185",National Geographic Wild
@@ -503,14 +505,18 @@ https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd315
 https://str.yodacdn.net/azertv/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yUbXlYlapAH59YiBkMcMYvFvojJXcu31" tvg-id="" tvg-chno="764",Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" tvg-chno="765",Azad TV
-https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/atvaz
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CA4EDVy8F4PaDrAhIjMK25gJxE86w2Rd" tvg-id="" tvg-chno="765",CBC TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UbMMwiKMuiuL5TSx7GFPM0gIBsEJkZDJ" tvg-id="" tvg-chno="766",ARB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" tvg-chno="767",Azad TV
+https://boncuktvv.doymuyorsan-buyugu-var.workers.dev/atvaz
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JJYjHK6kqRxms_xQT-ZOVBOsEfdcrU-J" tvg-id="" tvg-chno="777",İdman TV
 http://live.cdn-vizi.workers.dev/?ID=53
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_sJKU0ZH6SrXXcPeHTqFPPZymoTysGWB" tvg-id="" tvg-chno="778",CBC Sport
 http://live.cdn-vizi.workers.dev/?ID=52
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12PCAnbo6tYnfuZD3jVJ6RGWxC1BFXaQi" tvg-id="" tvg-chno="780",Ayaz TV
+http://janya-ayaztv.vgcdn.net/ptnr-Vintera/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yDh4Fwgij3jxRf5BZTUyx9ruSs8kg3Ut" tvg-id="" tvg-chno="784",Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Jd9mrBBp1WsWLLP5yqfUcWb8MC7IW2kV" tvg-id="" tvg-chno="785",Channel 5
@@ -569,63 +575,20 @@ https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10aIDQ64Ei-6sEPnjzuGHADCG6NLTXqMv" tvg-id="" tvg-chno="816",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Ayaz TV
-http://janya-ayaztv.vgcdn.net/ptnr-Vintera/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",CBC TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",MCM Top
-http://41.205.93.154/MCM/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",MCM Top
-http://ott-cdn.ucom.am/s49/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dlu_9l0qCLoeACCJXxCvzjjGnQrYMjcZ" tvg-id="" tvg-chno="18",beIN İZ
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=314487&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1BoihRLP0kQY6N_yX0oNq3SS7q6qmq_wF" tvg-id="" tvg-chno="21",beIN Gurme
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=314486&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Y9UxsEm_WaAekb5gLR4C5UI8EH1Tr_rm" tvg-id="HABERGLOBAL.tr" tvg-chno="47",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OBdyl8daNtoPCkH0ZWstWsb5r5oyF0Ot" tvg-id="TİVİBU.SPOR.tr" tvg-chno="83",Tivibu Spor
 https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yxv4YY-WqshTPQBXhSIyVcN8CuHCKszz" tvg-id="EUROSPORT.1.tr" tvg-chno="91",Eurosport 1
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=196844&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tWn6wSJoum-yPH1UYaaoPXxE--o-b5wS" tvg-id="EUROSPORT.2.tr" tvg-chno="92",Eurosport 2
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10691&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-49zvrB6Jl_2GMx_ybzuQBm_8LMTF4Ic" tvg-id="S.SPORT.tr" tvg-chno="93",S Sport
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=196856&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1XQwl5K4ukGqaBNSNW1hbfJJtGH21Uoh6" tvg-id="S.SPORT.2.tr" tvg-chno="94",S Sport 2
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196857&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1zNDrMUVCU1B85uTHq0LBERAu3QlB4Dpv" tvg-id="EPIC.DRAMA.tr" tvg-chno="116",Epic Drama
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314500&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1wbbUBTF9DlOmVOm6jIdscD-eBwP6PgdK" tvg-id="DiziSmartPremium.tr" tvg-chno="117",DiziSmart Premium
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=151776&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ArUjJ1FUzHZ-q4FnXwuc3CulwrNT0yvc" tvg-id="DiziSmartMax.tr" tvg-chno="118",DiziSmart Max
 http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246015
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1TNU5P8oY6haVYxCRN1dAABIbFSu6yvC6" tvg-id="MovieSmartClassic.tr" tvg-chno="119",MovieSmart Classic
-http://sup-4k.org/play/live.php?mac=00:1A:79:A3:67:42&stream=170515&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uQJxABxPkuYHxqt6Y6JIgEJSj_K1oDz_" tvg-id="SİNEMA.AİLE.HD.tr" tvg-chno="125",Sinema Aile
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinemaaile/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IHhsxbryQtPGgC1zxL2SD2ND_PdzN8x4" tvg-id="SİNEMA.TV.1001.HD.tr" tvg-chno="126",Sinema 1001
 https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinema1001/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CzyIoMtStfQe2mieI2gx8PNI-nIeXxdb" tvg-id="DA.VINCI.HD.tr" tvg-chno="163",Da Vinci
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196819&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1a52dBPyPzCf9L8L6v_5KYgRX8dH5kmOS" tvg-id="" tvg-chno="164",ÇocukSmart
-http://sup-4k.org/play/live.php?mac=00:1A:79:BE:83:1B&stream=196860&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13ZqCaHRRvLDaZYWOJE4stAG5Owe0Eh2A" tvg-id="NICK.JR.tr" tvg-chno="166",Nick Jr.
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10745&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1txv9xUt9-lgEgqqVbfaGM2EdveMo22Is" tvg-id="NICKTOONS.tr" tvg-chno="167",Nicktoons
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314448&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dcA3GGJnK2EBDKhp-70djJZVdVekBJI_" tvg-id="CARTOONITO.tr" tvg-chno="168",Cartoonito
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=10753&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1WMW0lrwJPuSEI6u7JXlHLkYJrJWDadrE" tvg-id="SPACETOON.tr" tvg-chno="175",Spacetoon
-http://sup-4k.org/play/live.php?mac=00:1A:79:D5:2A:EF&stream=314449&extension=ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="BBC.EARTH.tr" tvg-chno="183",BBC Earth
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=314485&extension=ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",SZC
 https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",SZC
 http://smart.cdn-sports.workers.dev/patron.m3u8.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",TMB TV
 https://streams.uzunmuhalefet.com/stream/56ac94c5-5fba-4265-9170-1fbb136551f8.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",BBC
-https://mss.ayakkabiparti.lol/bbc/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",HİSTORY
-https://mss.ayakkabiparti.lol/history/index.m3u8
+
