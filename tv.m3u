@@ -173,6 +173,10 @@ https://mss.ayakkabiparti.lol/sinema/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms
 https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L0DrXWhq35YDfaGuPcTDjoU6FNzyrdto" tvg-id="SİNEMA.KOMEDİ.HD.tr" tvg-chno="124",Sinema Komedi
 https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uQJxABxPkuYHxqt6Y6JIgEJSj_K1oDz_" tvg-id="SİNEMA.AİLE.HD.tr" tvg-chno="125",Sinema Aile
+https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinemaaile/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IHhsxbryQtPGgC1zxL2SD2ND_PdzN8x4" tvg-id="SİNEMA.TV.1001.HD.tr" tvg-chno="126",Sinema 1001
+https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinema1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tqnipsIWWf3KwydON_Y0UXrkTaXCHuPT" tvg-id="FILM.SCREEN.tr" tvg-chno="127",FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="tabii.TV.tr" tvg-chno="129",tabii TV
@@ -579,16 +583,3 @@ https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Y9UxsEm_WaAekb5gLR4C5UI8EH1Tr_rm" tvg-id="HABERGLOBAL.tr" tvg-chno="47",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OBdyl8daNtoPCkH0ZWstWsb5r5oyF0Ot" tvg-id="TİVİBU.SPOR.tr" tvg-chno="83",Tivibu Spor
-https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ArUjJ1FUzHZ-q4FnXwuc3CulwrNT0yvc" tvg-id="DiziSmartMax.tr" tvg-chno="118",DiziSmart Max
-http://schedule-statutory-latex-colored.trycloudflare.com/Go.php?ID=246015
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uQJxABxPkuYHxqt6Y6JIgEJSj_K1oDz_" tvg-id="SİNEMA.AİLE.HD.tr" tvg-chno="125",Sinema Aile
-https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinemaaile/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IHhsxbryQtPGgC1zxL2SD2ND_PdzN8x4" tvg-id="SİNEMA.TV.1001.HD.tr" tvg-chno="126",Sinema 1001
-https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinema1001/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",SZC
-http://smart.cdn-sports.workers.dev/patron.m3u8.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",TMB TV
-https://streams.uzunmuhalefet.com/stream/56ac94c5-5fba-4265-9170-1fbb136551f8.m3u8
-
