@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1w2Qp1peJCfn-HD1kriXWe6zkthw-b_YC" tvg-chno="21",BluTV2
-https://al.flv.nimo.tv/live/su1639527070385rf9f207355eb04c42da8adaeb7992c748.flv
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1w2Qp1peJCfn-HD1kriXWe6zkthw-b_YC" tvg-chno="21",BluTV
+https://al.flv.nimo.tv/live/su1639527070385rf9f207355eb04c42da8adaeb7992c748.flv?ver=1&wsSecret=73f28e6e165e6b65bbdc534f47fd6588&wsTime=69dfed2c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=nimo_media_web&appid=81&tp=1776282924234&needwm=0&seqid=3415810052719&dMod=mseh-0&sdkPcdn=1_1&u=1638223491515&t=100&sv=2601201119&sdk_sid=1776282982325&a_block=0
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Sy0jDG8ieG6zW1XUPMUNeYBWI8BkYBBv" tvg-id="TRT.1.HD.tr" tvg-chno="23",TRT 1
