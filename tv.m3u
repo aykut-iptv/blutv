@@ -40,7 +40,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15lVAi1_UHt5enamKj38KwSufVblXB1kV" tvg-id="NTV.HD.tr" tvg-chno="41",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" tvg-id="CNN.TÜRK.HD.tr" tvg-chno="42",CNN Türk
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+http://129.151.204.207/TVHeryerde.php?ID=2813
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Tg-d_h0t1MppT_bmviODXnSEh7ixUyt9" tvg-id="A.PARA.tr" tvg-chno="43",A Para
 https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12nZd-4xqGfDBGlsr5IVZuFpyE2tJtixr" tvg-id="HABERTÜRK.tr" tvg-chno="44",HaberTürk
@@ -171,6 +171,8 @@ https://mss.ayakkabiparti.lol/mvturk/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms
 https://mss.ayakkabiparti.lol/sinema/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mmd3xM0U294nb16LDZ_YeLhgKrhzuxXU" tvg-id="SİNEMA.TV.AKSİYON.HD.tr" tvg-chno="122",Sinema Aksiyon
 https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-4RHB9lDSPo8UftI0DHanJ0ZXAhj_jrq" tvg-id="SİNEMA.YERLİ.HD.tr" tvg-chno="123",Sinema Yerli
+http://129.151.204.207/TVHeryerde.php?ID=3304
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L0DrXWhq35YDfaGuPcTDjoU6FNzyrdto" tvg-id="SİNEMA.KOMEDİ.HD.tr" tvg-chno="124",Sinema Komedi
 https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uQJxABxPkuYHxqt6Y6JIgEJSj_K1oDz_" tvg-id="SİNEMA.AİLE.HD.tr" tvg-chno="125",Sinema Aile
@@ -585,3 +587,5 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Y9UxsEm_WaAekb5gLR4C5UI8EH1Tr_rm" tvg-id="HABERGLOBAL.tr" tvg-chno="47",Haber Global
 http://smart.cdn-sports.workers.dev/eu1.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" tvg-id="CNN.TÜRK.HD.tr" tvg-chno="42",CNN Türk
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
