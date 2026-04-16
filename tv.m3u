@@ -168,17 +168,17 @@ https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1b13H_ZRtlai6wiWU77mkG2rxoDhahCOo" tvg-id="MovieSmartTurk.tr" tvg-chno="120",MovieSmart Türk
 https://mss.ayakkabiparti.lol/mvturk/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" tvg-chno="121",Sinema TV
-https://mss.ayakkabiparti.lol/sinema/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
+http://129.151.204.207/TVHeryerde.php?ID=1908
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mmd3xM0U294nb16LDZ_YeLhgKrhzuxXU" tvg-id="SİNEMA.TV.AKSİYON.HD.tr" tvg-chno="122",Sinema Aksiyon
-https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
+http://129.151.204.207/TVHeryerde.php?ID=1109
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-4RHB9lDSPo8UftI0DHanJ0ZXAhj_jrq" tvg-id="SİNEMA.YERLİ.HD.tr" tvg-chno="123",Sinema Yerli
 http://129.151.204.207/TVHeryerde.php?ID=3304
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L0DrXWhq35YDfaGuPcTDjoU6FNzyrdto" tvg-id="SİNEMA.KOMEDİ.HD.tr" tvg-chno="124",Sinema Komedi
-https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
+http://129.151.204.207/TVHeryerde.php?ID=1110
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uQJxABxPkuYHxqt6Y6JIgEJSj_K1oDz_" tvg-id="SİNEMA.AİLE.HD.tr" tvg-chno="125",Sinema Aile
-https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinemaaile/index.m3u8
+http://129.151.204.207/TVHeryerde.php?ID=1911
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IHhsxbryQtPGgC1zxL2SD2ND_PdzN8x4" tvg-id="SİNEMA.TV.1001.HD.tr" tvg-chno="126",Sinema 1001
-https://bstelevision.com/proxy.php?mode=proxy&url=http://65.108.239.207:80/sinema1001/index.m3u8
+http://129.151.204.207/TVHeryerde.php?ID=2602
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tqnipsIWWf3KwydON_Y0UXrkTaXCHuPT" tvg-id="FILM.SCREEN.tr" tvg-chno="127",FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="tabii.TV.tr" tvg-chno="129",tabii TV
