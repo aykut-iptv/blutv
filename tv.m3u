@@ -607,4 +607,5 @@ http://129.151.204.207/TVHeryerde.php?ID=1911
 http://129.151.204.207/TVHeryerde.php?ID=2602
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13DVcGU831tZ5qYbA4aZTtMtzvJkzRMfl" tvg-id="TARIHTV.tr" tvg-chno="180",Tarih TV
 http://129.151.204.207/TVHeryerde.php?ID=2001
-
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vGzs00VOq0aaaNB9niucjDrDEipf5INg" tvg-id="beIN.SPORTS.HABER.HD.tr" tvg-chno="85",beIN Sports Haber
+https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
