@@ -86,7 +86,7 @@ https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uOqGFPGbS2UyWxHiKugs8SFUD9HHnWFT" tvg-id="TYT.TÜRK.tr" tvg-chno="70",TYT Türk
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Kiia19jwJ6-pX5ifthdYqzUzHuhA0w4O" tvg-id="Bi.Kanal.tr" tvg-chno="71",Bi Kanal
-https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+https://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JLHxSyaZeVjbHxYgo8C8SjZUkH5UHYpq" tvg-id="EKOL.SPORTS.tr" tvg-chno="73",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" tvg-id="tabii.spor.tr" tvg-chno="74",tabii Spor
@@ -607,3 +607,4 @@ http://129.151.204.207/TVHeryerde.php?ID=1911
 http://129.151.204.207/TVHeryerde.php?ID=2602
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13DVcGU831tZ5qYbA4aZTtMtzvJkzRMfl" tvg-id="TARIHTV.tr" tvg-chno="180",Tarih TV
 http://129.151.204.207/TVHeryerde.php?ID=2001
+
