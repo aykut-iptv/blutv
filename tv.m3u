@@ -39,16 +39,12 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15lVAi1_UHt5enamKj38KwSufVblXB1kV" tvg-id="NTV.HD.tr" tvg-chno="41",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" tvg-id="CNN.TÜRK.HD.tr" tvg-chno="42",CNN Türk
-http://129.151.204.207/TVHeryerde.php?ID=2813
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Tg-d_h0t1MppT_bmviODXnSEh7ixUyt9" tvg-id="A.PARA.tr" tvg-chno="43",A Para
 https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12nZd-4xqGfDBGlsr5IVZuFpyE2tJtixr" tvg-id="HABERTÜRK.tr" tvg-chno="44",HaberTürk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1PGpecOWCDSpUY-RqSwyYjnBRjtlgRxAo" tvg-id="TGRT.HABER.tr" tvg-chno="45",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ZYuPUIVMWnM39zaxnPXtOdpEMbDJvB-A" tvg-id="EKOTÜRK.HD.tr" tvg-chno="46",EkoTürk
-https://trn03.tulix.tv/gt-ekoturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18koFZcCcDlofpVKxWnNLPpfmpucTwIpm" tvg-id="TELE1.tr" tvg-chno="48",Tele 1
 https://streams.uzunmuhalefet.com/stream/edba8b19-4745-4c5c-a235-b23a06d83eda.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uRv06DHJekrqGjtiofCJsH75D4GwrjyS" tvg-id="EKOL.TV.tr" tvg-chno="49",Ekol TV
@@ -57,8 +53,6 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1aRLVEbjAOeshPq_GRQClgdOqGvpgrszY" tvg-id="LIDERHABERTV.tr" tvg-chno="51",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1G4Zkfxa7L5WggTbU9KLc54eeolcBLEF6" tvg-id="ULUSAL.KANAL.tr" tvg-chno="52",Ulusal TV
-http://129.151.204.207/TVHeryerde.php?ID=2310
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gnryMmGo7sM27NY9gYrimMwiJZJ0I6oG" tvg-id="HalkTV.tr" tvg-chno="53",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1fllPn-JrPH9YFbQGq06lR0imFXY0Z8Yv" tvg-id="TEVE2.HD.tr" tvg-chno="54",TV2
@@ -73,8 +67,6 @@ https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14mnH90Uc56_BHzc2gi-DJmJ0B5A2rthL" tvg-id="TURKHABERTV.tr" tvg-chno="59",TH Türk Haber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",SZC
-http://129.151.204.207/TVHeryerde.php?ID=3002
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Ax_vjWiDY28v7zjSujoLymiZ-I5awaHK" tvg-id="TRT.TÜRK.tr" tvg-chno="61",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1iHdBGwOPnauZjBQCRdCtptMCTnc8cytl" tvg-id="KRTTV.tr" tvg-chno="62",KRT TV
@@ -89,8 +81,6 @@ https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YqNYdGMb3bbWts1tQANHFWOpNSBpz_gX" tvg-id="BENGÜ.TÜRK.tr" tvg-chno="67",BengüTürk
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18-JymFbjseZ8GYA8MUvaQeNm1mNqYbLW" tvg-id="AKİT.TV.tr" tvg-chno="68",Akit TV
-http://129.151.204.207/TVHeryerde.php?ID=1311
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1URJZszrsD218BLYBcJZnD4BYbXE1MtxW" tvg-id="GZT.TV.tr" tvg-chno="69",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uOqGFPGbS2UyWxHiKugs8SFUD9HHnWFT" tvg-id="TYT.TÜRK.tr" tvg-chno="70",TYT Türk
@@ -107,8 +97,6 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1fbF7kl2WtsURL4GWUar5-OergzU3-W1Z" tvg-id="TİVİBU.SPOR.1.tr" tvg-chno="79",Tivibu Spor 1
 https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vGzs00VOq0aaaNB9niucjDrDEipf5INg" tvg-id="beIN.SPORTS.HABER.HD.tr" tvg-chno="85",beIN Sports Haber
-http://129.151.204.207/TVHeryerde.php?ID=2114
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1twBcD3uoVn69--0lOafxhFF7o5ETssLf" tvg-id="TRT.SPOR.HD.tr" tvg-chno="86",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1xFr9KkQuP2bVviL8MTk0XBy4PeB4wHFO" tvg-id="TRTSPORYILDIZ.tr" tvg-chno="87",TRT Spor Yıldız
@@ -119,14 +107,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OqmLQfkJQdFc42bFVnJTNUIbWel4YtLg" tvg-id="SPORTS.TV.tr" tvg-chno="90",Sports TV
 https://live.sportstv.saatteknoloji.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="EUROSPORT.1.HD.tr" tvg-chno="91",Eurosport 1
-http://129.151.204.207/TVHeryerde.php?ID=2002
-#EXTINF:-1 tvg-logo="" tvg-id="EUROSPORT.2.HD.tr" tvg-chno="92",Eurosport 2
-http://129.151.204.207/TVHeryerde.php?ID=1809
-#EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.tr" tvg-chno="93",S Sport
-http://129.151.204.207/TVHeryerde.php?ID=1810
-#EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.2.tr" tvg-chno="94",S Sport 2
-http://129.151.204.207/TVHeryerde.php?ID=3901
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-AM7yL3ikUm4m4K9BhELsdjzQzP9RaOa" tvg-id="TRACE.SPORT.STARS.HD.tr" tvg-chno="95",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" tvg-id="" tvg-chno="96",Fast&FunBox
@@ -159,20 +139,6 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" tvg-chno="115",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="EPIC.DRAMA.tr" tvg-chno="116",Epic Drama
-http://129.151.204.207/TVHeryerde.php?ID=2802
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" tvg-chno="121",Sinema TV
-http://129.151.204.207/TVHeryerde.php?ID=1908
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mmd3xM0U294nb16LDZ_YeLhgKrhzuxXU" tvg-id="SİNEMA.TV.AKSİYON.HD.tr" tvg-chno="122",Sinema Aksiyon
-http://129.151.204.207/TVHeryerde.php?ID=1109
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-4RHB9lDSPo8UftI0DHanJ0ZXAhj_jrq" tvg-id="SİNEMA.YERLİ.HD.tr" tvg-chno="123",Sinema Yerli
-http://129.151.204.207/TVHeryerde.php?ID=3304
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L0DrXWhq35YDfaGuPcTDjoU6FNzyrdto" tvg-id="SİNEMA.KOMEDİ.HD.tr" tvg-chno="124",Sinema Komedi
-http://129.151.204.207/TVHeryerde.php?ID=1110
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uQJxABxPkuYHxqt6Y6JIgEJSj_K1oDz_" tvg-id="SİNEMA.AİLE.HD.tr" tvg-chno="125",Sinema Aile
-http://129.151.204.207/TVHeryerde.php?ID=1911
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IHhsxbryQtPGgC1zxL2SD2ND_PdzN8x4" tvg-id="SİNEMA.TV.1001.HD.tr" tvg-chno="126",Sinema 1001
-http://129.151.204.207/TVHeryerde.php?ID=2602
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tqnipsIWWf3KwydON_Y0UXrkTaXCHuPT" tvg-id="FILM.SCREEN.tr" tvg-chno="127",FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="tabii.TV.tr" tvg-chno="129",tabii TV
@@ -245,8 +211,6 @@ https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hpoAES0Zzbep6AZ99rpLwMklG5D9zbpx" tvg-id="MİNİKA.ÇOCUK.tr" tvg-chno="174",minikaÇocuk
 https://streams.uzunmuhalefet.com/stream/507ebfe3-0c78-4804-b3be-637e9b45f5a0.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13DVcGU831tZ5qYbA4aZTtMtzvJkzRMfl" tvg-id="TARIHTV.tr" tvg-chno="180",Tarih TV
-http://129.151.204.207/TVHeryerde.php?ID=2001
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" tvg-chno="181",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="BBC.EARTH.tr" tvg-chno="183",BBC Earth
@@ -607,3 +571,39 @@ https://mss.ayakkabiparti.lol/mvturk/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms
 http://live.sarkortv.workers.dev/?ID=29
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13DVcGU831tZ5qYbA4aZTtMtzvJkzRMfl" tvg-id="TARIHTV.tr" tvg-chno="180",Tarih TV
 https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" tvg-id="CNN.TÜRK.HD.tr" tvg-chno="42",CNN Türk
+http://129.151.204.207/TVHeryerde.php?ID=2813
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ZYuPUIVMWnM39zaxnPXtOdpEMbDJvB-A" tvg-id="EKOTÜRK.HD.tr" tvg-chno="46",EkoTürk
+https://trn03.tulix.tv/gt-ekoturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1G4Zkfxa7L5WggTbU9KLc54eeolcBLEF6" tvg-id="ULUSAL.KANAL.tr" tvg-chno="52",Ulusal TV
+http://129.151.204.207/TVHeryerde.php?ID=2310
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",SZC
+http://129.151.204.207/TVHeryerde.php?ID=3002
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vGzs00VOq0aaaNB9niucjDrDEipf5INg" tvg-id="beIN.SPORTS.HABER.HD.tr" tvg-chno="85",beIN Sports Haber
+http://129.151.204.207/TVHeryerde.php?ID=2114
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18-JymFbjseZ8GYA8MUvaQeNm1mNqYbLW" tvg-id="AKİT.TV.tr" tvg-chno="68",Akit TV
+http://129.151.204.207/TVHeryerde.php?ID=1311
+#EXTINF:-1 tvg-logo="" tvg-id="EUROSPORT.1.HD.tr" tvg-chno="91",Eurosport 1
+http://129.151.204.207/TVHeryerde.php?ID=2002
+#EXTINF:-1 tvg-logo="" tvg-id="EUROSPORT.2.HD.tr" tvg-chno="92",Eurosport 2
+http://129.151.204.207/TVHeryerde.php?ID=1809
+#EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.tr" tvg-chno="93",S Sport
+http://129.151.204.207/TVHeryerde.php?ID=1810
+#EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.2.tr" tvg-chno="94",S Sport 2
+http://129.151.204.207/TVHeryerde.php?ID=3901
+#EXTINF:-1 tvg-logo="" tvg-id="EPIC.DRAMA.tr" tvg-chno="116",Epic Drama
+http://129.151.204.207/TVHeryerde.php?ID=2802
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" tvg-chno="121",Sinema TV
+http://129.151.204.207/TVHeryerde.php?ID=1908
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mmd3xM0U294nb16LDZ_YeLhgKrhzuxXU" tvg-id="SİNEMA.TV.AKSİYON.HD.tr" tvg-chno="122",Sinema Aksiyon
+http://129.151.204.207/TVHeryerde.php?ID=1109
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-4RHB9lDSPo8UftI0DHanJ0ZXAhj_jrq" tvg-id="SİNEMA.YERLİ.HD.tr" tvg-chno="123",Sinema Yerli
+http://129.151.204.207/TVHeryerde.php?ID=3304
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L0DrXWhq35YDfaGuPcTDjoU6FNzyrdto" tvg-id="SİNEMA.KOMEDİ.HD.tr" tvg-chno="124",Sinema Komedi
+http://129.151.204.207/TVHeryerde.php?ID=1110
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uQJxABxPkuYHxqt6Y6JIgEJSj_K1oDz_" tvg-id="SİNEMA.AİLE.HD.tr" tvg-chno="125",Sinema Aile
+http://129.151.204.207/TVHeryerde.php?ID=1911
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IHhsxbryQtPGgC1zxL2SD2ND_PdzN8x4" tvg-id="SİNEMA.TV.1001.HD.tr" tvg-chno="126",Sinema 1001
+http://129.151.204.207/TVHeryerde.php?ID=2602
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13DVcGU831tZ5qYbA4aZTtMtzvJkzRMfl" tvg-id="TARIHTV.tr" tvg-chno="180",Tarih TV
+http://129.151.204.207/TVHeryerde.php?ID=2001
