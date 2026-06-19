@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="18",beIN İZ
+http://sunx101.xyz:80/live/35aliozden/1908ozden/341522.ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="21",beIN Gurme
+http://sunx101.xyz:80/live/35aliozden/1908ozden/341533.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Sy0jDG8ieG6zW1XUPMUNeYBWI8BkYBBv" tvg-id="TRT.1.HD.tr" tvg-chno="23",TRT 1
@@ -683,10 +687,6 @@ http://sunx101.xyz:80/live/35aliozden/1908ozden/341737.ts
 http://sunx101.xyz:80/live/35aliozden/1908ozden/342246.ts
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",SmartSpor 2
 http://sunx101.xyz:80/live/35aliozden/1908ozden/342247.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN İZ
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341522.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Gurme
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341533.ts
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 1
 http://sunx101.xyz:80/live/35aliozden/1908ozden/342396.ts
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 2
