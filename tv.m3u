@@ -141,6 +141,8 @@ https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tqnipsIWWf3KwydON_Y0UXrkTaXCHuPT" tvg-id="FILM.SCREEN.tr" tvg-chno="127",FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Epic Drama
+http://sunx101.xyz:80/live/35aliozden/1908ozden/341742.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="tabii.TV.tr" tvg-chno="129",tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=18eyv5hzdwzIM59hleOkqlByfWlPonF7v" tvg-id="" tvg-chno="130",Rai Uno
@@ -639,8 +641,6 @@ http://sunx101.xyz:80/live/35aliozden/1908ozden/341741.ts
 http://sunx101.xyz:80/live/35aliozden/1908ozden/341740.ts
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",ÇocukSmart
 http://sunx101.xyz:80/live/35aliozden/1908ozden/341718.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Epic Drama
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341742.ts
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Eurosport 1
 http://sunx101.xyz:80/live/35aliozden/1908ozden/342248.ts
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Eurosport 2
