@@ -127,6 +127,14 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 http://sunx101.xyz:80/live/35aliozden/1908ozden/342246.ts
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="78",SporSmart 2
 http://sunx101.xyz:80/live/35aliozden/1908ozden/342247.ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 1
+http://sunx101.xyz:80/live/35aliozden/1908ozden/342396.ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 2
+http://sunx101.xyz:80/live/35aliozden/1908ozden/342397.ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 3
+http://sunx101.xyz:80/live/35aliozden/1908ozden/342398.ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor
+http://sunx101.xyz:80/live/35aliozden/1908ozden/342395.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1twBcD3uoVn69--0lOafxhFF7o5ETssLf" tvg-id="TRT.SPOR.HD.tr" tvg-chno="86",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1xFr9KkQuP2bVviL8MTk0XBy4PeB4wHFO" tvg-id="TRTSPORYILDIZ.tr" tvg-chno="87",TRT Spor Yıldız
@@ -253,10 +261,14 @@ https://saran-live.ercdn.net/babytv/index.m3u8
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",ÇocukSmart
 http://sunx101.xyz:80/live/35aliozden/1908ozden/341718.ts
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Da Vinci
+http://sunx101.xyz:80/live/35aliozden/1908ozden/341537.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="CARTOON.NETWORK.tr" tvg-chno="169",Cartoon Network
 https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mHVB1z9fEHLFyYRYwxLNjT_TiclEdsh9" tvg-id="MİNİKA.GO.tr" tvg-chno="170",minikaGO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Spacetoon
+http://sunx101.xyz:80/live/35aliozden/1908ozden/341722.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hpoAES0Zzbep6AZ99rpLwMklG5D9zbpx" tvg-id="MİNİKA.ÇOCUK.tr" tvg-chno="174",minikaÇocuk
 https://streams.uzunmuhalefet.com/stream/507ebfe3-0c78-4804-b3be-637e9b45f5a0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" tvg-chno="181",National Geographic
@@ -677,24 +689,16 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",BBC Earth
 http://sunx101.xyz:80/live/35aliozden/1908ozden/341535.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Spacetoon
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341722.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Da Vinci
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341537.ts
+
+
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",DiziSmart Premium
 http://sunx101.xyz:80/live/35aliozden/1908ozden/341740.ts
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Investigation Discovery
 http://sunx101.xyz:80/live/35aliozden/1908ozden/341536.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 1
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342396.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 2
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342397.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 3
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342398.ts
+
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 4
 http://sunx101.xyz:80/live/35aliozden/1908ozden/342399.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342395.ts
+
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",TRT 4K
 http://sunx101.xyz:80/live/35aliozden/1908ozden/324437.ts
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Viasat Explore
