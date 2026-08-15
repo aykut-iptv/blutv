@@ -8,7 +8,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13U7rfUFO39eszqVJV1ew5t1TMPth9dXe" tvg-id="ATV.HD.tr" tvg-chno="25",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1kTvUDVd5dC_OfwWCoPwf43fvQZEoK6z0" tvg-id="FOX.HD.tr" tvg-chno="26",NOW
-https://yakala.atakann.workers.dev/?url=https://www.nowtv.com.tr/canli-yayin&ext=m3u8
+http://176.65.153.7:6002/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1rQDPzvVLmq4NB82ppMXVYXfdGG-kwSlL" tvg-id="STAR.TV.HD.tr" tvg-chno="27",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1NqSngobOl1mdkDK8KiJml9OmhI68yYBZ" tvg-id="TV8.tr" tvg-chno="28",TV8
