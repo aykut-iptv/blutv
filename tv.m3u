@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="1",Sinema TV
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341730.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="2",Sinema 2
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341731.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="3",Sinema Aksiyon
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341728.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="4",Sinema Aksiyon 2
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341729.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="5",Sinema Yerli
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341732.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="6",Sinema Yerli 2
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341733.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="7",Sinema Aile
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341738.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="8",Sinema Aile 2
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341739.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="9",Sinema Komedi
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341734.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="10",Sinema Komedi 2
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341735.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="11",Sinema 1001
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341736.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="12",Sinema 1002
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341737.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="18",beIN İZ
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341522.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="21",beIN Gurme
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341533.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Sy0jDG8ieG6zW1XUPMUNeYBWI8BkYBBv" tvg-id="TRT.1.HD.tr" tvg-chno="23",TRT 1
