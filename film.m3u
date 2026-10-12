@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-year="2023" tvg-genre="Komedi" tvg-country="Yerli" group-title="Filmler" tvg-logo="https://images.justwatch.com/poster/304654167/s718/ozur-dilerim-2023.jpg",Özür Dilerim 
 https://www.youtube.com/watch?v=V9GmUtT0ECw
-#EXTINF:-1 tvg-year="2011" tvg-genre="Komedi/Macera" tvg-country="Yerli" group-title="Filmler" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b7/Kolpacino-bomba.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",Kolpaçino: Bomba
-https://www.youtube.com/watch?v=qvwnm0W7V5E
-#EXTINF:-1 tvg-year="2012" tvg-genre="Komedi" tvg-country="Yerli" group-title="Filmler" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e2/Sag-salim-afis.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",Sağ Salim
-https://www.youtube.com/watch?v=SuQAMlnJEXU
-#EXTINF:-1 tvg-year="2014" tvg-genre="Komedi/Macera" tvg-country="Yerli" group-title="Filmler" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e4/Sa%C4%9Fsalim2afis.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",Sağ Salim 2: Sil Baştan
+#EXTINF:-1 tvg-year="2011" tvg-genre="Komedi/Macera" tvg-country="Yerli" group-title="Filmler" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b7/Kolpacino-bomba.jpg",Kolpaçino: Bomba
+https://www.youtube.com/embed/qvwnm0W7V5E
+#EXTINF:-1 tvg-year="2012" tvg-genre="Komedi" tvg-country="Yerli" group-title="Filmler" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e2/Sag-salim-afis.jpg",Sağ Salim
+https://www.youtube.com/embed/SuQAMlnJEXU
+#EXTINF:-1 tvg-year="2014" tvg-genre="Komedi/Macera" tvg-country="Yerli" group-title="Filmler" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e4/Sa%C4%9Fsalim2afis.jpg",Sağ Salim 2: Sil Baştan
 https://www.youtube.com/embed/x8a0XkMOpZI
 #EXTINF:-1 tvg-year="2014" tvg-genre="Komedi/Macera" tvg-country="Yerli" group-title="Filmler" tvg-logo="https://",
 
