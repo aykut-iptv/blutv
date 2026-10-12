@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Özür Dilerim" tvg-logo="https://images.justwatch.com/poster/304654167/s718/ozur-dilerim-2023.jpg" tvg-year="2023" tvg-genre="Komedi" group-title="Filmler",Özür Dilerim
+#EXTINF:-1 tvg-name="Özür Dilerim" tvg-year="2023" tvg-genre="Komedi" tvg-country="Yerli" group-title="Filmler",Özür Dilerim tvg-logo="https://images.justwatch.com/poster/304654167/s718/ozur-dilerim-2023.jpg"
 https://www.youtube.com/watch?v=V9GmUtT0ECw
-#EXTINF:-1 tvg-name="Kolpaçino: Bomba" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b7/Kolpacino-bomba.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" tvg-year="2011" tvg-genre="Komedi/Macera" group-title="Filmler",Kolpaçino: Bomba
+#EXTINF:-1 tvg-name="Kolpaçino: Bomba" tvg-year="2011" tvg-genre="Komedi/Macera" tvg-country="Yerli" group-title="Filmler",Kolpaçino: Bomba tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b7/Kolpacino-bomba.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original"
 https://www.youtube.com/watch?v=qvwnm0W7V5E
-#EXTINF:-1 tvg-name="Sağ Salim" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e2/Sag-salim-afis.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" tvg-year="2012" tvg-genre="Komedi" group-title="Filmler",Sağ Salim
+#EXTINF:-1 tvg-name="Sağ Salim" tvg-year="2012" tvg-genre="Komedi" tvg-country="Yerli" group-title="Filmler",Sağ Salim tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e2/Sag-salim-afis.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original"
 https://www.youtube.com/watch?v=SuQAMlnJEXU
-#EXTINF:-1 tvg-name="Sağ Salim 2: Sil Baştan" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e4/Sa%C4%9Fsalim2afis.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" tvg-year="2014" tvg-genre="Komedi/Macera" group-title="Filmler",Sağ Salim 2: Sil Baştan
+#EXTINF:-1 tvg-name="Sağ Salim 2: Sil Baştan" tvg-year="2014" tvg-genre="Komedi/Macera" tvg-country="Yerli" group-title="Filmler",Sağ Salim 2: Sil Baştan tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e4/Sa%C4%9Fsalim2afis.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original"
 https://www.youtube.com/watch?v=x8a0XkMOpZI
