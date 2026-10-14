@@ -45,11 +45,13 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/apara/apara_1080p.m3u8
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1PGpecOWCDSpUY-RqSwyYjnBRjtlgRxAo" tvg-id="TGRT.HABER.tr" tvg-chno="45",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ZYuPUIVMWnM39zaxnPXtOdpEMbDJvB-A" tvg-id="EKOTÜRK.HD.tr" tvg-chno="46",EkoTürk
+https://cdn.ekoturk.net/hls/720p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Y9UxsEm_WaAekb5gLR4C5UI8EH1Tr_rm" tvg-id="HABERGLOBAL.tr" tvg-chno="47",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uRv06DHJekrqGjtiofCJsH75D4GwrjyS" tvg-id="EKOL.TV.tr" tvg-chno="49",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1a9e9XgxGtrTeLGExmpzO26Zj1tthLEa9" tvg-id="FlashHaberTV.tr" tvg-chno="50",Flash Haber
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1a9e9XgxGtrTeLGExmpzO26Zj1tthLEa9" tvg-id="FlashHaberTV.tr" tvg-chno="50",Flash TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1aRLVEbjAOeshPq_GRQClgdOqGvpgrszY" tvg-id="LIDERHABERTV.tr" tvg-chno="51",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
@@ -567,8 +569,7 @@ http://live.sarkortv.workers.dev/?ID=29
 https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" tvg-id="CNN.TÜRK.HD.tr" tvg-chno="42",CNN Türk
 http://129.151.204.207/TVHeryerde.php?ID=2813
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ZYuPUIVMWnM39zaxnPXtOdpEMbDJvB-A" tvg-id="EKOTÜRK.HD.tr" tvg-chno="46",EkoTürk
-https://trn03.tulix.tv/gt-ekoturk/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1G4Zkfxa7L5WggTbU9KLc54eeolcBLEF6" tvg-id="ULUSAL.KANAL.tr" tvg-chno="52",Ulusal TV
 http://129.151.204.207/TVHeryerde.php?ID=2310
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",SZC
