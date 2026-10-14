@@ -121,8 +121,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_3_750/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1pYaka6Uc-WsU3lCLXWjkWyXi4lTYFtR4" tvg-id="Fashion.TV.de" tvg-chno="110",Fashion TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1DoqM5YYsG58CmhaFd1kC-dyk-axtu8Ig" tvg-id="" tvg-chno="111",Infast
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12aG27v5xMNk2FMbQ4qbjFhFoEbnoaD2Q" tvg-id="TLC.HD.tr" tvg-chno="112",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" tvg-chno="115",FX
@@ -678,3 +676,5 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 https://streams.uzunmuhalefet.com/stream/82cce5b2-d998-4108-85d8-db0728722c4a
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OqmLQfkJQdFc42bFVnJTNUIbWel4YtLg" tvg-id="SPORTS.TV.tr" tvg-chno="90",Sports TV
 https://live.sportstv.saatteknoloji.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1DoqM5YYsG58CmhaFd1kC-dyk-axtu8Ig" tvg-id="" tvg-chno="111",Infast
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
