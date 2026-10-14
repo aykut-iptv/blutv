@@ -34,7 +34,7 @@ https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gWkpir1Bd4tDrnm3v1jhxAwWEQyIe6UK" tvg-id="ÜLKE.TV.HD.tr" tvg-chno="38",Ülke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1FQLMWVe0PHWxFc4wsvMbc_WcksoOVRfs" tvg-id="TVNET.HD.tr" tvg-chno="39",TVNet
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+https://tvnet-live.lg.mncdn.com/tvnet-live/tvnet/media-uitf8nwoj_w1643123262_22133.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12LVdw70cxm_J0Z68DT4gQJNgrRai0XrW" tvg-id="24.TV.tr" tvg-chno="40",24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15lVAi1_UHt5enamKj38KwSufVblXB1kV" tvg-id="NTV.HD.tr" tvg-chno="41",NTV
