@@ -61,8 +61,6 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1d1SzO0Ov1LRUX0Jctg1zfmSy1U-AB-v3" tvg-id="TV8,5.HD.tr" tvg-chno="55",TV8Buçuk
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13KoPn0sUPrBMBhpa1EZRBDTo8mOnxAGT" tvg-id="TRT.3.SPOR.tr" tvg-chno="56",TRT 3
-https://streams.uzunmuhalefet.com/stream/82cce5b2-d998-4108-85d8-db0728722c4a
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1iFRP9ref2umCB28F8hbYhGR6UhtaDUxw" tvg-id="TRT.AVAZ.HD.tr" tvg-chno="57",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" tvg-id="TRT.KURDİ.tr" tvg-chno="58",TRT Kurdî
@@ -83,8 +81,6 @@ https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 https://gzttv-live.lg.mncdn.com/gzttv-live/gzttv/media-ucdj7n6ye_w213561894_133449.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uOqGFPGbS2UyWxHiKugs8SFUD9HHnWFT" tvg-id="TYT.TÜRK.tr" tvg-chno="68",TYT Türk
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JLHxSyaZeVjbHxYgo8C8SjZUkH5UHYpq" tvg-id="EKOL.SPORTS.tr" tvg-chno="73",Ekol Sports
-https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" tvg-id="tabii.spor.tr" tvg-chno="74",tabii Spor
 http://live.tabitv.workers.dev/?ID=tabii%20spor
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" tvg-id="HTSPOR.tr" tvg-chno="75",HT Spor
@@ -678,3 +674,7 @@ https://trn03.tulix.tv/gt-krt--tv/index.m3u8
 https://live.yt-hls.workers.dev/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sLG8ypag1LTO1hbj_tjUfinePU-DdB-a" tvg-id="EPG_ID" tvg-chno="65",Show Max
 https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JLHxSyaZeVjbHxYgo8C8SjZUkH5UHYpq" tvg-id="EKOL.SPORTS.tr" tvg-chno="73",Ekol Sports
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13KoPn0sUPrBMBhpa1EZRBDTo8mOnxAGT" tvg-id="TRT.3.SPOR.tr" tvg-chno="56",TRT 3
+https://streams.uzunmuhalefet.com/stream/82cce5b2-d998-4108-85d8-db0728722c4a
