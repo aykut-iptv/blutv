@@ -81,6 +81,8 @@ https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 https://gzttv-live.lg.mncdn.com/gzttv-live/gzttv/media-ucdj7n6ye_w213561894_133449.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uOqGFPGbS2UyWxHiKugs8SFUD9HHnWFT" tvg-id="TYT.TÜRK.tr" tvg-chno="68",TYT Türk
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sLG8ypag1LTO1hbj_tjUfinePU-DdB-a" tvg-id="EPG_ID" tvg-chno="70",Show Max
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" tvg-id="tabii.spor.tr" tvg-chno="74",tabii Spor
 http://live.tabitv.workers.dev/?ID=tabii%20spor
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" tvg-id="HTSPOR.tr" tvg-chno="75",HT Spor
@@ -95,10 +97,12 @@ https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qJdvQ-F5vdSnWkt7oLoop8PPtol2dfPi6QDemd3AeNWPJSe2pXZ-uzl5PJReh0Rn6jQb5nQPp70QdxM86Xf-" tvg-id="EPG_ID" tvg-chno="89",Yarıştayız TV
 https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-AM7yL3ikUm4m4K9BhELsdjzQzP9RaOa" tvg-id="TRACE.SPORT.STARS.HD.tr" tvg-chno="95",Trace Sport Stars
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-AM7yL3ikUm4m4K9BhELsdjzQzP9RaOa" tvg-id="TRACE.SPORT.STARS.HD.tr" tvg-chno="94",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" tvg-id="" tvg-chno="96",Fast&FunBox
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" tvg-id="" tvg-chno="95",Fast&FunBox
 https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/e/ef/Fightboxekr2020.png/revision/latest/scale-to-width-down/5000?cb=20240607193927&path-prefix=pl" tvg-id="" tvg-chno="96",FightBox
+http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1D7mA21AEaOGYJWguk-EWoIZhvlJhyxc3" tvg-id="NUMBER1.TURK.HD.tr" tvg-chno="97",NR1 Türk TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1XecYIxx6Sp3WNEIpWVp4n217xiTiMxaa" tvg-id="POWER.TURK.HD.tr" tvg-chno="98",PowerTürk TV
@@ -666,8 +670,6 @@ https://streams.uzunmuhalefet.com/stream/edba8b19-4745-4c5c-a235-b23a06d83eda.m3
 https://trn03.tulix.tv/gt-krt--tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nqZpXxXw7j185TSvYotlPuHyRw9ww9vp" tvg-id="BİZİM.EV.TV.tr" tvg-chno="63",BizimEv TV
 https://live.yt-hls.workers.dev/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sLG8ypag1LTO1hbj_tjUfinePU-DdB-a" tvg-id="EPG_ID" tvg-chno="65",Show Max
-https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JLHxSyaZeVjbHxYgo8C8SjZUkH5UHYpq" tvg-id="EKOL.SPORTS.tr" tvg-chno="73",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13KoPn0sUPrBMBhpa1EZRBDTo8mOnxAGT" tvg-id="TRT.3.SPOR.tr" tvg-chno="56",TRT 3
