@@ -225,6 +225,8 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1w9Ofj6iOdSr2CW9YUmfrROB8KfMFq8jD" tvg-id="" group-title="Local" tvg-chno="268",BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12by1JhNeoWLGtVKX-Hugmn9LK9hZp5VW" tvg-id="" group-title="International" tvg-chno="290",Türkmeneli TV
+https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1hIeD4EhQPvWKfhp2EyBSXxjhlhg7tk5M" tvg-id="BRT.1.HD.tr" group-title="International" tvg-chno="291",BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1jUw8oJuQcA4NIXpEZIy5PRxTymnzF8AB" tvg-id="BRT.2.HD.tr" group-title="International" tvg-chno="292",BRT 2
@@ -678,8 +680,6 @@ https://streams.uzunmuhalefet.com/stream/e12ae805-19c9-4c7f-ac92-cdd89d953d10.m3
 https://streams.uzunmuhalefet.com/stream/3cad8cd6-f7b5-4a71-98ea-586e50109ca0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1V-C7mLtYuBKS9njNJzfNAgU49ykty76F" tvg-id="" tvg-chno="289",Semerkand Way
 https://streams.uzunmuhalefet.com/stream/a7795b5c-44dd-4a7e-b428-af25170193c5.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12by1JhNeoWLGtVKX-Hugmn9LK9hZp5VW" tvg-id="" tvg-chno="290",Türkmeneli TV
-https://streams.uzunmuhalefet.com/stream/a0b3f486-60ca-4956-925b-a5d2b4c8f5ee.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ac7H13XMypsKemrd8LCqX-jDwf2FHy7b" tvg-id="" tvg-chno="267",Kanal Z
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dn1PYt8bDN8F4-4C7xzxvoY8Yb-PJ3ws" tvg-id="KIBRIS.GENC.TV.tr" tvg-chno="295",Genç TV
