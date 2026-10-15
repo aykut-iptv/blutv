@@ -53,73 +53,71 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1a9e9XgxGtrTeLGExmpzO26Zj1tthLEa9" tvg-id="FlashHaberTV.tr" group-title="General" tvg-chno="50",Flash TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1aRLVEbjAOeshPq_GRQClgdOqGvpgrszY" tvg-id="LIDERHABERTV.tr" tvg-chno="51",Lider Haber
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1aRLVEbjAOeshPq_GRQClgdOqGvpgrszY" tvg-id="LIDERHABERTV.tr" group-title="News" tvg-chno="51",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gnryMmGo7sM27NY9gYrimMwiJZJ0I6oG" tvg-id="HalkTV.tr" tvg-chno="53",Halk TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gnryMmGo7sM27NY9gYrimMwiJZJ0I6oG" tvg-id="HalkTV.tr" group-title="News" tvg-chno="53",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1fllPn-JrPH9YFbQGq06lR0imFXY0Z8Yv" tvg-id="TEVE2.HD.tr" tvg-chno="54",TV2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1fllPn-JrPH9YFbQGq06lR0imFXY0Z8Yv" tvg-id="TEVE2.HD.tr" group-title="General" tvg-chno="54",TV2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1d1SzO0Ov1LRUX0Jctg1zfmSy1U-AB-v3" tvg-id="TV8,5.HD.tr" tvg-chno="55",TV8Buçuk
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1d1SzO0Ov1LRUX0Jctg1zfmSy1U-AB-v3" tvg-id="TV8,5.HD.tr" group-title="General" tvg-chno="55",TV8Buçuk
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1iFRP9ref2umCB28F8hbYhGR6UhtaDUxw" tvg-id="TRT.AVAZ.HD.tr" tvg-chno="57",TRT Avaz
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1iFRP9ref2umCB28F8hbYhGR6UhtaDUxw" tvg-id="TRT.AVAZ.HD.tr" group-title="General" tvg-chno="57",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" tvg-id="TRT.KURDİ.tr" tvg-chno="58",TRT Kurdî
-https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14mnH90Uc56_BHzc2gi-DJmJ0B5A2rthL" tvg-id="TURKHABERTV.tr" tvg-chno="59",TH Türk Haber
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14mnH90Uc56_BHzc2gi-DJmJ0B5A2rthL" tvg-id="TURKHABERTV.tr" group-title="News" tvg-chno="59",TH Türk Haber
 https://edge2.taksimbilisim.com/turkhaber/bant1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Ax_vjWiDY28v7zjSujoLymiZ-I5awaHK" tvg-id="TRT.TÜRK.tr" tvg-chno="61",TRT Türk
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Ax_vjWiDY28v7zjSujoLymiZ-I5awaHK" tvg-id="TRT.TÜRK.tr" group-title="General" tvg-chno="61",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YqNYdGMb3bbWts1tQANHFWOpNSBpz_gX" tvg-id="BENGÜ.TÜRK.tr" tvg-chno="63",BengüTürk
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YqNYdGMb3bbWts1tQANHFWOpNSBpz_gX" tvg-id="BENGÜ.TÜRK.tr" group-title="News" tvg-chno="63",BengüTürk
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1tOMKDXxUION9-PN6aca1o4ItFzc91tY-" tvg-id="TV.4.tr" tvg-chno="64",TV 4
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1tOMKDXxUION9-PN6aca1o4ItFzc91tY-" tvg-id="TV.4.tr" group-title="General" tvg-chno="64",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Kiia19jwJ6-pX5ifthdYqzUzHuhA0w4O" tvg-id="Bi.Kanal.tr" tvg-chno="65",Bi Kanal
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Kiia19jwJ6-pX5ifthdYqzUzHuhA0w4O" tvg-id="Bi.Kanal.tr" group-title="General" tvg-chno="65",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17kHPx2CcotXR4FAOL9hfikoCVwddogqZ" tvg-id="TRT2.tr" tvg-chno="66",TRT 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17kHPx2CcotXR4FAOL9hfikoCVwddogqZ" tvg-id="TRT2.tr" group-title="General" tvg-chno="66",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1URJZszrsD218BLYBcJZnD4BYbXE1MtxW" tvg-id="GZT.TV.tr" tvg-chno="67",GZT TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1URJZszrsD218BLYBcJZnD4BYbXE1MtxW" tvg-id="GZT.TV.tr" group-title="General" tvg-chno="67",GZT TV
 https://gzttv-live.lg.mncdn.com/gzttv-live/gzttv/media-ucdj7n6ye_w213561894_133449.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uOqGFPGbS2UyWxHiKugs8SFUD9HHnWFT" tvg-id="TYT.TÜRK.tr" tvg-chno="68",TYT Türk
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uOqGFPGbS2UyWxHiKugs8SFUD9HHnWFT" tvg-id="TYT.TÜRK.tr" group-title="General" tvg-chno="68",TYT Türk
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sLG8ypag1LTO1hbj_tjUfinePU-DdB-a" tvg-id="EPG_ID" tvg-chno="70",Show Max
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sLG8ypag1LTO1hbj_tjUfinePU-DdB-a" tvg-id="EPG_ID" group-title="General" tvg-chno="70",Show Max
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" tvg-id="tabii.spor.tr" tvg-chno="74",tabii Spor
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" tvg-id="tabii.spor.tr" group-title="Sport" tvg-chno="74",tabii Spor
 http://live.tabitv.workers.dev/?ID=tabii%20spor
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" tvg-id="HTSPOR.tr" tvg-chno="75",HT Spor
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" tvg-id="HTSPOR.tr" group-title="Sport" tvg-chno="75",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" tvg-id="FBTV.tr" tvg-chno="76",FB TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" tvg-id="FBTV.tr" group-title="Sport" tvg-chno="76",FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1twBcD3uoVn69--0lOafxhFF7o5ETssLf" tvg-id="TRT.SPOR.HD.tr" tvg-chno="86",TRT Spor
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1twBcD3uoVn69--0lOafxhFF7o5ETssLf" tvg-id="TRT.SPOR.HD.tr" group-title="Sport" tvg-chno="86",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1xFr9KkQuP2bVviL8MTk0XBy4PeB4wHFO" tvg-id="TRTSPORYILDIZ.tr" tvg-chno="87",TRT Spor Yıldız
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1xFr9KkQuP2bVviL8MTk0XBy4PeB4wHFO" tvg-id="TRTSPORYILDIZ.tr" group-title="Sport" tvg-chno="87",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1KedmjM_DFajZtSqXzLvVegEuVuHtDjFx" tvg-id="A.SPOR.tr" tvg-chno="88",A Spor
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1KedmjM_DFajZtSqXzLvVegEuVuHtDjFx" tvg-id="A.SPOR.tr" group-title="Sport" tvg-chno="88",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qJdvQ-F5vdSnWkt7oLoop8PPtol2dfPi6QDemd3AeNWPJSe2pXZ-uzl5PJReh0Rn6jQb5nQPp70QdxM86Xf-" tvg-id="EPG_ID" tvg-chno="89",Yarıştayız TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qJdvQ-F5vdSnWkt7oLoop8PPtol2dfPi6QDemd3AeNWPJSe2pXZ-uzl5PJReh0Rn6jQb5nQPp70QdxM86Xf-" tvg-id="EPG_ID" group-title="Sport" tvg-chno="89",Yarıştayız TV
 https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-AM7yL3ikUm4m4K9BhELsdjzQzP9RaOa" tvg-id="TRACE.SPORT.STARS.HD.tr" tvg-chno="94",Trace Sport Stars
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-AM7yL3ikUm4m4K9BhELsdjzQzP9RaOa" tvg-id="TRACE.SPORT.STARS.HD.tr" group-title="Sport" tvg-chno="94",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" tvg-id="" tvg-chno="95",Fast&FunBox
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" tvg-id="" group-title="Sport" tvg-chno="95",Fast&FunBox
 https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/e/ef/Fightboxekr2020.png/revision/latest/scale-to-width-down/5000?cb=20240607193927&path-prefix=pl" tvg-id="" tvg-chno="96",FightBox
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/e/ef/Fightboxekr2020.png/revision/latest/scale-to-width-down/5000?cb=20240607193927&path-prefix=pl" tvg-id="" group-title="Sport" tvg-chno="96",FightBox
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1D7mA21AEaOGYJWguk-EWoIZhvlJhyxc3" tvg-id="NUMBER1.TURK.HD.tr" tvg-chno="97",NR1 Türk TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1D7mA21AEaOGYJWguk-EWoIZhvlJhyxc3" tvg-id="NUMBER1.TURK.HD.tr" group-title="Music" tvg-chno="97",NR1 Türk TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1XecYIxx6Sp3WNEIpWVp4n217xiTiMxaa" tvg-id="POWER.TURK.HD.tr" tvg-chno="98",PowerTürk TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1XecYIxx6Sp3WNEIpWVp4n217xiTiMxaa" tvg-id="POWER.TURK.HD.tr" group-title="Music" tvg-chno="98",PowerTürk TV
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14xfXavYhP-5cHwXeEFNaNWvwL-BUjAe4" tvg-id="NUMBER1.TV.HD.tr" tvg-chno="99",NR1 TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14xfXavYhP-5cHwXeEFNaNWvwL-BUjAe4" tvg-id="NUMBER1.TV.HD.tr" group-title="Music" tvg-chno="99",NR1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1eJfQtdb2pR32UH_gzX_hNvJESfBWteZd" tvg-id="POWER.TV.HD.tr" tvg-chno="100",Power TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1eJfQtdb2pR32UH_gzX_hNvJESfBWteZd" tvg-id="POWER.TV.HD.tr" group-title="Music" tvg-chno="100",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nTVnP-Ar1vRICd8TM46Zjdb-HMzlM_Gr" tvg-id="EPG_ID" tvg-chno="103",360TuneBox
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nTVnP-Ar1vRICd8TM46Zjdb-HMzlM_Gr" tvg-id="EPG_ID" group-title="Music" tvg-chno="103",360TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=10veMRAs5tQv5IRQXlJQQ7IBWzw8OUOtP" tvg-id="TRT.MÜZİK.tr" tvg-chno="104",TRT Müzik
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=10veMRAs5tQv5IRQXlJQQ7IBWzw8OUOtP" tvg-id="TRT.MÜZİK.tr" group-title="Music" tvg-chno="104",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cCbsQDiaNvwdyBJSsflFEsi3W6WFpAcp" tvg-id="EPG_ID" tvg-chno="105",Kral Pop TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cCbsQDiaNvwdyBJSsflFEsi3W6WFpAcp" tvg-id="EPG_ID" group-title="Music" tvg-chno="105",Kral Pop TV
 https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?app=kralpoptv_web&ce=3
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1l5Bgw1i5gbdYtZlSHWCcDnkYToG1wtGH" tvg-id="DREAM.TÜRK.tr" tvg-chno="108",Dream Türk
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1l5Bgw1i5gbdYtZlSHWCcDnkYToG1wtGH" tvg-id="DREAM.TÜRK.tr" group-title="Music" tvg-chno="108",Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_3_750/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cUayGoUNB45Vq6AyuPzKWzh_cvRh0lNM" tvg-id="TRACE.URBAN.HD.tr" tvg-chno="109",Trace Urban
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cUayGoUNB45Vq6AyuPzKWzh_cvRh0lNM" tvg-id="TRACE.URBAN.HD.tr" group-title="Music" tvg-chno="109",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1pYaka6Uc-WsU3lCLXWjkWyXi4lTYFtR4" tvg-id="Fashion.TV.de" tvg-chno="110",Fashion TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
@@ -271,6 +269,8 @@ https://streams.uzunmuhalefet.com/stream/d1e7e32f-d06d-42db-997c-acdb9b0971f5.m3
 https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1P-XxhRE8fVkowvNNJbyGdpnasB06VNu6" tvg-id="KIBRIS.TV.tr" tvg-chno="298",Kıbrıs TV
 https://play.kibristv.com/stream/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" tvg-id="TRT.KURDİ.tr" tvg-chno="390",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6swVbl5M_XqlHqaVKEM0Fg3dXdmkYOWqVQ&s" tvg-id="EPG_ID" tvg-chno="401",Alem FM
 https://alemfm.radyotvonline.net/alemfmaac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/1/logos/android_default_logo.png?v=301024040744" tvg-id="EPG_ID" tvg-chno="402",Süper FM
