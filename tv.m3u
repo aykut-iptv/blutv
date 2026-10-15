@@ -51,7 +51,7 @@ https://cdn.ekoturk.net/hls/720p.m3u8
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uRv06DHJekrqGjtiofCJsH75D4GwrjyS" tvg-id="EKOL.TV.tr" group-title="General" tvg-chno="49",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1VqiOWE_QaLB2uU_AiEJGhn7WaQ0nJmb8/view?usp=sharing" tvg-id="FlashHaberTV.tr" group-title="General" tvg-chno="50",Flash TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1VqiOWE_QaLB2uU_AiEJGhn7WaQ0nJmb8" tvg-id="FlashHaberTV.tr" group-title="General" tvg-chno="50",Flash TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1aRLVEbjAOeshPq_GRQClgdOqGvpgrszY" tvg-id="LIDERHABERTV.tr" group-title="News" tvg-chno="51",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
