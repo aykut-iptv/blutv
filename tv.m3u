@@ -225,13 +225,11 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1jUw8oJuQcA4NIXpEZIy5PRxTymnzF8AB" tvg-id="BRT.2.HD.tr" group-title="International" tvg-chno="292",BRT 2
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ek9rbnV0K-qrad7ERmYW_jbyes6zwtG0" tvg-id="KIBRIS.ADA.TV.tr" tvg-chno="294",Ada TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ek9rbnV0K-qrad7ERmYW_jbyes6zwtG0" tvg-id="KIBRIS.ADA.TV.tr" group-title="International" tvg-chno="294",Ada TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w1855707650.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dn1PYt8bDN8F4-4C7xzxvoY8Yb-PJ3ws" tvg-id="KIBRIS.GENC.TV.tr" tvg-chno="295",Genç TV
-https://streams.uzunmuhalefet.com/stream/d1e7e32f-d06d-42db-997c-acdb9b0971f5.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rGa5ZLI-XMHIjm9yO6VhgIYxsFNe3TOg" tvg-id="KANAL.T.tr" tvg-chno="297",Kanal T
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rGa5ZLI-XMHIjm9yO6VhgIYxsFNe3TOg" tvg-id="KANAL.T.tr" group-title="International" tvg-chno="297",Kanal T
 https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1P-XxhRE8fVkowvNNJbyGdpnasB06VNu6" tvg-id="KIBRIS.TV.tr" tvg-chno="298",Kıbrıs TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1P-XxhRE8fVkowvNNJbyGdpnasB06VNu6" tvg-id="KIBRIS.TV.tr" group-title="International" tvg-chno="298",Kıbrıs TV
 https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=14Ky_H8RpQnRD2K8FM5QHYe1M126UTrGh" tvg-id="" group-title="International" tvg-chno="386",Arirang
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
@@ -680,3 +678,5 @@ https://streams.uzunmuhalefet.com/stream/a7795b5c-44dd-4a7e-b428-af25170193c5.m3
 https://streams.uzunmuhalefet.com/stream/a0b3f486-60ca-4956-925b-a5d2b4c8f5ee.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ac7H13XMypsKemrd8LCqX-jDwf2FHy7b" tvg-id="" tvg-chno="267",Kanal Z
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dn1PYt8bDN8F4-4C7xzxvoY8Yb-PJ3ws" tvg-id="KIBRIS.GENC.TV.tr" tvg-chno="295",Genç TV
+https://streams.uzunmuhalefet.com/stream/d1e7e32f-d06d-42db-997c-acdb9b0971f5.m3u8
