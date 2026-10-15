@@ -195,7 +195,7 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YX1tyX5T85T-AKgZPxIfcqNH4N8MRcOF" tvg-id="CGTN.9.DOCUMENTARY.tr" group-title="Documentary" tvg-chno="194",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-id="" group-title="Documentary" tvg-chno="195",RT Doc
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/27/RT_Documentary.png/revision/latest/scale-to-width-down/250?cb=20240623210059&path-prefix=ru" tvg-id="" group-title="Documentary" tvg-chno="195",RT Doc
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1IHVDMyrvXYPxEysiUrcjXKqRUwpkq2X0" tvg-id="" group-title="Documentary" tvg-chno="198",DocuBox
 https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
