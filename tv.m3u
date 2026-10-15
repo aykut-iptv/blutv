@@ -205,7 +205,7 @@ https://tv.kanalb.tr/hls/kanalb/1_2/index.m3u8
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O946xn-OQEoYwAOCqqxUQdqk0cNKxYlO" tvg-id="" group-title="Other" tvg-chno="253",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1KZVY3H6zIKngnOgq6MoACaR8I30e09Sx" tvg-id="MELTEM.TV.tr" tvg-chno="254",Meltem TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1KZVY3H6zIKngnOgq6MoACaR8I30e09Sx" tvg-id="MELTEM.TV.tr" group-title="Other" tvg-chno="254",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_x31EHaOaJ-SLZlb-7K193A7G6soX2EL" tvg-id="KANAL.23.tr" group-title="Local" tvg-chno="256",Kanal 23
 https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v1a1/mono.m3u8
