@@ -119,23 +119,23 @@ https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?app=kralpoptv_web&ce=3
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_3_750/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cUayGoUNB45Vq6AyuPzKWzh_cvRh0lNM" tvg-id="TRACE.URBAN.HD.tr" group-title="Music" tvg-chno="109",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1pYaka6Uc-WsU3lCLXWjkWyXi4lTYFtR4" tvg-id="Fashion.TV.de" tvg-chno="110",Fashion TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1pYaka6Uc-WsU3lCLXWjkWyXi4lTYFtR4" tvg-id="Fashion.TV.de" group-title="Entertainment Life" tvg-chno="110",Fashion TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12aG27v5xMNk2FMbQ4qbjFhFoEbnoaD2Q" tvg-id="TLC.HD.tr" tvg-chno="112",TLC
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12aG27v5xMNk2FMbQ4qbjFhFoEbnoaD2Q" tvg-id="TLC.HD.tr" group-title="Entertainment Life" tvg-chno="112",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" tvg-chno="115",FX
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" group-title="Movies Series" tvg-chno="115",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tqnipsIWWf3KwydON_Y0UXrkTaXCHuPT" tvg-id="FILM.SCREEN.tr" tvg-chno="127",FilmScreen International
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tqnipsIWWf3KwydON_Y0UXrkTaXCHuPT" tvg-id="FILM.SCREEN.tr" group-title="Movies Series" tvg-chno="127",FilmScreen International
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="tabii.TV.tr" tvg-chno="129",tabii TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="tabii.TV.tr" group-title="Movies Series" tvg-chno="129",tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=18eyv5hzdwzIM59hleOkqlByfWlPonF7v" tvg-id="" tvg-chno="130",Rai Uno
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=18eyv5hzdwzIM59hleOkqlByfWlPonF7v" tvg-id="" group-title="International" tvg-chno="130",Rai Uno
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WYijg4ZTn-1kMPvYyFKJ3yD94JVd3an4" tvg-id="TV5.Monde.de" tvg-chno="131",TV5Monde
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WYijg4ZTn-1kMPvYyFKJ3yD94JVd3an4" tvg-id="TV5.Monde.de" group-title="International" tvg-chno="131",TV5Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1gA1eG2-zaWAAcQqrJwyG0l67JKa7NxSP" tvg-id="FRANCE.24.HD-FR.tr" tvg-chno="132",France 24 Français
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Q1J8AUNj7FqZevcfeJB_haOX6kTtuCk5" tvg-id="TRTArabi.tr" tvg-chno="133",TRT Arabi
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Q1J8AUNj7FqZevcfeJB_haOX6kTtuCk5" tvg-id="TRTArabi.tr" group-title="International News" tvg-chno="133",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Jdd7txogrijXcbNmedI4r9cOyct4ZkWZ" tvg-id="AL.JAZEERA.ARABIC.tr" tvg-chno="134",Al Jazeera Channel
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
@@ -165,9 +165,9 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=111kVwe4AF-kI6QYcwj3TcG2wLK-ZfwHj" tvg-id="NHK.WORLD.tr" tvg-chno="148",NHK World-JPN
 https://dash3.antik.sk/live/test_nhk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1xaxTQcD6BtGRI1QK1DJtybf1wtkaJ_t1" tvg-id="CGTN.tr" tvg-chno="149",CGTN
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1xaxTQcD6BtGRI1QK1DJtybf1wtkaJ_t1" tvg-id="CGTN.tr" group-title="International News Europe" tvg-chno="149",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dyEuChX2aRClHJ7de4emIOInX3JklpaS" tvg-id="" tvg-chno="150",RT News
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dyEuChX2aRClHJ7de4emIOInX3JklpaS" tvg-id="" group-title="International News Europe" tvg-chno="150",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1noIG9jJpEuT-Fkwyo7aqV8JEzi-Mk9mF" tvg-id="SAUDI.QURAN.tr" tvg-chno="153",Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
@@ -179,23 +179,23 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1bt_ViNbAE79yimN-pT5Ylzvj2u7sZEIk" tvg-id="SEMERKAND.HD.tr" tvg-chno="157",Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uK7NEjNmuJD3cxTEQlMnsNd9eYVgw71V" tvg-id="DiyanetTV.tr" tvg-chno="158",Diyanet TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uK7NEjNmuJD3cxTEQlMnsNd9eYVgw71V" tvg-id="DiyanetTV.tr" group-title="Religious" tvg-chno="158",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1AGenLouPwe-Sx0s84l7_O8kcF5D2nTYO" tvg-id="TRT.DIYANET.COCUK.tr" tvg-chno="159",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1lCyk5l3Epunft7lolDkeM8jcloDA1MWO" tvg-id="TRT.ÇOCUK.tr" tvg-chno="160",TRT Çocuk
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1lCyk5l3Epunft7lolDkeM8jcloDA1MWO" tvg-id="TRT.ÇOCUK.tr" group-title="Child" tvg-chno="160",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1INMOJhcwFNfVEeZGk5ZRueEiHskOK2Eu" tvg-id="DUCKTV.HD.tr" tvg-chno="161",Duck TV
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RpsnevyYc38xtZ8d35Fl_aikSJFIeWqr" tvg-id="BABY.TV.tr" tvg-chno="162",Baby TV
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" tvg-chno="165",Disney Junior
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" group-title="Child" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="CARTOON.NETWORK.tr" tvg-chno="169",Cartoon Network
 https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mHVB1z9fEHLFyYRYwxLNjT_TiclEdsh9" tvg-id="MİNİKA.GO.tr" tvg-chno="170",minikaGO
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mHVB1z9fEHLFyYRYwxLNjT_TiclEdsh9" tvg-id="MİNİKA.GO.tr" group-title="Child" tvg-chno="170",minikaGO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hpoAES0Zzbep6AZ99rpLwMklG5D9zbpx" tvg-id="MİNİKA.ÇOCUK.tr" tvg-chno="174",minikaÇocuk
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hpoAES0Zzbep6AZ99rpLwMklG5D9zbpx" tvg-id="MİNİKA.ÇOCUK.tr" group-title="Child" tvg-chno="174",minikaÇocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" tvg-chno="181",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
@@ -207,17 +207,17 @@ https://mss.ayakkabiparti.lol/lovenature/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sW-5-bPEUluTbTfg6_7sfyPz41Jj3BE_" tvg-id="DISCOVERY.ID.tr" tvg-chno="186",Investigation Discovery
 https://mss.ayakkabiparti.lol/discs/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nub8nwDeupjt3EF2626hdEVSwWTb9l_T" tvg-id="DMAX.tr" tvg-chno="187",DMAX
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nub8nwDeupjt3EF2626hdEVSwWTb9l_T" tvg-id="DMAX.tr" group-title="Documentary" tvg-chno="187",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1m7sNn4fgmIIYX0Qu2wGZtagaCV6aadPi" tvg-id="" tvg-chno="188",DocuScreen
 https://mss.ayakkabiparti.lol/docubox/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1EIbviB64pv2YBWFfgp5aHZaoUgahgSwE" tvg-id="" tvg-chno="189",Yaban TV
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" tvg-id="TRT.BELGESEL.HD.tr" tvg-chno="190",TRT Belgesel
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" tvg-id="TRT.BELGESEL.HD.tr" group-title="Documentary" tvg-chno="190",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X90QjoblNOtafuDjn-_s_XBeou9p9-2E" tvg-id="DiscoveryChannel.tr" tvg-chno="191",Discovery Channel
 https://mss.ayakkabiparti.lol/discovery/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YX1tyX5T85T-AKgZPxIfcqNH4N8MRcOF" tvg-id="CGTN.9.DOCUMENTARY.tr" tvg-chno="194",CGTN Documentary
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YX1tyX5T85T-AKgZPxIfcqNH4N8MRcOF" tvg-id="CGTN.9.DOCUMENTARY.tr" group-title="Documentary" tvg-chno="194",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1IHVDMyrvXYPxEysiUrcjXKqRUwpkq2X0" tvg-id="" tvg-chno="198",DocuBox
 https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
@@ -225,7 +225,7 @@ https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yaJQ755pOGfGEVg1X6gsvEgdu4wjIAkL" tvg-id="" tvg-chno="251",Kanal B
 https://tv.kanalb.tr/hls/kanalb/1_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Z5EBaW_XkpuN7uo7AqAUjVy8W5_ajSWC" tvg-id="" tvg-chno="252",MK TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Z5EBaW_XkpuN7uo7AqAUjVy8W5_ajSWC" tvg-id="" group-title="Other" tvg-chno="252",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O946xn-OQEoYwAOCqqxUQdqk0cNKxYlO" tvg-id="" tvg-chno="253",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
@@ -237,7 +237,7 @@ https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v1a1/mono.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15qxVvAdRg-Jg_Y18EM0O6ty4QExRmP0C" tvg-id="KANAL.26.tr" tvg-chno="258",Kanal 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1P0E-Rb7yrIKdVd17WYB7qalukYZSVdFI" tvg-id="AS.TV.tr" tvg-chno="259",As TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1P0E-Rb7yrIKdVd17WYB7qalukYZSVdFI" tvg-id="AS.TV.tr" group-title="Local" tvg-chno="259",As TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1A-SHe-ANszNcJq-I8flgwSFIiT7M-0Ck" tvg-id="TV5.tr" tvg-chno="260",TV 5
 https://streams.uzunmuhalefet.com/stream/e12ae805-19c9-4c7f-ac92-cdd89d953d10.m3u8
@@ -271,179 +271,179 @@ https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8
 https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" tvg-id="TRT.KURDİ.tr" tvg-chno="390",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6swVbl5M_XqlHqaVKEM0Fg3dXdmkYOWqVQ&s" tvg-id="EPG_ID" tvg-chno="401",Alem FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6swVbl5M_XqlHqaVKEM0Fg3dXdmkYOWqVQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="401",Alem FM
 https://alemfm.radyotvonline.net/alemfmaac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/1/logos/android_default_logo.png?v=301024040744" tvg-id="EPG_ID" tvg-chno="402",Süper FM
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/1/logos/android_default_logo.png?v=301024040744" tvg-id="EPG_ID" group-title="Radio" tvg-chno="402",Süper FM
 https://27823.live.streamtheworld.com/SUPER_FM128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/4/logos/android_default_logo.png?v=290425114642" tvg-id="EPG_ID" tvg-chno="403",JoyTürk FM
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/4/logos/android_default_logo.png?v=290425114642" tvg-id="EPG_ID" group-title="Radio" tvg-chno="403",JoyTürk FM
 https://28513.live.streamtheworld.com/JOY_TURK128AAC.aac
-#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/9d472dd1-a769-4335-91bf-245c5f037c26.jpg" tvg-id="EPG_ID" tvg-chno="404",TRT Nağme
+#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/9d472dd1-a769-4335-91bf-245c5f037c26.jpg" tvg-id="EPG_ID" group-title="Radio" tvg-chno="404",TRT Nağme
 https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/be1b7390-cd1d-43cd-9f0b-86f50a4db873.jpg" tvg-id="EPG_ID" tvg-chno="405",TRT Türkü
+#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/be1b7390-cd1d-43cd-9f0b-86f50a4db873.jpg" tvg-id="EPG_ID" group-title="Radio" tvg-chno="405",TRT Türkü
 https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/e27e1421-5735-40c1-affb-4101dc73a305.jpg" tvg-id="EPG_ID" tvg-chno="406",TRT FM
+#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/e27e1421-5735-40c1-affb-4101dc73a305.jpg" tvg-id="EPG_ID" group-title="Radio" tvg-chno="406",TRT FM
 https://rd-trtfm.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrxUmZjGqyPmlDEhB8xsrcVtiDZvwOvHIGsA&s" tvg-id="EPG_ID" tvg-chno="407",TRT Radyo 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrxUmZjGqyPmlDEhB8xsrcVtiDZvwOvHIGsA&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="407",TRT Radyo 3
 https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf9gilkDjucBCAzxNmDSLWSMzkl4uOsBOyaQ&s" tvg-id="EPG_ID" tvg-chno="408",Kafa Radyo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf9gilkDjucBCAzxNmDSLWSMzkl4uOsBOyaQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="408",Kafa Radyo
 https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/AjGVciEToJPTaWJ9YkGlSWH87riopsnI_2nWA6jER3qnvmgrseTDRem7GFBFJDkXvJA" tvg-id="EPG_ID" tvg-chno="409",Best FM
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/AjGVciEToJPTaWJ9YkGlSWH87riopsnI_2nWA6jER3qnvmgrseTDRem7GFBFJDkXvJA" tvg-id="EPG_ID" group-title="Radio" tvg-chno="409",Best FM
 https://ssldyg.radyotvonline.com/best/bestfm.stream/chunklist_w320028151.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" tvg-chno="410",PowerTürk FM
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="410",PowerTürk FM
 https://live.powerapp.com.tr/powerturk/abr/powerturk/256/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdkbEAOb3HvSIgS3dP_y-aMNhU0s7l6XOJKQ&s" tvg-id="EPG_ID" tvg-chno="411",Kral Pop
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdkbEAOb3HvSIgS3dP_y-aMNhU0s7l6XOJKQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="411",Kral Pop
 https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zigNezQwbOiksaYwf5v03QdMUa4hNcFUQt1ERc0fCwwHTakB0TFosSz23Mhej0QPmGQ" tvg-id="EPG_ID" tvg-chno="412",Slow Türk
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zigNezQwbOiksaYwf5v03QdMUa4hNcFUQt1ERc0fCwwHTakB0TFosSz23Mhej0QPmGQ" tvg-id="EPG_ID" group-title="Radio" tvg-chno="412",Slow Türk
 https://radyo.duhnet.tv/ak_dtvh_slowturk
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SEG2Xr2wtL_ay_tW8sMQx2GRgf8p5M7WYUBnm-70mBPy2-A98q_t3SYTrR0B55gxQg" tvg-id="EPG_ID" tvg-chno="413",Radyo 7
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SEG2Xr2wtL_ay_tW8sMQx2GRgf8p5M7WYUBnm-70mBPy2-A98q_t3SYTrR0B55gxQg" tvg-id="EPG_ID" group-title="Radio" tvg-chno="413",Radyo 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhU0kbXhLirDNlejFytrtPmJDSn-tS-CgcA&s" tvg-id="EPG_ID" tvg-chno="414",Show Radyo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhU0kbXhLirDNlejFytrtPmJDSn-tS-CgcA&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="414",Show Radyo
 https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1EhA3kMUinjVGt7egGScm2BbJ9PJqlgurA&s" tvg-id="EPG_ID" tvg-chno="415",Kral FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1EhA3kMUinjVGt7egGScm2BbJ9PJqlgurA&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="415",Kral FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlwW8eFYRFH3HDfToBClD-7x4DegeUzuPWQ&s" tvg-id="EPG_ID" tvg-chno="416",Radyo Viva
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlwW8eFYRFH3HDfToBClD-7x4DegeUzuPWQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="416",Radyo Viva
 https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/19/logos/android_default_logo.png?v=041022033432" tvg-id="EPG_ID" tvg-chno="417",MydonoseTürk
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/19/logos/android_default_logo.png?v=041022033432" tvg-id="EPG_ID" group-title="Radio" tvg-chno="417",MydonoseTürk
 https://25553.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/106/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=000810&tr=w-1000%3A%2Cbg-000810&v=011024092525" tvg-id="EPG_ID" tvg-chno="418",Radyo D
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/106/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=000810&tr=w-1000%3A%2Cbg-000810&v=011024092525" tvg-id="EPG_ID" group-title="Radio" tvg-chno="418",Radyo D
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbhLksEeiBEwf3b2fZ8E6c6a6AkQhXRZdcg&s" tvg-id="EPG_ID" tvg-chno="419",NR1 Türk FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbhLksEeiBEwf3b2fZ8E6c6a6AkQhXRZdcg&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="419",NR1 Türk FM
 https://eustr75.mediatriple.net/Number1Media/00_Number1_Turk_FM.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QE09zS62l-6kCx_dxzWK5DGRBvFT6N1ciahm8LgYshnHHnFq3zHiYmDOdUCoRhwhyPP3sZU5WA=s900-c-k-c0x00ffffff-no-rj" tvg-id="EPG_ID" tvg-chno="420",FenomenTürk
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QE09zS62l-6kCx_dxzWK5DGRBvFT6N1ciahm8LgYshnHHnFq3zHiYmDOdUCoRhwhyPP3sZU5WA=s900-c-k-c0x00ffffff-no-rj" tvg-id="EPG_ID" group-title="Radio" tvg-chno="420",FenomenTürk
 https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNAK3Xo2IgsjSa5B8CR_b2F7HBWghqg2Z_g&s" tvg-id="" tvg-chno="421",Baba Radyo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNAK3Xo2IgsjSa5B8CR_b2F7HBWghqg2Z_g&s" tvg-id="" group-title="Radio" tvg-chno="421",Baba Radyo
 https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStDTu_SvmHWb9RjX_28F3O585g9aelr82kqg&s" tvg-id="" tvg-chno="422",Karadeniz FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStDTu_SvmHWb9RjX_28F3O585g9aelr82kqg&s" tvg-id="" group-title="Radio" tvg-chno="422",Karadeniz FM
 https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/2/logos/android_default_logo.png?v=020624104046" tvg-id="EPG_ID" tvg-chno="423",Metro FM
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/2/logos/android_default_logo.png?v=020624104046" tvg-id="EPG_ID" group-title="Radio" tvg-chno="423",Metro FM
 https://28993.live.streamtheworld.com/METRO_FM128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/3/logos/android_default_logo.png?v=041022033036" tvg-id="EPG_ID" tvg-chno="424",Joy FM
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/3/logos/android_default_logo.png?v=041022033036" tvg-id="EPG_ID" group-title="Radio" tvg-chno="424",Joy FM
 https://28573.live.streamtheworld.com/JOY_FM128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/15/logos/android_default_logo.png?v=041022033315" tvg-id="EPG_ID" tvg-chno="425",Virgin Radio
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/15/logos/android_default_logo.png?v=041022033315" tvg-id="EPG_ID" group-title="Radio" tvg-chno="425",Virgin Radio
 https://22593.live.streamtheworld.com/VIRGIN_RADIO128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/5/logos/android_default_logo.png?v=041022033737" tvg-id="EPG_ID" tvg-chno="426",Radio Mydonose
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/5/logos/android_default_logo.png?v=041022033737" tvg-id="EPG_ID" group-title="Radio" tvg-chno="426",Radio Mydonose
 https://27913.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2TO9infI1KSKbkET_gnkkhbqa_XlZT_jNA&s" tvg-id="EPG_ID" tvg-chno="430",Power FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2TO9infI1KSKbkET_gnkkhbqa_XlZT_jNA&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="430",Power FM
 https://live.powerapp.com.tr/powerfmadver/abr/powerfmadver/256/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5hTFqSBotUDDcDvOj2Tr1Aqi_BQwQ0IciDQ&s" tvg-id="EPG_ID" tvg-chno="431",NR1 FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5hTFqSBotUDDcDvOj2Tr1Aqi_BQwQ0IciDQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="431",NR1 FM
 https://eustr75.mediatriple.net/Number1Media/01_Number1Fm.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/domain/radyofenomen.com/fallback/lettermark/theme/dark/h/400/w/400/icon?c=1bfwsmEH20zzEfSNTed" tvg-id="EPG_ID" tvg-chno="432",Radyo Fenomen
+#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/domain/radyofenomen.com/fallback/lettermark/theme/dark/h/400/w/400/icon?c=1bfwsmEH20zzEfSNTed" tvg-id="EPG_ID" group-title="Radio" tvg-chno="432",Radyo Fenomen
 https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-id="EPG_ID" tvg-chno="433",Stingray Naturescape
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="433",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingraydjazz/logos/channels-logo-white._CB581386909_.png" tvg-id="EPG_ID" tvg-chno="434",Stingray Djazz
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingraydjazz/logos/channels-logo-white._CB581386909_.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="434",Stingray Djazz
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="435",Smooth Jazz
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="435",Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="436",The Spa
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="436",The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="437",Easy Listening
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="437",Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="438",Hit List
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="438",Hit List
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991117
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="439",Greatest Hits
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="439",Greatest Hits
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="440",Euro Hits
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="440",Euro Hits
 https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="441",Éxitos del Momento
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="441",Éxitos del Momento
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="442",Pop Adult
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="442",Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="443",Flashback 70's
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="443",Flashback 70's
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="444",Remember The 80's
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="444",Remember The 80's
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991742
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="445",Nothin' but '90s
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="445",Nothin' but '90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="446",Classic Rock
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="446",Classic Rock
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991119
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="447",Alternative
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="447",Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="448",Hip-Hop/R&B
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="448",Hip-Hop/R&B
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="449",Soul Storm
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="449",Soul Storm
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991121
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="450",Hot Country
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="450",Hot Country
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="451",Hits Brasileiros
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="451",Hits Brasileiros
 https://lotus.stingray.com/manifest/ose-212ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="452",Romance Latino
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="452",Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" tvg-chno="453",Today's K-Pop
+#EXTINF:-1 tvg-logo="https://musicsupport.stingray.com/hc/theming_assets/01HZPHWQTEF8976KCQCFGY7NPK" tvg-id="EPG_ID" group-title="Radio" tvg-chno="453",Today's K-Pop
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingraykaraoke/logos/channels-logo-white._CB581389766_.png" tvg-id="EPG_ID" tvg-chno="454",Stingray Karaoke
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingraykaraoke/logos/channels-logo-white._CB581389766_.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="454",Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingrayclassica/logos/3p-logo._CB485943535_.png" tvg-id="EPG_ID" tvg-chno="455",Stingray Classica
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingrayclassica/logos/3p-logo._CB485943535_.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="455",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://iconcerts.stingray.com/themes/custom/iconcerts/logo.svg" tvg-id="EPG_ID" tvg-chno="456",Stingray iConcerts
+#EXTINF:-1 tvg-logo="https://iconcerts.stingray.com/themes/custom/iconcerts/logo.svg" tvg-id="EPG_ID" group-title="Radio" tvg-chno="456",Stingray iConcerts
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa28301e1-00c2-4783-9a44-1e822be96cb9%2F11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png" tvg-id="EPG_ID" tvg-chno="457",MovieMusic by Stingray
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa28301e1-00c2-4783-9a44-1e822be96cb9%2F11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="457",MovieMusic by Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/ded6c190-5f9e-4de3-a5e5-868f789df1a5.jpg" tvg-id="" tvg-chno="500",TRT Radyo 1
+#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/ded6c190-5f9e-4de3-a5e5-868f789df1a5.jpg" tvg-id="" group-title="Radio" tvg-chno="500",TRT Radyo 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12JYkmyYeCX_74ZcOdUfHZx8Rs7VEk8gG" tvg-id="" tvg-chno="501",TRT TSR
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12JYkmyYeCX_74ZcOdUfHZx8Rs7VEk8gG" tvg-id="" group-title="Radio" tvg-chno="501",TRT TSR
 https://radio-trttsr.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1f3IShrCW7t765MGI5ptiSpRqCBTgt7M8" tvg-id="" tvg-chno="502",TRT Memleketim FM
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1f3IShrCW7t765MGI5ptiSpRqCBTgt7M8" tvg-id="" group-title="Radio" tvg-chno="502",TRT Memleketim FM
 https://radio-trtmemleketimfm.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQocEdmHCNogBeVKSuzIc5p9rWvTe3hYNklWQ&s" tvg-id="" tvg-chno="503",Türkiye Polis Radyosu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQocEdmHCNogBeVKSuzIc5p9rWvTe3hYNklWQ&s" tvg-id="" group-title="Radio" tvg-chno="503",Türkiye Polis Radyosu
 https://m.egm.gov.tr:8093/;
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFYO9v9sg8GSxkBfxK2y_DlDE_qMq-Of2xw&s" tvg-id="" tvg-chno="504",Pal FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFYO9v9sg8GSxkBfxK2y_DlDE_qMq-Of2xw&s" tvg-id="" group-title="Radio" tvg-chno="504",Pal FM
 https://moondigitalmaster.radyotvonline.net/palfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/55/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=0b4d2f&tr=w-1000%3A%2Cbg-0b4d2f&v=150121030000" tvg-id="" tvg-chno="505",Pal Nostalji
+#EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/55/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=0b4d2f&tr=w-1000%3A%2Cbg-0b4d2f&v=150121030000" tvg-id="" group-title="Radio" tvg-chno="505",Pal Nostalji
 https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/9/logos/android_default_logo.png?v=271025021315" tvg-id="" tvg-chno="508",JoyTürk Akustik
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/9/logos/android_default_logo.png?v=271025021315" tvg-id="" group-title="Radio" tvg-chno="508",JoyTürk Akustik
 https://25583.live.streamtheworld.com/JOYTURK_AKUSTIK128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/41/logos/android_default_logo.png?v=041022033335" tvg-id="" tvg-chno="509",Pop90
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/41/logos/android_default_logo.png?v=041022033335" tvg-id="" group-title="Radio" tvg-chno="509",Pop90
 https://25503.live.streamtheworld.com/POP90128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/13/logos/android_default_logo.png?v=041022033552" tvg-id="" tvg-chno="510",Efkâr
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/13/logos/android_default_logo.png?v=041022033552" tvg-id="" group-title="Radio" tvg-chno="510",Efkâr
 https://22193.live.streamtheworld.com/EFKAR128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/16/logos/android_default_logo.png?v=041022033529" tvg-id="" tvg-chno="512",Süper2
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/16/logos/android_default_logo.png?v=041022033529" tvg-id="" group-title="Radio" tvg-chno="512",Süper2
 https://25683.live.streamtheworld.com/SUPER2128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/22/logos/android_default_logo.png?v=041022033414" tvg-id="" tvg-chno="513",JoyTürk Rock
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/22/logos/android_default_logo.png?v=041022033414" tvg-id="" group-title="Radio" tvg-chno="513",JoyTürk Rock
 https://23623.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/356/logos/android_default_logo.png?v=231024025711" tvg-id="" tvg-chno="514",Popbesk
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/356/logos/android_default_logo.png?v=231024025711" tvg-id="" group-title="Radio" tvg-chno="514",Popbesk
 https://27913.live.streamtheworld.com/POPBESK128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/312/logos/android_default_logo.png?v=200123021802" tvg-id="" tvg-chno="515",Yol Arkadaşım
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/312/logos/android_default_logo.png?v=200123021802" tvg-id="" group-title="Radio" tvg-chno="515",Yol Arkadaşım
 https://25453.live.streamtheworld.com/YOL_ARKADASIM128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/23/logos/android_default_logo.png?v=130423045323" tvg-id="" tvg-chno="572",Gönül Türküleri
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/23/logos/android_default_logo.png?v=130423045323" tvg-id="" group-title="Radio" tvg-chno="572",Gönül Türküleri
 https://25453.live.streamtheworld.com/GONUL_TURKULERI128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/8/logos/android_default_logo.png?v=041022033718" tvg-id="" tvg-chno="573",RetroTürk
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/8/logos/android_default_logo.png?v=041022033718" tvg-id="" group-title="Radio" tvg-chno="573",RetroTürk
 https://29103.live.streamtheworld.com/RETROTURK128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/326/logos/android_default_logo.png?v=150323104523" tvg-id="" tvg-chno="574",Literal Radio
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/326/logos/android_default_logo.png?v=150323104523" tvg-id="" group-title="Radio" tvg-chno="574",Literal Radio
 https://29073.live.streamtheworld.com/LITERAL128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/357/logos/android_default_logo.png?v=231024025559" tvg-id="" tvg-chno="575",Tüm Zamanların En İyileri
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/357/logos/android_default_logo.png?v=231024025559" tvg-id="" group-title="Radio" tvg-chno="575",Tüm Zamanların En İyileri
 https://27913.live.streamtheworld.com/GHOAT_TR128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/68/logos/android_default_logo.png?v=240523035027" tvg-id="" tvg-chno="576",Karadeniz
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/68/logos/android_default_logo.png?v=240523035027" tvg-id="" group-title="Radio" tvg-chno="576",Karadeniz
 https://25553.live.streamtheworld.com/KARADENIZ128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/233/logos/android_default_logo.png?v=121224020109" tvg-id="" tvg-chno="577",Yeni Pop
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/233/logos/android_default_logo.png?v=121224020109" tvg-id="" group-title="Radio" tvg-chno="577",Yeni Pop
 https://22653.live.streamtheworld.com/SC006_SO1AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/349/logos/android_default_logo.png?v=121224031126" tvg-id="" tvg-chno="578",Yeni Slow
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/349/logos/android_default_logo.png?v=121224031126" tvg-id="" group-title="Radio" tvg-chno="578",Yeni Slow
 https://27823.live.streamtheworld.com/SC021_SO1AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/241/logos/android_default_logo.png?v=130423044647" tvg-id="" tvg-chno="579",Makam
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/241/logos/android_default_logo.png?v=130423044647" tvg-id="" group-title="Radio" tvg-chno="579",Makam
 https://28933.live.streamtheworld.com/MAKAM128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/11/logos/android_default_logo.png?v=241023095309" tvg-id="" tvg-chno="580",Borusan Klasik
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/11/logos/android_default_logo.png?v=241023095309" tvg-id="" group-title="Radio" tvg-chno="580",Borusan Klasik
 https://28553.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/42/logos/android_default_logo.png?v=311024112337" tvg-id="" tvg-chno="581",Sole
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/42/logos/android_default_logo.png?v=311024112337" tvg-id="" group-title="Radio" tvg-chno="581",Sole
 https://25453.live.streamtheworld.com/SOLE128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/12/logos/android_default_logo.png?v=041022033611" tvg-id="" tvg-chno="582",JoyJazz
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/12/logos/android_default_logo.png?v=041022033611" tvg-id="" group-title="Radio" tvg-chno="582",JoyJazz
 https://27913.live.streamtheworld.com/JOY_JAZZ128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/75/logos/android_default_logo.png?v=041022033140" tvg-id="" tvg-chno="583",başka
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/75/logos/android_default_logo.png?v=041022033140" tvg-id="" group-title="Radio" tvg-chno="583",başka
 https://22193.live.streamtheworld.com/BASKA128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/350/logos/android_default_logo.png?v=121224020747" tvg-id="" tvg-chno="584",Yeni Rap
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/350/logos/android_default_logo.png?v=121224020747" tvg-id="" group-title="Radio" tvg-chno="584",Yeni Rap
 https://25443.live.streamtheworld.com/SC018_SO1AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/108/logos/android_default_logo.png?v=231024025635" tvg-id="" tvg-chno="585",Greatest Hits of All Time
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/108/logos/android_default_logo.png?v=231024025635" tvg-id="" group-title="Radio" tvg-chno="585",Greatest Hits of All Time
 https://25453.live.streamtheworld.com/GHOAT_EN128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/106/logos/android_default_logo.png?v=061217034628" tvg-id="" tvg-chno="586",Rock Station
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/106/logos/android_default_logo.png?v=061217034628" tvg-id="" group-title="Radio" tvg-chno="586",Rock Station
 https://25443.live.streamtheworld.com/ROCK_STATION128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/354/logos/android_default_logo.png?v=121224105644" tvg-id="" tvg-chno="587",Dance Hits
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/354/logos/android_default_logo.png?v=121224105644" tvg-id="" group-title="Radio" tvg-chno="587",Dance Hits
 https://29053.live.streamtheworld.com/SC019_SO1AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/355/logos/android_default_logo.png?v=121224111213" tvg-id="" tvg-chno="588",Slow Hits
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/355/logos/android_default_logo.png?v=121224111213" tvg-id="" group-title="Radio" tvg-chno="588",Slow Hits
 https://29053.live.streamtheworld.com/SC030_SO1AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/353/logos/android_default_logo.png?v=281124020836" tvg-id="" tvg-chno="589",Pop Hits
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/353/logos/android_default_logo.png?v=281124020836" tvg-id="" group-title="Radio" tvg-chno="589",Pop Hits
 https://29103.live.streamtheworld.com/SC002_SO1AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/18/logos/android_default_logo.png?v=100325033240" tvg-id="" tvg-chno="590",BabyJoy
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/18/logos/android_default_logo.png?v=100325033240" tvg-id="" group-title="Radio" tvg-chno="590",BabyJoy
 https://25693.live.streamtheworld.com/SC009_SO1AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/362/logos/android_default_logo.png?v=170725021356" tvg-id="" tvg-chno="591",K-Pop
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/362/logos/android_default_logo.png?v=170725021356" tvg-id="" group-title="Radio" tvg-chno="591",K-Pop
 https://28563.live.streamtheworld.com/KPOP128AAC.aac
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=14Ky_H8RpQnRD2K8FM5QHYe1M126UTrGh" tvg-id="" tvg-chno="757",Arirang
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
