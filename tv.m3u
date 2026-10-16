@@ -684,11 +684,11 @@ https://streams.uzunmuhalefet.com/stream/a7795b5c-44dd-4a7e-b428-af25170193c5.m3
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dn1PYt8bDN8F4-4C7xzxvoY8Yb-PJ3ws" tvg-id="KIBRIS.GENC.TV.tr" tvg-chno="295",Genç TV
 https://streams.uzunmuhalefet.com/stream/d1e7e32f-d06d-42db-997c-acdb9b0971f5.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International News" tvg-chno="",CGTN Español
+#EXTINF:-1 tvg-logo="https://it.wikipedia.org/wiki/File:CGTN_Espanol.png" tvg-id="" group-title="International News" tvg-chno="",CGTN Español
 https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International News" tvg-chno="",CGTN Русский
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:CGTN_Russian.png" tvg-id="" group-title="International News" tvg-chno="",CGTN Русский
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International News" tvg-chno="",CGTN Français
+#EXTINF:-1 tvg-logo="https://zh.wikipedia.org/zh-cn/File:CGTN_-_français.png" tvg-id="" group-title="International News" tvg-chno="",CGTN Français
 https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8 
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International News" tvg-chno="",CGTN Arabic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" tvg-id="" group-title="International News" tvg-chno="",CGTN Arabic
 https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
