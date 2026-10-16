@@ -149,6 +149,8 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Bwd_xqJHfdRsdcZ2TrG0Yuh5Hburyt1p" tvg-id="TRT.WORLD.HD.tr" group-title="International News Europe" tvg-chno="142",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Dj5TWu641Vfg2FDLp-mXLnkJEP_hBnfE" tvg-id="CNN.INTERNATIONAL.tr" group-title="International News Europe" tvg-chno="143",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11dYrNPDZW6_8y5rS_f31L3JDlDS_4Ja1" tvg-id="AL.JAZEERA.INTERNATIONAL.tr" group-title="International News Europe" tvg-chno="144",Al Jazeera International
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11CaTdAEJov2iBQaXVp29KzZjETuIHe8i" tvg-id="EURONEWS.tr" group-title="International News Europe" tvg-chno="145",EuroNews English
@@ -654,8 +656,6 @@ https://live-3.otcnet.ru/Mezzo/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vbATr4qcvZMzlyhxBx7xpyHLr8nNhMUD" tvg-id="A.NEWS.HD.tr" tvg-chno="140",A News
 https://trn03.tulix.tv/gt-anews/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Dj5TWu641Vfg2FDLp-mXLnkJEP_hBnfE" tvg-id="CNN.INTERNATIONAL.tr" tvg-chno="143",CNN International
-https://trn03.tulix.tv/CNN-International/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="CARTOON.NETWORK.tr" tvg-chno="169",Cartoon Network
 https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X90QjoblNOtafuDjn-_s_XBeou9p9-2E" tvg-id="DiscoveryChannel.tr" tvg-chno="191",Discovery Channel
@@ -684,3 +684,11 @@ https://streams.uzunmuhalefet.com/stream/a7795b5c-44dd-4a7e-b428-af25170193c5.m3
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dn1PYt8bDN8F4-4C7xzxvoY8Yb-PJ3ws" tvg-id="KIBRIS.GENC.TV.tr" tvg-chno="295",Genç TV
 https://streams.uzunmuhalefet.com/stream/d1e7e32f-d06d-42db-997c-acdb9b0971f5.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International News" tvg-chno="",CGTN Español
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International News" tvg-chno="",CGTN Русский
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International News" tvg-chno="",CGTN Français
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8 
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International News" tvg-chno="",CGTN Arabic
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
