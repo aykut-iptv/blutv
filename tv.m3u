@@ -439,8 +439,6 @@ https://29103.live.streamtheworld.com/SC002_SO1AAC.aac
 https://25693.live.streamtheworld.com/SC009_SO1AAC.aac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/362/logos/android_default_logo.png?v=170725021356" tvg-id="" group-title="Radio" tvg-chno="591",K-Pop
 https://28563.live.streamtheworld.com/KPOP128AAC.aac
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rQXFjg_GO6_XONQvcJP0qgnDJ4dxKlzg" tvg-id="" tvg-chno="759",RTR Planeta
-https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yUbXlYlapAH59YiBkMcMYvFvojJXcu31" tvg-id="" tvg-chno="764",Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CA4EDVy8F4PaDrAhIjMK25gJxE86w2Rd" tvg-id="" tvg-chno="765",CBC TV
@@ -511,8 +509,6 @@ https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10aIDQ64Ei-6sEPnjzuGHADCG6NLTXqMv" tvg-id="" tvg-chno="816",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Y9UxsEm_WaAekb5gLR4C5UI8EH1Tr_rm" tvg-id="HABERGLOBAL.tr" tvg-chno="47",Haber Global
-http://smart.cdn-sports.workers.dev/eu1.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" tvg-id="CNN.TÜRK.HD.tr" tvg-chno="42",CNN Türk
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wd44lzRclTWd0X31BeMOB9ZjzecBgVos" tvg-id="EPG_ID" tvg-chno="72",Sıfır TV
@@ -533,17 +529,10 @@ https://mss.ayakkabiparti.lol/t4/index.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1b13H_ZRtlai6wiWU77mkG2rxoDhahCOo" tvg-id="MovieSmartTurk.tr" tvg-chno="120",MovieSmart Türk
 https://mss.ayakkabiparti.lol/mvturk/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms=1767241869
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1K5X8JGDzwzlVedYHDok6aMGaEh5KfqKQ" tvg-id="" tvg-chno="136",Rossiya 24
-http://live.sarkortv.workers.dev/?ID=29
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13DVcGU831tZ5qYbA4aZTtMtzvJkzRMfl" tvg-id="TARIHTV.tr" tvg-chno="180",Tarih TV
 https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" tvg-id="CNN.TÜRK.HD.tr" tvg-chno="42",CNN Türk
 http://129.151.204.207/TVHeryerde.php?ID=2813
-
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1G4Zkfxa7L5WggTbU9KLc54eeolcBLEF6" tvg-id="ULUSAL.KANAL.tr" tvg-chno="52",Ulusal TV
-http://129.151.204.207/TVHeryerde.php?ID=2310
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",SZC
-http://129.151.204.207/TVHeryerde.php?ID=3002
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vGzs00VOq0aaaNB9niucjDrDEipf5INg" tvg-id="beIN.SPORTS.HABER.HD.tr" tvg-chno="85",beIN Sports Haber
 http://129.151.204.207/TVHeryerde.php?ID=2114
 #EXTINF:-1 tvg-logo="" tvg-id="EUROSPORT.1.HD.tr" tvg-chno="91",Eurosport 1
@@ -572,78 +561,10 @@ http://129.151.204.207/TVHeryerde.php?ID=2602
 http://129.151.204.207/TVHeryerde.php?ID=2001
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vGzs00VOq0aaaNB9niucjDrDEipf5INg" tvg-id="beIN.SPORTS.HABER.HD.tr" tvg-chno="85",beIN Sports Haber
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN 1
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN 2
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN 3
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN 4
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN 5
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",S Sport
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",S Sport 2
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Smart 1
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Smart 2
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",BBC Earth
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341535.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="77",SporSmart
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342246.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="78",SporSmart 2
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342247.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 1
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342396.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 2
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342397.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 3
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342398.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342395.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="91",Eurosport 1
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342248.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="92",Eurosport 2
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342249.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="93",S Sport
-http://sunx101.xyz:80/live/35aliozden/1908ozden/345342.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="94",S Sport 2
-http://sunx101.xyz:80/live/35aliozden/1908ozden/345344.ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1dVMsNq4T6Krb2M-of4K69e5AYqTmVVuU" tvg-id="VIASAT.NATURE.-.HISTORY.tr" tvg-chno="192",Viasat History
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341526.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",DiziSmart Premium
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341740.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Investigation Discovery
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341536.ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1EdraUwKSuhlUvxygiUj77R7BRayYV6Vy" tvg-id="EPIC.DRAMA.tr" tvg-chno="128",Epic Drama
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341742.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="124",DiziSmart Max
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341741.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="125",MovieSmart Classic
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341727.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="126",MovieSmart Türk
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341726.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Tivibu Spor 4
-http://sunx101.xyz:80/live/35aliozden/1908ozden/342399.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",ÇocukSmart
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341718.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Da Vinci
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341537.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",TRT 4K
-http://sunx101.xyz:80/live/35aliozden/1908ozden/324437.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Viasat Explore
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341525.ts
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Viasat History
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341526.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1fbF7kl2WtsURL4GWUar5-OergzU3-W1Z" tvg-id="TİVİBU.SPOR.1.tr" tvg-chno="79",Tivibu Spor 1
 https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dVMsNq4T6Krb2M-of4K69e5AYqTmVVuU" tvg-id="VIASAT.NATURE.-.HISTORY.tr" tvg-chno="192",Viasat History
 https://mss.ayakkabiparti.lol/viasathistory/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Spacetoon
-http://sunx101.xyz:80/live/35aliozden/1908ozden/341722.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18koFZcCcDlofpVKxWnNLPpfmpucTwIpm" tvg-id="TELE1.tr" tvg-chno="48",Tele 1
 https://streams.uzunmuhalefet.com/stream/edba8b19-4745-4c5c-a235-b23a06d83eda.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nqZpXxXw7j185TSvYotlPuHyRw9ww9vp" tvg-id="BİZİM.EV.TV.tr" tvg-chno="63",BizimEv TV
@@ -674,8 +595,6 @@ https://mss.ayakkabiparti.lol/lovenature/index.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UsloiMCuw66vrFyAL1lEFk_quikFrj4D" tvg-id="NatGeoWild.tr" tvg-chno="185",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1m7sNn4fgmIIYX0Qu2wGZtagaCV6aadPi" tvg-id="" tvg-chno="188",DocuScreen
-https://mss.ayakkabiparti.lol/docubox/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1EIbviB64pv2YBWFfgp5aHZaoUgahgSwE" tvg-id="" tvg-chno="189",Yaban TV
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1y5_SfcAq8EmRJfzOFqsDkQfgtLzZJCh7" tvg-id="TRT.EBA.tr" tvg-chno="266",TRT Eba
@@ -696,7 +615,7 @@ https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9
 https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/a/ac/Ant1.png?utm_source=el.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="" group-title="International" tvg-chno="",ANT1
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/RTR_Planeta_Logo.png" tvg-id="" group-title="International" tvg-chno="",RTR Planeta
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rQXFjg_GO6_XONQvcJP0qgnDJ4dxKlzg" tvg-id="" group-title="International" tvg-chno="",RTR Planeta
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/3840px-Rossiya-24_Logo.svg.png" tvg-id="" group-title="International News" tvg-chno="",Rossiya 24
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1K5X8JGDzwzlVedYHDok6aMGaEh5KfqKQ" tvg-id="" group-title="International News" tvg-chno="",Rossiya 24
 https://gtrk-volga.ru/media/hr24/stream1.m3u8
