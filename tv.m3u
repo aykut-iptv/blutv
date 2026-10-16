@@ -261,7 +261,7 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" group-title="International" tvg-chno="325",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1azjonRedzNUBcQyzmvzItc_iXnAwgc-h" tvg-id="" group-title="International" tvg-chno="350",Das Erste
+#EXTINF:-1 tvg-logo="https://audionplus.com/wp-content/uploads/2020/02/Das_Erste_Logo-2014_weiss.png" tvg-id="" group-title="International" tvg-chno="350",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1QwapkUAg7gB1YVdoewEWQkd4qqEsxQ5M" tvg-id="" group-title="International" tvg-chno="351",Sat.1
 https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
