@@ -55,6 +55,8 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1aRLVEbjAOeshPq_GRQClgdOqGvpgrszY" tvg-id="LIDERHABERTV.tr" group-title="News" tvg-chno="51",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1G4Zkfxa7L5WggTbU9KLc54eeolcBLEF6" tvg-id="ULUSAL.KANAL.tr" group-title="News" tvg-chno="52",Ulusal TV
+https://internettv.guventechnology.com/hls/ulusaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gnryMmGo7sM27NY9gYrimMwiJZJ0I6oG" tvg-id="HalkTV.tr" group-title="News" tvg-chno="53",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1fllPn-JrPH9YFbQGq06lR0imFXY0Z8Yv" tvg-id="TEVE2.HD.tr" group-title="General" tvg-chno="54",TV2
@@ -65,8 +67,12 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14mnH90Uc56_BHzc2gi-DJmJ0B5A2rthL" tvg-id="TURKHABERTV.tr" group-title="News" tvg-chno="59",TH Türk Haber
 https://edge2.taksimbilisim.com/turkhaber/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" group-title="News" tvg-chno="60",SZC
+http://176.65.153.12:6001/play/a04u/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Ax_vjWiDY28v7zjSujoLymiZ-I5awaHK" tvg-id="TRT.TÜRK.tr" group-title="General" tvg-chno="61",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1iHdBGwOPnauZjBQCRdCtptMCTnc8cytl" tvg-id="KRTTV.tr" group-title="News" tvg-chno="62",KRT TV
+http://176.65.153.12:6004/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YqNYdGMb3bbWts1tQANHFWOpNSBpz_gX" tvg-id="BENGÜ.TÜRK.tr" group-title="News" tvg-chno="63",BengüTürk
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1tOMKDXxUION9-PN6aca1o4ItFzc91tY-" tvg-id="TV.4.tr" group-title="General" tvg-chno="64",TV 4
@@ -209,6 +215,8 @@ https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15xH6DNTNXYo19DZBmJ6FimVXkcWMEEBn" tvg-id="ÇİFTÇİ.TV.tr" group-title="Other" tvg-chno="199",Çiftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Nd58IEXkUH0sTNjB4EmcNwfUakxasQt0" tvg-id="KONTV.HD.tr" group-title="Local" tvg-chno="250",Kon TV
+http://176.65.153.12:6004/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yaJQ755pOGfGEVg1X6gsvEgdu4wjIAkL" tvg-id="" group-title="Other" tvg-chno="251",Kanal B
 https://tv.kanalb.tr/hls/kanalb/1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Z5EBaW_XkpuN7uo7AqAUjVy8W5_ajSWC" tvg-id="" group-title="Other" tvg-chno="252",MK TV
@@ -505,10 +513,6 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 http://smart.cdn-sports.workers.dev/eu1.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" tvg-id="CNN.TÜRK.HD.tr" tvg-chno="42",CNN Türk
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" tvg-chno="60",SZC
-https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1G4Zkfxa7L5WggTbU9KLc54eeolcBLEF6" tvg-id="ULUSAL.KANAL.tr" tvg-chno="52",Ulusal TV
-https://trn03.tulix.tv/gt-ulusaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wd44lzRclTWd0X31BeMOB9ZjzecBgVos" tvg-id="EPG_ID" tvg-chno="72",Sıfır TV
 https://streams.uzunmuhalefet.com/stream/d1208b47-c4c7-48d2-8c1a-d36cdadf5467.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" tvg-chno="77",SporSmart
@@ -640,8 +644,6 @@ https://mss.ayakkabiparti.lol/viasathistory/index.m3u8
 http://sunx101.xyz:80/live/35aliozden/1908ozden/341722.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18koFZcCcDlofpVKxWnNLPpfmpucTwIpm" tvg-id="TELE1.tr" tvg-chno="48",Tele 1
 https://streams.uzunmuhalefet.com/stream/edba8b19-4745-4c5c-a235-b23a06d83eda.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1iHdBGwOPnauZjBQCRdCtptMCTnc8cytl" tvg-id="KRTTV.tr" tvg-chno="62",KRT TV
-https://trn03.tulix.tv/gt-krt--tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nqZpXxXw7j185TSvYotlPuHyRw9ww9vp" tvg-id="BİZİM.EV.TV.tr" tvg-chno="63",BizimEv TV
 https://live.yt-hls.workers.dev/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JLHxSyaZeVjbHxYgo8C8SjZUkH5UHYpq" tvg-id="EKOL.SPORTS.tr" tvg-chno="73",Ekol Sports
@@ -674,8 +676,6 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 https://mss.ayakkabiparti.lol/docubox/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1EIbviB64pv2YBWFfgp5aHZaoUgahgSwE" tvg-id="" tvg-chno="189",Yaban TV
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Nd58IEXkUH0sTNjB4EmcNwfUakxasQt0" tvg-id="KONTV.HD.tr" tvg-chno="255",Kon TV
-https://streams.uzunmuhalefet.com/stream/b9473b85-d7bf-4129-b148-d2c079b18bf8.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1y5_SfcAq8EmRJfzOFqsDkQfgtLzZJCh7" tvg-id="TRT.EBA.tr" tvg-chno="266",TRT Eba
 https://streams.uzunmuhalefet.com/stream/3cad8cd6-f7b5-4a71-98ea-586e50109ca0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1V-C7mLtYuBKS9njNJzfNAgU49ykty76F" tvg-id="" tvg-chno="289",Semerkand Way
@@ -694,8 +694,9 @@ https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9
 https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="International" tvg-chno="",ANT1
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International" tvg-chno="",
-
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International" tvg-chno="",
-
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International" tvg-chno="",
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Local" tvg-chno="",Koza TV
+http://176.65.153.35:6003/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International" tvg-chno="",RTR Planeta
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="International News" tvg-chno="",Rossiya 24
+https://gtrk-volga.ru/media/hr24/stream1.m3u8
