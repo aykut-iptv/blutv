@@ -623,5 +623,5 @@ https://gtrk-volga.ru/media/hr24/stream1.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/TVE_Internacional_2026.svg/revision/latest/scale-to-width-down/250?cb=20260125143756" tvg-id="" group-title="International" tvg-chno="",TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/24h_2026.svg/1280px-24h_2026.svg.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-id="" group-title="International News" tvg-chno="",Canal 24 Horas
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/24h_2026.svg/revision/latest/scale-to-width-down/200?cb=20260125143654" tvg-id="" group-title="International News" tvg-chno="",Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
