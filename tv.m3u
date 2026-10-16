@@ -261,6 +261,8 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" group-title="International" tvg-chno="370",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1QwapkUAg7gB1YVdoewEWQkd4qqEsxQ5M" tvg-id="" group-title="International" tvg-chno="804",Sat.1
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=14Ky_H8RpQnRD2K8FM5QHYe1M126UTrGh" tvg-id="" group-title="International" tvg-chno="386",Arirang
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1u0qxnXakFedAtpq_0GQ8embuOge8nrZk" tvg-id="" group-title="International" tvg-chno="389",Saudi TV
@@ -487,8 +489,7 @@ https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_-q5kCQ2oI8kgzwKAuLoUmy-bC5juX0o" tvg-id="" tvg-chno="803",Vox
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1QwapkUAg7gB1YVdoewEWQkd4qqEsxQ5M" tvg-id="" tvg-chno="804",Sat.1
-https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gVUj1N_kXdYOlsb-GdieQMFBtGOVh5Rj" tvg-id="" tvg-chno="805",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rCCfpFC_FMGSbcPiSDsoe61KXqZ0XnHl" tvg-id="" tvg-chno="806",Kabel Eins
