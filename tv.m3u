@@ -619,3 +619,7 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1K5X8JGDzwzlVedYHDok6aMGaEh5KfqKQ" tvg-id="" group-title="International News" tvg-chno="",Rossiya 24
 https://gtrk-volga.ru/media/hr24/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/RTP_Mundo_2026_Alt3.svg/revision/latest/scale-to-width-down/250?cb=20260330160355" tvg-id="" group-title="International" tvg-chno="",RTP Mundo
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+
+
