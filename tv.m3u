@@ -237,7 +237,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" group-title="Documentary" tvg-chno="181",National Geographic
 http://31.43.191.125:8080/restream/restream/141869
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Documentary" tvg-chno="182",Habitat TV
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250805841180.png" tvg-id="" group-title="Documentary" tvg-chno="182",Habitat TV
 http://31.43.191.125:8080/restream/restream/141005
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="BBC.EARTH.tr" group-title="Documentary" tvg-chno="183",BBC Earth
 http://31.43.191.125:8080/restream/restream/140853
@@ -253,7 +253,7 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X90QjoblNOtafuDjn-_s_XBeou9p9-2E" tvg-id="DiscoveryChannel.tr" group-title="Documentary" tvg-chno="191",Discovery Channel
 http://31.43.191.125:8080/restream/restream/141861
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Documentary" tvg-chno="192",Viasat Explore
+#EXTINF:-1 tvg-logo="https://www.a1.hr/documents/d/a1/viasat_explore_logo_rgb_colour_1" tvg-id="" group-title="Documentary" tvg-chno="192",Viasat Explore
 http://31.43.191.125:8080/restream/restream/141885
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YX1tyX5T85T-AKgZPxIfcqNH4N8MRcOF" tvg-id="CGTN.9.DOCUMENTARY.tr" group-title="Documentary" tvg-chno="194",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
