@@ -97,6 +97,22 @@ http://live.tabitv.workers.dev/?ID=tabii%20spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" tvg-id="FBTV.tr" group-title="Sport" tvg-chno="76",FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" tvg-id="" group-title="Sport" tvg-chno="77",beIN Sports 1
+https://ladyboy.ardastream2.cfd//beintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" tvg-id="" group-title="Sport" tvg-chno="78",beIN Sports 2
+https://ladyboy.ardastream2.cfd//bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png" tvg-id="" group-title="Sport" tvg-chno="79",beIN Sports 3
+https://ladyboy.ardastream2.cfd//bein3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png" tvg-id="" group-title="Sport" tvg-chno="80",beIN Sports 4
+https://ladyboy.ardastream2.cfd//bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" tvg-id="" group-title="Sport" tvg-chno="81",beIN Sports 5
+https://ladyboy.ardastream2.cfd//bein5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png" tvg-id="" group-title="Sport" tvg-chno="82",beIN Sports Max 1
+https://ladyboy.ardastream2.cfd//beinmax1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png" tvg-id="" group-title="Sport" tvg-chno="83",beIN Sports Max 2
+https://ladyboy.ardastream2.cfd//beinmax2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vGzs00VOq0aaaNB9niucjDrDEipf5INg" tvg-id="beIN.SPORTS.HABER.HD.tr" group-title="Sport" tvg-chno="85",beIN Sports Haber
+http://31.43.191.125:8080/restream/restream/141370
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1twBcD3uoVn69--0lOafxhFF7o5ETssLf" tvg-id="TRT.SPOR.HD.tr" group-title="Sport" tvg-chno="86",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1xFr9KkQuP2bVviL8MTk0XBy4PeB4wHFO" tvg-id="TRTSPORYILDIZ.tr" group-title="Sport" tvg-chno="87",TRT Spor Yıldız
@@ -603,20 +619,6 @@ https://streams.uzunmuhalefet.com/stream/d1e7e32f-d06d-42db-997c-acdb9b0971f5.m3
 https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7f48a7b_output_0.m3u8?session=WiBL6q6PzoRV7DTJZaMvmo
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O79oqWHVhSk2Vn3S4K64H5cg6BRQFb6N" tvg-id="" group-title="Local" tvg-chno="",Aksu TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports 1
-https://ladyboy.ardastream2.cfd//beintv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports 2
-https://ladyboy.ardastream2.cfd//bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports 3
-https://ladyboy.ardastream2.cfd//bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports 4
-https://ladyboy.ardastream2.cfd//bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports 5
-https://ladyboy.ardastream2.cfd//bein5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports Max 1
-https://ladyboy.ardastream2.cfd//beinmax1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports Max 2
-https://ladyboy.ardastream2.cfd//beinmax2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",S Sport 2
 https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Gurme
@@ -629,8 +631,6 @@ https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
 http://31.43.191.125:8080/restream/restream/140859
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Movies Türk
 http://31.43.191.125:8080/restream/restream/141478
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vGzs00VOq0aaaNB9niucjDrDEipf5INg" tvg-id="beIN.SPORTS.HABER.HD.tr" tvg-chno="85",beIN Sports Haber
-http://31.43.191.125:8080/restream/restream/141370
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Cartoonito
 http://31.43.191.125:8080/restream/restream/140873
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",ÇocukSmart
