@@ -243,7 +243,7 @@ http://31.43.191.125:8080/restream/restream/141898
 http://31.43.191.125:8080/restream/restream/141897
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" group-title="Child" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1280px-Nick_Jr._logo_2023.svg.png" tvg-id="" group-title="Child" tvg-chno="167",Nick Jr.
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest/scale-to-width-down/250?cb=20241015184948" tvg-id="" group-title="Child" tvg-chno="167",Nick Jr.
 http://31.43.191.125:8080/restream/restream/141923
 #EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltb36bff5b4924228e/66bc78234f0e47c3e25a4816/Cartoonito_-_Logo_2021.png" tvg-id="" group-title="Child" tvg-chno="168",Cartoonito
 http://31.43.191.125:8080/restream/restream/140873
