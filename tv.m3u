@@ -127,11 +127,11 @@ https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qJdvQ-F5vdSnWkt7oLoop8PPtol2dfPi6QDemd3AeNWPJSe2pXZ-uzl5PJReh0Rn6jQb5nQPp70QdxM86Xf-" tvg-id="EPG_ID" group-title="Sport" tvg-chno="89",Yarıştayız TV
 https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="EUROSPORT.1.HD.tr" group-title="Sport" tvg-chno="91",Eurosport 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IVen506PSfTCk3g012eA7mjV71Kbugyy" tvg-id="EUROSPORT.1.HD.tr" group-title="Sport" tvg-chno="91",Eurosport 1
 http://31.43.191.125:8080/restream/restream/141378
-#EXTINF:-1 tvg-logo="" tvg-id="EUROSPORT.2.HD.tr" group-title="Sport" tvg-chno="92",Eurosport 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mj9-OeE2xeqr4LTXMt4HsdQXdYnRlcLE" tvg-id="EUROSPORT.2.HD.tr" group-title="Sport" tvg-chno="92",Eurosport 2
 http://31.43.191.125:8080/restream/restream/141379
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Sport" tvg-chno="93",Cosmo Sports
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tkX4ant3jYe_bY7xaNfbXKoLVuJ6YVqI" tvg-id="" group-title="Sport" tvg-chno="93",Cosmo Sports
 http://31.43.191.125:8080/restream/restream/140980
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-AM7yL3ikUm4m4K9BhELsdjzQzP9RaOa" tvg-id="TRACE.SPORT.STARS.HD.tr" group-title="Sport" tvg-chno="94",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
