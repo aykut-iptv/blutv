@@ -91,9 +91,9 @@ https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 http://176.65.153.12:6004/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sLG8ypag1LTO1hbj_tjUfinePU-DdB-a" tvg-id="EPG_ID" group-title="General" tvg-chno="70",Show Max
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.tr" group-title="Sport" tvg-chno="71",S Sport
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PV0xdyFgrLCgxTSoHvPt0v5WVbWeyE6J" tvg-id="S.SPORT.tr" group-title="Sport" tvg-chno="71",S Sport
 http://31.43.191.125:8080/restream/restream/141401
-#EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.2.tr" group-title="Sport" tvg-chno="72",S Sport 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1LAK-e7U2tAnq9WI5oUZJn9aw8M1jBwVT" tvg-id="S.SPORT.2.tr" group-title="Sport" tvg-chno="72",S Sport 2
 https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" tvg-id="tabii.spor.tr" group-title="Sport" tvg-chno="73",tabii Spor
 http://live.tabitv.workers.dev/?ID=tabii%20spor
