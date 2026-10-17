@@ -91,8 +91,14 @@ https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 http://176.65.153.12:6004/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sLG8ypag1LTO1hbj_tjUfinePU-DdB-a" tvg-id="EPG_ID" group-title="General" tvg-chno="70",Show Max
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" tvg-id="tabii.spor.tr" group-title="Sport" tvg-chno="74",tabii Spor
+#EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.tr" group-title="Sport" tvg-chno="71",S Sport
+http://31.43.191.125:8080/restream/restream/141401
+#EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.2.tr" group-title="Sport" tvg-chno="72",S Sport 2
+https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" tvg-id="tabii.spor.tr" group-title="Sport" tvg-chno="73",tabii Spor
 http://live.tabitv.workers.dev/?ID=tabii%20spor
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" group-title="Sport" tvg-chno="74",SporSmart
+http://31.43.191.125:8080/restream/restream/141418
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" tvg-id="HTSPOR.tr" group-title="Sport" tvg-chno="75",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" tvg-id="FBTV.tr" group-title="Sport" tvg-chno="76",FB TV
@@ -121,6 +127,12 @@ https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qJdvQ-F5vdSnWkt7oLoop8PPtol2dfPi6QDemd3AeNWPJSe2pXZ-uzl5PJReh0Rn6jQb5nQPp70QdxM86Xf-" tvg-id="EPG_ID" group-title="Sport" tvg-chno="89",Yarıştayız TV
 https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="EUROSPORT.1.HD.tr" group-title="Sport" tvg-chno="91",Eurosport 1
+http://31.43.191.125:8080/restream/restream/141378
+#EXTINF:-1 tvg-logo="" tvg-id="EUROSPORT.2.HD.tr" group-title="Sport" tvg-chno="92",Eurosport 2
+http://31.43.191.125:8080/restream/restream/141379
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Sport" tvg-chno="93",Cosmo Sports
+http://31.43.191.125:8080/restream/restream/140980
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-AM7yL3ikUm4m4K9BhELsdjzQzP9RaOa" tvg-id="TRACE.SPORT.STARS.HD.tr" group-title="Sport" tvg-chno="94",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" tvg-id="" group-title="Sport" tvg-chno="95",Fast&FunBox
@@ -625,8 +637,6 @@ https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
 http://31.43.191.125:8080/restream/restream/140857
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="BBC.EARTH.tr" tvg-chno="183",BBC Earth
 http://31.43.191.125:8080/restream/restream/140853
-#EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.2.tr" tvg-chno="94",S Sport 2
-https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN İZ
 http://31.43.191.125:8080/restream/restream/140859
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Movies Türk
@@ -643,12 +653,6 @@ http://31.43.191.125:8080/restream/restream/141861
 http://31.43.191.125:8080/restream/restream/141862
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",DiziSmart Max
 http://31.43.191.125:8080/restream/restream/140919
-#EXTINF:-1 tvg-logo="" tvg-id="EUROSPORT.1.HD.tr" tvg-chno="91",Eurosport 1
-http://31.43.191.125:8080/restream/restream/141378
-#EXTINF:-1 tvg-logo="" tvg-id="EUROSPORT.2.HD.tr" tvg-chno="92",Eurosport 2
-http://31.43.191.125:8080/restream/restream/141379
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Cosmo Sports
-http://31.43.191.125:8080/restream/restream/140980
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Habitat TV
 http://31.43.191.125:8080/restream/restream/141005
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" tvg-chno="181",National Geographic
@@ -657,12 +661,8 @@ http://31.43.191.125:8080/restream/restream/141869
 http://31.43.191.125:8080/restream/restream/141871
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Nickelodeon
 http://31.43.191.125:8080/restream/restream/141923
-#EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.tr" tvg-chno="93",S Sport
-http://31.43.191.125:8080/restream/restream/141401
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-4RHB9lDSPo8UftI0DHanJ0ZXAhj_jrq" tvg-id="SİNEMA.YERLİ.HD.tr" tvg-chno="123",Sinema Yerli
 http://31.43.191.125:8080/restream/restream/141819
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" tvg-chno="77",SporSmart
-http://31.43.191.125:8080/restream/restream/141418
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Viasat Explore
 http://31.43.191.125:8080/restream/restream/141885
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dVMsNq4T6Krb2M-of4K69e5AYqTmVVuU" tvg-id="VIASAT.NATURE.-.HISTORY.tr" tvg-chno="192",Viasat History
