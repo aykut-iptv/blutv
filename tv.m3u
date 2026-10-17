@@ -237,8 +237,16 @@ https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RpsnevyYc38xtZ8d35Fl_aikSJFIeWqr" tvg-id="BABY.TV.tr" group-title="Child" tvg-chno="162",Baby TV
 https://saran-live.ercdn.net/babytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/8/8b/Da_Vinci_%282022-.n.v.%2C_belo%29.png/revision/latest/scale-to-width-down/985?cb=20230202170558&path-prefix=pl" tvg-id="" group-title="Child" tvg-chno="164",Da Vinci
+http://31.43.191.125:8080/restream/restream/141898
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" group-title="Child" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/p/mN/246012/logo_50.png?v=638671714105411282" tvg-id="" group-title="Child" tvg-chno="166",ÇocukSmart
+http://31.43.191.125:8080/restream/restream/141897
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" tvg-id="" group-title="Child" tvg-chno="167",Nickelodeon
+http://31.43.191.125:8080/restream/restream/141923
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltb36bff5b4924228e/66bc78234f0e47c3e25a4816/Cartoonito_-_Logo_2021.png" tvg-id="" group-title="Child" tvg-chno="168",Cartoonito
+http://31.43.191.125:8080/restream/restream/140873
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="CARTOON.NETWORK.tr" group-title="Child" tvg-chno="169",Cartoon Network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DEZWG4KWUAEXFK/6846/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mHVB1z9fEHLFyYRYwxLNjT_TiclEdsh9" tvg-id="MİNİKA.GO.tr" group-title="Child" tvg-chno="170",minikaGO
@@ -657,16 +665,6 @@ https://streams.uzunmuhalefet.com/stream/d1e7e32f-d06d-42db-997c-acdb9b0971f5.m3
 https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7f48a7b_output_0.m3u8?session=WiBL6q6PzoRV7DTJZaMvmo
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O79oqWHVhSk2Vn3S4K64H5cg6BRQFb6N" tvg-id="" group-title="Local" tvg-chno="",Aksu TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",S Sport 2
-https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Cartoonito
-http://31.43.191.125:8080/restream/restream/140873
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",ÇocukSmart
-http://31.43.191.125:8080/restream/restream/141897
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Da Vinci
-http://31.43.191.125:8080/restream/restream/141898
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Nickelodeon
-http://31.43.191.125:8080/restream/restream/141923
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
