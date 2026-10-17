@@ -607,8 +607,6 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 https://mss.ayakkabiparti.lol/discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sW-5-bPEUluTbTfg6_7sfyPz41Jj3BE_" tvg-id="DISCOVERY.ID.tr" tvg-chno="186",Investigation Discovery
 https://mss.ayakkabiparti.lol/discs/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="BBC.EARTH.tr" tvg-chno="183",BBC Earth
-https://mss.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wj9dufYesBbTbg2-hTlPyEDT7GgGm2pL" tvg-id="LOVE.NATURE.HD.tr" tvg-chno="184",Love Nature
 https://mss.ayakkabiparti.lol/lovenature/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" tvg-chno="181",National Geographic
@@ -647,6 +645,8 @@ https://ladyboy.ardastream2.cfd//beinmax2/tracks-v1a1/mono.m3u8
 https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
 
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="BBC.EARTH.tr" tvg-chno="183",BBC Earth
+http://31.43.191.125:8080/restream/restream/140853
 #EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.2.tr" tvg-chno="94",S Sport 2
 https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
