@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w_Bein_Movies_Turk_250x150_2022.png" tvg-id="" group-title="Movies Series" tvg-chno="17",beIN Movies Türk
+http://31.43.191.125:8080/restream/restream/141478
+#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w_bein_iz_250x150_2022.png" tvg-id="" group-title="Documentary" tvg-chno="18",beIN İZ
+http://31.43.191.125:8080/restream/restream/140859
+#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w_Gurme_250x150_2022.png" tvg-id="" group-title="Entertainment Life" tvg-chno="21",beIN Gurme
+http://31.43.191.125:8080/restream/restream/140857
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" group-title="General" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Sy0jDG8ieG6zW1XUPMUNeYBWI8BkYBBv" tvg-id="TRT.1.HD.tr" group-title="General" tvg-chno="23",TRT 1
@@ -649,12 +655,6 @@ https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7f48a7b_o
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",S Sport 2
 https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Gurme
-http://31.43.191.125:8080/restream/restream/140857
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN İZ
-http://31.43.191.125:8080/restream/restream/140859
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Movies Türk
-http://31.43.191.125:8080/restream/restream/141478
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Cartoonito
 http://31.43.191.125:8080/restream/restream/140873
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",ÇocukSmart
