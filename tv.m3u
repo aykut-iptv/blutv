@@ -157,6 +157,8 @@ https://gtrk-volga.ru/media/hr24/stream1.m3u8
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PsEqL1EZkFa_G3tiDrZphtUkGtfdcOdK" tvg-id="BLOOMBERG.tr" group-title="International News Europe" tvg-chno="139",Bloomberg
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vbATr4qcvZMzlyhxBx7xpyHLr8nNhMUD" tvg-id="A.NEWS.HD.tr" group-title="International News Europe" tvg-chno="140",A News
+http://31.43.191.125:8080/restream/restream/140816
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vsX72zzJRz_sJMfqGHbkeZVDHyMfq7kg" tvg-id="BBC.World.News.de" group-title="International News Europe" tvg-chno="141",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Bwd_xqJHfdRsdcZ2TrG0Yuh5Hburyt1p" tvg-id="TRT.WORLD.HD.tr" group-title="International News Europe" tvg-chno="142",TRT World
@@ -563,8 +565,6 @@ http://129.151.204.207/TVHeryerde.php?ID=2002
 http://129.151.204.207/TVHeryerde.php?ID=1809
 #EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.tr" tvg-chno="93",S Sport
 http://129.151.204.207/TVHeryerde.php?ID=1810
-#EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.2.tr" tvg-chno="94",S Sport 2
-http://129.151.204.207/TVHeryerde.php?ID=3901
 #EXTINF:-1 tvg-logo="" tvg-id="EPIC.DRAMA.tr" tvg-chno="116",Epic Drama
 http://129.151.204.207/TVHeryerde.php?ID=2802
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" tvg-chno="121",Sinema TV
@@ -603,8 +603,6 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1O4LR-ztnbVPio142Ayzwl5OkZdtAlR2H" tvg-id="CNBC.de" tvg-chno="138",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vbATr4qcvZMzlyhxBx7xpyHLr8nNhMUD" tvg-id="A.NEWS.HD.tr" tvg-chno="140",A News
-https://trn03.tulix.tv/gt-anews/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X90QjoblNOtafuDjn-_s_XBeou9p9-2E" tvg-id="DiscoveryChannel.tr" tvg-chno="191",Discovery Channel
 https://mss.ayakkabiparti.lol/discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sW-5-bPEUluTbTfg6_7sfyPz41Jj3BE_" tvg-id="DISCOVERY.ID.tr" tvg-chno="186",Investigation Discovery
@@ -631,22 +629,24 @@ https://streams.uzunmuhalefet.com/stream/d1e7e32f-d06d-42db-997c-acdb9b0971f5.m3
 https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7f48a7b_output_0.m3u8?session=WiBL6q6PzoRV7DTJZaMvmo
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O79oqWHVhSk2Vn3S4K64H5cg6BRQFb6N" tvg-id="" group-title="Local" tvg-chno="",Aksu TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports 1
+https://ladyboy.ardastream2.cfd//beintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports 2
+https://ladyboy.ardastream2.cfd//bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports 3
+https://ladyboy.ardastream2.cfd//bein3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports 4
+https://ladyboy.ardastream2.cfd//bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports 5
+https://ladyboy.ardastream2.cfd//bein5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports Max 1
+https://ladyboy.ardastream2.cfd//beinmax1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Sports Max 2
+https://ladyboy.ardastream2.cfd//beinmax2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",S Sport 2
+https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
 
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
-
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
-
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
-
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
-
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
-
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
-
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
-
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
-
+#EXTINF:-1 tvg-logo="" tvg-id="S.SPORT.2.tr" tvg-chno="94",S Sport 2
+https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
