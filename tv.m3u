@@ -571,9 +571,9 @@ https://xite-rakuten.amagi.tv/playlist.m3u8
 http://31.43.191.125:8080/restream/restream/134822
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15OXTg7ZZ3Bwvww68aMjtVGzmdLxyJey7" tvg-id="" group-title="Deutschland" tvg-chno="802",13th Street
 http://31.43.191.125:8080/restream/restream/134797
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WarnerTV_Serie_Logo_2021.svg/1280px-WarnerTV_Serie_Logo_2021.svg.png" tvg-id="" group-title="Deutschland" tvg-chno="803",Warner TV Serie
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vwpnuw_JEVTqLGsEGlxxAioU7Ri0i033" tvg-id="" group-title="Deutschland" tvg-chno="803",Warner TV Serie
 http://31.43.191.125:8080/restream/restream/134826
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/WarnerTV_Comedy_Logo_2021.svg/1280px-WarnerTV_Comedy_Logo_2021.svg.png" tvg-id="" group-title="Deutschland" tvg-chno="804",Warner TV Comedy
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1oPkYi4K8gErqcbFrkud17bDrwuO2Z5Dg" tvg-id="" group-title="Deutschland" tvg-chno="804",Warner TV Comedy
 http://31.43.191.125:8080/restream/restream/134823
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12aG27v5xMNk2FMbQ4qbjFhFoEbnoaD2Q" tvg-id="" group-title="Deutschland" tvg-chno="805",TLC DE
 http://31.43.191.125:8080/restream/restream/134996
@@ -635,7 +635,7 @@ http://31.43.191.125:8080/restream/restream/135026
 http://31.43.191.125:8080/restream/restream/134944
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="834",ARD-alpha
 http://31.43.191.125:8080/restream/restream/134915
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="835",Warner TV Film
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18gDaequrvUSo1wdlcU91XreFbdSGe-L7" tvg-id="" group-title="Deutschland" tvg-chno="835",Warner TV Film
 http://31.43.191.125:8080/restream/restream/134824
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="836",Cartoonito DE
 http://31.43.191.125:8080/restream/restream/147087
