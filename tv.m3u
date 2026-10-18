@@ -567,12 +567,24 @@ https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10OD2gGuHwYpGdpMjYJQiGh1WjZR--6v6" tvg-id="" tvg-chno="796",Xite
 https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Universal TV
+http://31.43.191.125:8080/restream/restream/134822
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",13th Street
+http://31.43.191.125:8080/restream/restream/134797
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Warner TV Serie
+http://31.43.191.125:8080/restream/restream/134826
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Warner TV Comedy
+http://31.43.191.125:8080/restream/restream/134823
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",TLC DE
+http://31.43.191.125:8080/restream/restream/134996
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="797",Comedy Central
 http://31.43.191.125:8080/restream/restream/147088
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="798",AXN Black
 http://31.43.191.125:8080/restream/restream/134798
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="799",AXN White
 http://31.43.191.125:8080/restream/restream/134799
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Heimatkanal
+http://31.43.191.125:8080/restream/restream/134801
 #EXTINF:-1 tvg-logo="https://audionplus.com/wp-content/uploads/2020/02/Das_Erste_Logo-2014_weiss.png" tvg-id="" group-title="Deutschland" tvg-chno="800",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=19n_6oLtk49zaDhAN6BI6Fgz2U9ktRj1b" tvg-id="" group-title="Deutschland" tvg-chno="801",ZDF
@@ -605,6 +617,12 @@ http://31.43.191.125:8080/restream/restream/134995
 http://31.43.191.125:8080/restream/restream/134968
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="815",VOXup
 http://31.43.191.125:8080/restream/restream/135000
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",History DE
+http://31.43.191.125:8080/restream/restream/135058
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",National Geographic DE
+http://31.43.191.125:8080/restream/restream/135049
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",National Geographic Wild DE
+http://31.43.191.125:8080/restream/restream/135051
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JB0_B2dGWdmI_EvWR9ANcq3aqapzhLH9" tvg-id="" group-title="Deutschland" tvg-chno="816",3sat
 http://31.43.191.125:8080/restream/restream/134912
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=17VvwMxfAdgIPtaA5xBAX2hnoYAO7JhbM" tvg-id="" group-title="Deutschland" tvg-chno="817",Arte Deutsch
@@ -617,6 +635,12 @@ http://31.43.191.125:8080/restream/restream/135026
 http://31.43.191.125:8080/restream/restream/134944
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="821",ARD-alpha
 http://31.43.191.125:8080/restream/restream/134915
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Warner TV Film
+http://31.43.191.125:8080/restream/restream/134824
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Cartoonito DE
+http://31.43.191.125:8080/restream/restream/147087
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Cartoon Network DE
+http://31.43.191.125:8080/restream/restream/147086
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="822",KiKA
 http://31.43.191.125:8080/restream/restream/147092
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="823",Super RTL
@@ -722,26 +746,13 @@ http://31.43.191.125:8080/restream/restream/141807
 http://31.43.191.125:8080/restream/restream/141867
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Movies Stars
 http://31.43.191.125:8080/restream/restream/141477
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Cartoonito DE
-http://31.43.191.125:8080/restream/restream/147087
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Cartoon Network DE
-http://31.43.191.125:8080/restream/restream/147086
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",History DE
-http://31.43.191.125:8080/restream/restream/135058
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",National Geographic DE
-http://31.43.191.125:8080/restream/restream/135049
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",National Geographic Wild DE
-http://31.43.191.125:8080/restream/restream/135051
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Warner TV Comedy
-http://31.43.191.125:8080/restream/restream/134823
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Warner TV Film
-http://31.43.191.125:8080/restream/restream/134824
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Warner TV Serie
-http://31.43.191.125:8080/restream/restream/134826
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",Universal TV
-http://31.43.191.125:8080/restream/restream/134822
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",13th Street
-http://31.43.191.125:8080/restream/restream/134797
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="",
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
