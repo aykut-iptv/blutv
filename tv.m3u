@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w_Bein_Movies_Turk_250x150_2022.png" tvg-id="" group-title="Movies Series" tvg-chno="17",beIN Movies Türk
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=13E47AjM07_nxEsH1KvK5ll0hJ7bvSey8" tvg-id="" group-title="Movies Series" tvg-chno="13",beIN Movies Stars
+http://31.43.191.125:8080/restream/restream/141477
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1fnZgT7AQt6ntxABHq2MEPXjWjXQknsfv" tvg-id="" group-title="Movies Series" tvg-chno="17",beIN Movies Türk
 http://31.43.191.125:8080/restream/restream/141478
-#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w_bein_iz_250x150_2022.png" tvg-id="" group-title="Documentary" tvg-chno="18",beIN İZ
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Ce7u28wVPTKeR7Vjg6-_Sod0-e80t9oI" tvg-id="" group-title="Documentary" tvg-chno="18",beIN İZ
 http://31.43.191.125:8080/restream/restream/140859
-#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w_Gurme_250x150_2022.png" tvg-id="" group-title="Entertainment Life" tvg-chno="21",beIN Gurme
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1A8KYXIRlYRH2ZnAheQKwHvXondde8nZa" tvg-id="" group-title="Entertainment Life" tvg-chno="21",beIN Gurme
 http://31.43.191.125:8080/restream/restream/140857
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" group-title="General" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
@@ -109,21 +111,21 @@ http://31.43.191.125:8080/restream/restream/141418
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" tvg-id="FBTV.tr" group-title="Sport" tvg-chno="76",FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" tvg-id="" group-title="Sport" tvg-chno="77",beIN Sports 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1h5L4wPtRSdGI9Yd1iF1yjpP1vDamirwD" tvg-id="" group-title="Sport" tvg-chno="77",beIN Sports 1
 https://ladyboy.ardastream2.cfd//beintv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" tvg-id="" group-title="Sport" tvg-chno="78",beIN Sports 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i9eFcnmP0Q3FKnibJauri1KmlvJCvbuw" tvg-id="" group-title="Sport" tvg-chno="78",beIN Sports 2
 https://ladyboy.ardastream2.cfd//bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png" tvg-id="" group-title="Sport" tvg-chno="79",beIN Sports 3
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Tm2Dn24hv15pMBcn2-2KTRyEtRiOQdv-" tvg-id="" group-title="Sport" tvg-chno="79",beIN Sports 3
 https://ladyboy.ardastream2.cfd//bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png" tvg-id="" group-title="Sport" tvg-chno="80",beIN Sports 4
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1I1XK2_Q21nmHJ8IIknzpS8wMUKiC97jk" tvg-id="" group-title="Sport" tvg-chno="80",beIN Sports 4
 https://ladyboy.ardastream2.cfd//bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" tvg-id="" group-title="Sport" tvg-chno="81",beIN Sports 5
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1J0otHOFAUqzOsxopNsMz983w1PvoxaDw" tvg-id="" group-title="Sport" tvg-chno="81",beIN Sports 5
 https://ladyboy.ardastream2.cfd//bein5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png" tvg-id="" group-title="Sport" tvg-chno="82",beIN Sports Max 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1thpU5pgN6DeJeerI54odEwMSFgVVqfR1" tvg-id="" group-title="Sport" tvg-chno="82",beIN Sports Max 1
 https://ladyboy.ardastream2.cfd//beinmax1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png" tvg-id="" group-title="Sport" tvg-chno="83",beIN Sports Max 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12E1Cc3aBHv-MfqUCPlEeqeF9w6UNid-n" tvg-id="" group-title="Sport" tvg-chno="83",beIN Sports Max 2
 https://ladyboy.ardastream2.cfd//beinmax2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vGzs00VOq0aaaNB9niucjDrDEipf5INg" tvg-id="beIN.SPORTS.HABER.HD.tr" group-title="Sport" tvg-chno="85",beIN Sports Haber
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_5guYsmeoTNz6YObHQ3gFHNGLw1MkWFi" tvg-id="beIN.SPORTS.HABER.HD.tr" group-title="Sport" tvg-chno="85",beIN Sports Haber
 http://31.43.191.125:8080/restream/restream/141370
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1twBcD3uoVn69--0lOafxhFF7o5ETssLf" tvg-id="TRT.SPOR.HD.tr" group-title="Sport" tvg-chno="86",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
@@ -253,6 +255,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DEZWG4KWUAEXFK/6846/inde
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hpoAES0Zzbep6AZ99rpLwMklG5D9zbpx" tvg-id="MİNİKA.ÇOCUK.tr" group-title="Child" tvg-chno="174",minikaÇocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Yey907kl6CCwZg1dpc-5s43J4h62V_-S" tvg-id="" group-title="Documentary" tvg-chno="180",Cosmo EN
+http://31.43.191.125:8080/restream/restream/141867
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" group-title="Documentary" tvg-chno="181",National Geographic
 http://31.43.191.125:8080/restream/restream/141869
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250805841180.png" tvg-id="" group-title="Documentary" tvg-chno="182",Habitat TV
@@ -742,10 +746,7 @@ http://31.43.191.125:8080/restream/restream/141810
 http://31.43.191.125:8080/restream/restream/141817
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Sinema 1002
 http://31.43.191.125:8080/restream/restream/141807
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Cosmo EN
-http://31.43.191.125:8080/restream/restream/141867
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Movies Stars
-http://31.43.191.125:8080/restream/restream/141477
+
 
 
 
