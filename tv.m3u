@@ -569,9 +569,9 @@ https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protoc
 https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1LxVEhtgE4mLQj5l2flV2jMhXfiQFh2zi" tvg-id="" group-title="Deutschland" tvg-chno="801",Universal TV
 http://31.43.191.125:8080/restream/restream/134822
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/5/59/13th_Street.svg" tvg-id="" group-title="Deutschland" tvg-chno="802",13th Street
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15OXTg7ZZ3Bwvww68aMjtVGzmdLxyJey7" tvg-id="" group-title="Deutschland" tvg-chno="802",13th Street
 http://31.43.191.125:8080/restream/restream/134797
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="803",Warner TV Serie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WarnerTV_Serie_Logo_2021.svg/1280px-WarnerTV_Serie_Logo_2021.svg.png" tvg-id="" group-title="Deutschland" tvg-chno="803",Warner TV Serie
 http://31.43.191.125:8080/restream/restream/134826
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="804",Warner TV Comedy
 http://31.43.191.125:8080/restream/restream/134823
