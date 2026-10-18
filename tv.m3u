@@ -617,10 +617,7 @@ https://mss.ayakkabiparti.lol/mvturk/index.m3u8?token=tStZH2zQN1DUgV7dNGbacQ&tms
 https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="EPIC.DRAMA.tr" tvg-chno="116",Epic Drama
 http://129.151.204.207/TVHeryerde.php?ID=2802
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" tvg-chno="121",Sinema TV
-http://129.151.204.207/TVHeryerde.php?ID=1908
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mmd3xM0U294nb16LDZ_YeLhgKrhzuxXU" tvg-id="SİNEMA.TV.AKSİYON.HD.tr" tvg-chno="122",Sinema Aksiyon
-http://129.151.204.207/TVHeryerde.php?ID=1109
+
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L0DrXWhq35YDfaGuPcTDjoU6FNzyrdto" tvg-id="SİNEMA.KOMEDİ.HD.tr" tvg-chno="124",Sinema Komedi
 http://129.151.204.207/TVHeryerde.php?ID=1110
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uQJxABxPkuYHxqt6Y6JIgEJSj_K1oDz_" tvg-id="SİNEMA.AİLE.HD.tr" tvg-chno="125",Sinema Aile
@@ -671,6 +668,24 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 http://31.43.191.125:8080/restream/restream/141802
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Sinema Yerli 2
 http://31.43.191.125:8080/restream/restream/141821
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Sinema Aksiyon 2
+http://31.43.191.125:8080/restream/restream/141814
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Sinema Aile 2
+http://31.43.191.125:8080/restream/restream/141813
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mmd3xM0U294nb16LDZ_YeLhgKrhzuxXU" tvg-id="SİNEMA.TV.AKSİYON.HD.tr" tvg-chno="122",Sinema Aksiyon
+http://31.43.191.125:8080/restream/restream/141810
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" tvg-chno="121",Sinema TV
+http://31.43.191.125:8080/restream/restream/141817
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Sinema 1002
+http://31.43.191.125:8080/restream/restream/141807
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Cosmo EN
+http://31.43.191.125:8080/restream/restream/141867
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Movies Stars
+http://31.43.191.125:8080/restream/restream/141477
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
+
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
+
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
