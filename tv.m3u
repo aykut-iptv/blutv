@@ -573,11 +573,11 @@ http://31.43.191.125:8080/restream/restream/134822
 http://31.43.191.125:8080/restream/restream/134797
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WarnerTV_Serie_Logo_2021.svg/1280px-WarnerTV_Serie_Logo_2021.svg.png" tvg-id="" group-title="Deutschland" tvg-chno="803",Warner TV Serie
 http://31.43.191.125:8080/restream/restream/134826
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="804",Warner TV Comedy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/WarnerTV_Comedy_Logo_2021.svg/1280px-WarnerTV_Comedy_Logo_2021.svg.png" tvg-id="" group-title="Deutschland" tvg-chno="804",Warner TV Comedy
 http://31.43.191.125:8080/restream/restream/134823
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="805",TLC DE
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12aG27v5xMNk2FMbQ4qbjFhFoEbnoaD2Q" tvg-id="" group-title="Deutschland" tvg-chno="805",TLC DE
 http://31.43.191.125:8080/restream/restream/134996
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="806",Comedy Central
+#EXTINF:-1 tvg-logo="https://setsentertainment.com/wp-content/uploads/2021/06/Comedy_Central_2018-1.png" tvg-id="" group-title="Deutschland" tvg-chno="806",Comedy Central
 http://31.43.191.125:8080/restream/restream/147088
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="807",AXN Black
 http://31.43.191.125:8080/restream/restream/134798
