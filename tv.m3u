@@ -583,7 +583,7 @@ http://31.43.191.125:8080/restream/restream/147088
 http://31.43.191.125:8080/restream/restream/134798
 #EXTINF:-1 tvg-logo="https://axn.pl/wp-content/uploads/2024/10/axn_white-1-980x438.png" tvg-id="" group-title="Deutschland" tvg-chno="808",AXN White
 http://31.43.191.125:8080/restream/restream/134799
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="809",Heimatkanal
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dlMB9uYxP7VufUGhVci8QY9N-xb2h8me" tvg-id="" group-title="Deutschland" tvg-chno="809",Heimatkanal
 http://31.43.191.125:8080/restream/restream/134801
 #EXTINF:-1 tvg-logo="https://audionplus.com/wp-content/uploads/2020/02/Das_Erste_Logo-2014_weiss.png" tvg-id="" group-title="Deutschland" tvg-chno="810",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
@@ -603,7 +603,7 @@ https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 http://31.43.191.125:8080/restream/restream/135017
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1MDWTbn_ZFxIq2kxnLuCxLcvY8_vetYpt" tvg-id="" group-title="Deutschland" tvg-chno="818",RTL Zwei
 http://31.43.191.125:8080/restream/restream/134976
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="819",RTLup
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1m34nzlQhdu1ZwImWGB1kETcHY_GOipzH" tvg-id="" group-title="Deutschland" tvg-chno="819",RTLup
 http://31.43.191.125:8080/restream/restream/134977
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1f-RmQucu68JDciiONf-x7k5YXgVNcK-V" tvg-id="" group-title="Deutschland" tvg-chno="820",Sat.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
@@ -611,23 +611,23 @@ https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 http://31.43.191.125:8080/restream/restream/134959
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hRBLXgHHy1BSgq4ftAfjd-8wVfEKWw53" tvg-id="" group-title="Deutschland" tvg-chno="822",One
 http://31.43.191.125:8080/restream/restream/134962
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="823",Sixx
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1GVm3Xdz28uPRV_bdnxODLSC3RqOZeo74" tvg-id="" group-title="Deutschland" tvg-chno="823",Sixx
 http://31.43.191.125:8080/restream/restream/134995
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="824",ProSieben MAXX
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1MXJiTy_opkkVXBqFb3Z6xJVBWhFy2ybh" tvg-id="" group-title="Deutschland" tvg-chno="824",ProSieben MAXX
 http://31.43.191.125:8080/restream/restream/134968
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="825",VOXup
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1bIvshR3D8a0akcE8vumFIrCu8iqdncJe" tvg-id="" group-title="Deutschland" tvg-chno="825",VOXup
 http://31.43.191.125:8080/restream/restream/135000
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="826",History DE
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1AKS9gw1XQeTejY5nKNqkLp7JDiBBR6nn" tvg-id="" group-title="Deutschland" tvg-chno="826",History DE
 http://31.43.191.125:8080/restream/restream/135058
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="827",National Geographic DE
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="" group-title="Deutschland" tvg-chno="827",National Geographic DE
 http://31.43.191.125:8080/restream/restream/135049
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="828",National Geographic Wild DE
+#EXTINF:-1 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/1e49a3f7-dfcb-4c09-abec-3b3247518b89.png" tvg-id="" group-title="Deutschland" tvg-chno="828",National Geographic Wild DE
 http://31.43.191.125:8080/restream/restream/135051
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JB0_B2dGWdmI_EvWR9ANcq3aqapzhLH9" tvg-id="" group-title="Deutschland" tvg-chno="829",3sat
 http://31.43.191.125:8080/restream/restream/134912
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=17VvwMxfAdgIPtaA5xBAX2hnoYAO7JhbM" tvg-id="" group-title="Deutschland" tvg-chno="830",Arte Deutsch
 http://31.43.191.125:8080/restream/restream/134916
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="831",DMAX DE
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nub8nwDeupjt3EF2626hdEVSwWTb9l_T" tvg-id="" group-title="Deutschland" tvg-chno="831",DMAX DE
 http://31.43.191.125:8080/restream/restream/135039
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18MkZaaqYB2pXSfd6E4hoKuMF5wEHxZzS" tvg-id="" group-title="Deutschland" tvg-chno="832",Phoenix
 http://31.43.191.125:8080/restream/restream/135026
@@ -637,9 +637,9 @@ http://31.43.191.125:8080/restream/restream/134944
 http://31.43.191.125:8080/restream/restream/134915
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18gDaequrvUSo1wdlcU91XreFbdSGe-L7" tvg-id="" group-title="Deutschland" tvg-chno="835",Warner TV Film
 http://31.43.191.125:8080/restream/restream/134824
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="836",Cartoonito DE
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltb36bff5b4924228e/66bc78234f0e47c3e25a4816/Cartoonito_-_Logo_2021.png" tvg-id="" group-title="Deutschland" tvg-chno="836",Cartoonito DE
 http://31.43.191.125:8080/restream/restream/147087
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="837",Cartoon Network DE
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="" group-title="Deutschland" tvg-chno="837",Cartoon Network DE
 http://31.43.191.125:8080/restream/restream/147086
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="838",KiKA
 http://31.43.191.125:8080/restream/restream/147092
