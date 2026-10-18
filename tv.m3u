@@ -569,35 +569,35 @@ https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protoc
 https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://audionplus.com/wp-content/uploads/2020/02/Das_Erste_Logo-2014_weiss.png" tvg-id="" group-title="Deutschland" tvg-chno="800",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=19n_6oLtk49zaDhAN6BI6Fgz2U9ktRj1b" tvg-id="" tvg-chno="801",ZDF
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1jA8hcQIOLzrw4pOSkf2pIcqUoj1ley0B" tvg-id="" tvg-chno="802",RTL
-https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_-q5kCQ2oI8kgzwKAuLoUmy-bC5juX0o" tvg-id="" tvg-chno="803",Vox
-https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=19n_6oLtk49zaDhAN6BI6Fgz2U9ktRj1b" tvg-id="" group-title="Deutschland" tvg-chno="801",ZDF
+http://31.43.191.125:8080/restream/restream/135014
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1jA8hcQIOLzrw4pOSkf2pIcqUoj1ley0B" tvg-id="" group-title="Deutschland" tvg-chno="802",RTL
+http://31.43.191.125:8080/restream/restream/134973
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_-q5kCQ2oI8kgzwKAuLoUmy-bC5juX0o" tvg-id="" group-title="Deutschland" tvg-chno="803",Vox
+http://31.43.191.125:8080/restream/restream/134999
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1QwapkUAg7gB1YVdoewEWQkd4qqEsxQ5M" tvg-id="" group-title="Deutschland" tvg-chno="804",Sat.1
 https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gVUj1N_kXdYOlsb-GdieQMFBtGOVh5Rj" tvg-id="" group-title="Deutschland" tvg-chno="805",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rCCfpFC_FMGSbcPiSDsoe61KXqZ0XnHl" tvg-id="" group-title="Deutschland" tvg-chno="806",Kabel Eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X06rVN8UMsGaFtC6UjqBEJfCFY8EIOBJ" tvg-id="" tvg-chno="807",ZDF Neo
-https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1MDWTbn_ZFxIq2kxnLuCxLcvY8_vetYpt" tvg-id="" tvg-chno="808",RTL Zwei
-https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X06rVN8UMsGaFtC6UjqBEJfCFY8EIOBJ" tvg-id="" group-title="Deutschland" tvg-chno="807",ZDF Neo
+http://31.43.191.125:8080/restream/restream/135017
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1MDWTbn_ZFxIq2kxnLuCxLcvY8_vetYpt" tvg-id="" group-title="Deutschland" tvg-chno="808",RTL Zwei
+http://31.43.191.125:8080/restream/restream/134976
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1f-RmQucu68JDciiONf-x7k5YXgVNcK-V" tvg-id="" group-title="Deutschland" tvg-chno="809",Sat.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1c4S5GlGE9uDXfrQYM5a_Z7a4n22LTImI" tvg-id="" tvg-chno="810",Nitro
-https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JB0_B2dGWdmI_EvWR9ANcq3aqapzhLH9" tvg-id="" tvg-chno="811",3sat
-https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=17VvwMxfAdgIPtaA5xBAX2hnoYAO7JhbM" tvg-id="" tvg-chno="812",Arte Deutsch
-http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hRBLXgHHy1BSgq4ftAfjd-8wVfEKWw53" tvg-id="" tvg-chno="813",One
-https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18MkZaaqYB2pXSfd6E4hoKuMF5wEHxZzS" tvg-id="" tvg-chno="814",Phoenix
-https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10aIDQ64Ei-6sEPnjzuGHADCG6NLTXqMv" tvg-id="" tvg-chno="816",Tagesschau 24
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1c4S5GlGE9uDXfrQYM5a_Z7a4n22LTImI" tvg-id="" group-title="Deutschland" tvg-chno="810",Nitro
+http://31.43.191.125:8080/restream/restream/134959
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JB0_B2dGWdmI_EvWR9ANcq3aqapzhLH9" tvg-id="" group-title="Deutschland" tvg-chno="811",3sat
+http://31.43.191.125:8080/restream/restream/134912
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=17VvwMxfAdgIPtaA5xBAX2hnoYAO7JhbM" tvg-id="" group-title="Deutschland" tvg-chno="812",Arte Deutsch
+http://31.43.191.125:8080/restream/restream/134916
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hRBLXgHHy1BSgq4ftAfjd-8wVfEKWw53" tvg-id="" group-title="Deutschland" tvg-chno="813",One
+http://31.43.191.125:8080/restream/restream/134962
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18MkZaaqYB2pXSfd6E4hoKuMF5wEHxZzS" tvg-id="" group-title="Deutschland" tvg-chno="814",Phoenix
+http://31.43.191.125:8080/restream/restream/135026
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10aIDQ64Ei-6sEPnjzuGHADCG6NLTXqMv" tvg-id="" group-title="Deutschland" tvg-chno="816",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wd44lzRclTWd0X31BeMOB9ZjzecBgVos" tvg-id="EPG_ID" tvg-chno="72",Sıfır TV
 https://streams.uzunmuhalefet.com/stream/d1208b47-c4c7-48d2-8c1a-d36cdadf5467.m3u8
