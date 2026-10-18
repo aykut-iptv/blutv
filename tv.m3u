@@ -559,14 +559,6 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1wUpFWTcTNNixKCXu_3e5z1A4dupFrFq-" tvg-id="" tvg-chno="788",Film 4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1XpGnG06WCGiyiipKuyRe4fgF-4rFcRGo" tvg-id="" tvg-chno="791",NPO 1
-http://62.131.195.211:8086/12.ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1y9kD9Fm9i15AcTliHz15ZpCv-MsuMuKq" tvg-id="" tvg-chno="794",BVN TV
-https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=19Ztl4SHPXTxDh306b1qjykyyR6M1z5nY" tvg-id="" tvg-chno="795",AT 5
-https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10OD2gGuHwYpGdpMjYJQiGh1WjZR--6v6" tvg-id="" tvg-chno="796",Xite
-https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1LxVEhtgE4mLQj5l2flV2jMhXfiQFh2zi" tvg-id="" group-title="Deutschland" tvg-chno="801",Universal TV
 http://31.43.191.125:8080/restream/restream/134822
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15OXTg7ZZ3Bwvww68aMjtVGzmdLxyJey7" tvg-id="" group-title="Deutschland" tvg-chno="802",13th Street
@@ -663,6 +655,14 @@ http://31.43.191.125:8080/restream/restream/135024
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1DWaePepoG3VGMQ4Xk5cyw4hQFm9c1xj_" tvg-id="" group-title="Deutschland" tvg-chno="848",ZDFinfo
 http://31.43.191.125:8080/restream/restream/135016
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1XpGnG06WCGiyiipKuyRe4fgF-4rFcRGo" tvg-id="" tvg-chno="901",NPO 1
+http://62.131.195.211:8086/12.ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1y9kD9Fm9i15AcTliHz15ZpCv-MsuMuKq" tvg-id="" tvg-chno="902",BVN TV
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=19Ztl4SHPXTxDh306b1qjykyyR6M1z5nY" tvg-id="" group-title="Netherlands" tvg-chno="905",AT 5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10OD2gGuHwYpGdpMjYJQiGh1WjZR--6v6" tvg-id="" group-title="Netherlands" tvg-chno="910",Xite
+https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wd44lzRclTWd0X31BeMOB9ZjzecBgVos" tvg-id="EPG_ID" tvg-chno="72",Sıfır TV
 https://streams.uzunmuhalefet.com/stream/d1208b47-c4c7-48d2-8c1a-d36cdadf5467.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IDnk4YIhvu2mHYKezkjNOEkMVQJ_1l3W" tvg-id="" tvg-chno="78",SporSmart 2
