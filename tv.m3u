@@ -315,15 +315,15 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12by1JhNeoWLGtVKX-Hugmn9LK9hZp5VW" tvg-id="" group-title="International" tvg-chno="290",Türkmeneli TV
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1hIeD4EhQPvWKfhp2EyBSXxjhlhg7tk5M" tvg-id="BRT.1.HD.tr" group-title="International" tvg-chno="291",BRT 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1hIeD4EhQPvWKfhp2EyBSXxjhlhg7tk5M" tvg-id="BRT.1.HD.tr" group-title="Cyprus" tvg-chno="291",BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1jUw8oJuQcA4NIXpEZIy5PRxTymnzF8AB" tvg-id="BRT.2.HD.tr" group-title="International" tvg-chno="292",BRT 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1jUw8oJuQcA4NIXpEZIy5PRxTymnzF8AB" tvg-id="BRT.2.HD.tr" group-title="Cyprus" tvg-chno="292",BRT 2
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ek9rbnV0K-qrad7ERmYW_jbyes6zwtG0" tvg-id="KIBRIS.ADA.TV.tr" group-title="International" tvg-chno="294",Ada TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ek9rbnV0K-qrad7ERmYW_jbyes6zwtG0" tvg-id="KIBRIS.ADA.TV.tr" group-title="Cyprus" tvg-chno="294",Ada TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w1855707650.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rGa5ZLI-XMHIjm9yO6VhgIYxsFNe3TOg" tvg-id="KANAL.T.tr" group-title="International" tvg-chno="297",Kanal T
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rGa5ZLI-XMHIjm9yO6VhgIYxsFNe3TOg" tvg-id="KANAL.T.tr" group-title="Cyprus" tvg-chno="297",Kanal T
 https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1P-XxhRE8fVkowvNNJbyGdpnasB06VNu6" tvg-id="KIBRIS.TV.tr" group-title="International" tvg-chno="298",Kıbrıs TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1P-XxhRE8fVkowvNNJbyGdpnasB06VNu6" tvg-id="KIBRIS.TV.tr" group-title="Cyprus" tvg-chno="298",Kıbrıs TV
 https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1IwtGQlM7xTwP_vd0CuWXqrM-UKEdXIwf" tvg-id="" group-title="International News" tvg-chno="301",CGTN Русский
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
@@ -337,24 +337,10 @@ https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17ZPubOP4LRwvT7-mQed_1hXQDf4dJDQV" tvg-id="" group-title="International News" tvg-chno="",CGTN Arabic
 https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UJVRYUbbnChoVxoH37dofaLVyWgXvVx-" tvg-id="" group-title="International" tvg-chno="322",Az TV
-https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" group-title="International" tvg-chno="325",Azad TV
-https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rQXFjg_GO6_XONQvcJP0qgnDJ4dxKlzg" tvg-id="" group-title="International" tvg-chno="330",RTR Planeta
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://www.antenna.gr/images/logo.svg" tvg-id="" group-title="International" tvg-chno="331",ANT1
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://audionplus.com/wp-content/uploads/2020/02/Das_Erste_Logo-2014_weiss.png" tvg-id="" group-title="International" tvg-chno="350",Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1QwapkUAg7gB1YVdoewEWQkd4qqEsxQ5M" tvg-id="" group-title="International" tvg-chno="351",Sat.1
-https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gVUj1N_kXdYOlsb-GdieQMFBtGOVh5Rj" tvg-id="" group-title="International" tvg-chno="352",ProSieben
-https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rCCfpFC_FMGSbcPiSDsoe61KXqZ0XnHl" tvg-id="" group-title="International" tvg-chno="353",Kabel Eins
-https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1f-RmQucu68JDciiONf-x7k5YXgVNcK-V" tvg-id="" group-title="International" tvg-chno="354",Sat.1 Gold
-https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/TVE_Internacional_2026.svg/revision/latest/scale-to-width-down/250?cb=20260125143756" tvg-id="" group-title="International" tvg-chno="386",TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/RTP_Mundo_2026_Alt3.svg/revision/latest/scale-to-width-down/250?cb=20260330160355" tvg-id="" group-title="International" tvg-chno="387",RTP Mundo
@@ -539,12 +525,16 @@ https://29103.live.streamtheworld.com/SC002_SO1AAC.aac
 https://25693.live.streamtheworld.com/SC009_SO1AAC.aac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/362/logos/android_default_logo.png?v=170725021356" tvg-id="" group-title="Radio" tvg-chno="591",K-Pop
 https://28563.live.streamtheworld.com/KPOP128AAC.aac
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UJVRYUbbnChoVxoH37dofaLVyWgXvVx-" tvg-id="" group-title="Azerbaijan" tvg-chno="763",Az TV
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yUbXlYlapAH59YiBkMcMYvFvojJXcu31" tvg-id="" tvg-chno="764",Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CA4EDVy8F4PaDrAhIjMK25gJxE86w2Rd" tvg-id="" tvg-chno="765",CBC TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UbMMwiKMuiuL5TSx7GFPM0gIBsEJkZDJ" tvg-id="" tvg-chno="766",ARB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" group-title="Azerbaijan" tvg-chno="767",Azad TV
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JJYjHK6kqRxms_xQT-ZOVBOsEfdcrU-J" tvg-id="" tvg-chno="777",İdman TV
 http://live.cdn-vizi.workers.dev/?ID=53
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_sJKU0ZH6SrXXcPeHTqFPPZymoTysGWB" tvg-id="" tvg-chno="778",CBC Sport
@@ -577,16 +567,26 @@ https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10OD2gGuHwYpGdpMjYJQiGh1WjZR--6v6" tvg-id="" tvg-chno="796",Xite
 https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://audionplus.com/wp-content/uploads/2020/02/Das_Erste_Logo-2014_weiss.png" tvg-id="" group-title="Deutschland" tvg-chno="800",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=19n_6oLtk49zaDhAN6BI6Fgz2U9ktRj1b" tvg-id="" tvg-chno="801",ZDF
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1jA8hcQIOLzrw4pOSkf2pIcqUoj1ley0B" tvg-id="" tvg-chno="802",RTL
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_-q5kCQ2oI8kgzwKAuLoUmy-bC5juX0o" tvg-id="" tvg-chno="803",Vox
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1QwapkUAg7gB1YVdoewEWQkd4qqEsxQ5M" tvg-id="" group-title="Deutschland" tvg-chno="804",Sat.1
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gVUj1N_kXdYOlsb-GdieQMFBtGOVh5Rj" tvg-id="" group-title="Deutschland" tvg-chno="805",ProSieben
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rCCfpFC_FMGSbcPiSDsoe61KXqZ0XnHl" tvg-id="" group-title="Deutschland" tvg-chno="806",Kabel Eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X06rVN8UMsGaFtC6UjqBEJfCFY8EIOBJ" tvg-id="" tvg-chno="807",ZDF Neo
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1MDWTbn_ZFxIq2kxnLuCxLcvY8_vetYpt" tvg-id="" tvg-chno="808",RTL Zwei
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1f-RmQucu68JDciiONf-x7k5YXgVNcK-V" tvg-id="" group-title="Deutschland" tvg-chno="809",Sat.1 Gold
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1c4S5GlGE9uDXfrQYM5a_Z7a4n22LTImI" tvg-id="" tvg-chno="810",Nitro
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JB0_B2dGWdmI_EvWR9ANcq3aqapzhLH9" tvg-id="" tvg-chno="811",3sat
