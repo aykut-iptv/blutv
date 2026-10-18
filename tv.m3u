@@ -567,6 +567,12 @@ https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10OD2gGuHwYpGdpMjYJQiGh1WjZR--6v6" tvg-id="" tvg-chno="796",Xite
 https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="797",Comedy Central
+http://31.43.191.125:8080/restream/restream/147088
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="798",AXN Black
+http://31.43.191.125:8080/restream/restream/134798
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="799",AXN White
+http://31.43.191.125:8080/restream/restream/134799
 #EXTINF:-1 tvg-logo="https://audionplus.com/wp-content/uploads/2020/02/Das_Erste_Logo-2014_weiss.png" tvg-id="" group-title="Deutschland" tvg-chno="800",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=19n_6oLtk49zaDhAN6BI6Fgz2U9ktRj1b" tvg-id="" group-title="Deutschland" tvg-chno="801",ZDF
@@ -579,26 +585,60 @@ http://31.43.191.125:8080/restream/restream/134999
 https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gVUj1N_kXdYOlsb-GdieQMFBtGOVh5Rj" tvg-id="" group-title="Deutschland" tvg-chno="805",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rCCfpFC_FMGSbcPiSDsoe61KXqZ0XnHl" tvg-id="" group-title="Deutschland" tvg-chno="806",Kabel Eins
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rCCfpFC_FMGSbcPiSDsoe61KXqZ0XnHl" tvg-id="" group-title="Deutschland" tvg-chno="806",Kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X06rVN8UMsGaFtC6UjqBEJfCFY8EIOBJ" tvg-id="" group-title="Deutschland" tvg-chno="807",ZDF Neo
 http://31.43.191.125:8080/restream/restream/135017
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1MDWTbn_ZFxIq2kxnLuCxLcvY8_vetYpt" tvg-id="" group-title="Deutschland" tvg-chno="808",RTL Zwei
 http://31.43.191.125:8080/restream/restream/134976
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1f-RmQucu68JDciiONf-x7k5YXgVNcK-V" tvg-id="" group-title="Deutschland" tvg-chno="809",Sat.1 Gold
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="809",RTLup
+http://31.43.191.125:8080/restream/restream/134977
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1f-RmQucu68JDciiONf-x7k5YXgVNcK-V" tvg-id="" group-title="Deutschland" tvg-chno="810",Sat.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1c4S5GlGE9uDXfrQYM5a_Z7a4n22LTImI" tvg-id="" group-title="Deutschland" tvg-chno="810",Nitro
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1c4S5GlGE9uDXfrQYM5a_Z7a4n22LTImI" tvg-id="" group-title="Deutschland" tvg-chno="811",Nitro
 http://31.43.191.125:8080/restream/restream/134959
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JB0_B2dGWdmI_EvWR9ANcq3aqapzhLH9" tvg-id="" group-title="Deutschland" tvg-chno="811",3sat
-http://31.43.191.125:8080/restream/restream/134912
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=17VvwMxfAdgIPtaA5xBAX2hnoYAO7JhbM" tvg-id="" group-title="Deutschland" tvg-chno="812",Arte Deutsch
-http://31.43.191.125:8080/restream/restream/134916
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hRBLXgHHy1BSgq4ftAfjd-8wVfEKWw53" tvg-id="" group-title="Deutschland" tvg-chno="813",One
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hRBLXgHHy1BSgq4ftAfjd-8wVfEKWw53" tvg-id="" group-title="Deutschland" tvg-chno="812",One
 http://31.43.191.125:8080/restream/restream/134962
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18MkZaaqYB2pXSfd6E4hoKuMF5wEHxZzS" tvg-id="" group-title="Deutschland" tvg-chno="814",Phoenix
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="813",Sixx
+http://31.43.191.125:8080/restream/restream/134995
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="814",ProSieben MAXX
+http://31.43.191.125:8080/restream/restream/134968
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="815",VOXup
+http://31.43.191.125:8080/restream/restream/135000
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JB0_B2dGWdmI_EvWR9ANcq3aqapzhLH9" tvg-id="" group-title="Deutschland" tvg-chno="816",3sat
+http://31.43.191.125:8080/restream/restream/134912
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=17VvwMxfAdgIPtaA5xBAX2hnoYAO7JhbM" tvg-id="" group-title="Deutschland" tvg-chno="817",Arte Deutsch
+http://31.43.191.125:8080/restream/restream/134916
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="818",DMAX DE
+http://31.43.191.125:8080/restream/restream/135039
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18MkZaaqYB2pXSfd6E4hoKuMF5wEHxZzS" tvg-id="" group-title="Deutschland" tvg-chno="819",Phoenix
 http://31.43.191.125:8080/restream/restream/135026
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10aIDQ64Ei-6sEPnjzuGHADCG6NLTXqMv" tvg-id="" group-title="Deutschland" tvg-chno="816",Tagesschau 24
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="820",Kabel eins Doku
+http://31.43.191.125:8080/restream/restream/134944
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="821",ARD-alpha
+http://31.43.191.125:8080/restream/restream/134915
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="822",KiKA
+http://31.43.191.125:8080/restream/restream/147092
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="823",Super RTL
+http://31.43.191.125:8080/restream/restream/134987
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="824",Disney Channel
+http://31.43.191.125:8080/restream/restream/147089
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="825",Toggo Plus
+http://31.43.191.125:8080/restream/restream/147099
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="826",Jukebox
+http://31.43.191.125:8080/restream/restream/134940
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="827",MTV DE
+http://31.43.191.125:8080/restream/restream/134952
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="828",Deluxe Music
+http://31.43.191.125:8080/restream/restream/135196
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="829",Welt
+http://31.43.191.125:8080/restream/restream/135012
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="830",ntv
+http://31.43.191.125:8080/restream/restream/135024
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10aIDQ64Ei-6sEPnjzuGHADCG6NLTXqMv" tvg-id="" group-title="Deutschland" tvg-chno="831",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="832",ZDFinfo
+http://31.43.191.125:8080/restream/restream/135016
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wd44lzRclTWd0X31BeMOB9ZjzecBgVos" tvg-id="EPG_ID" tvg-chno="72",Sıfır TV
 https://streams.uzunmuhalefet.com/stream/d1208b47-c4c7-48d2-8c1a-d36cdadf5467.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IDnk4YIhvu2mHYKezkjNOEkMVQJ_1l3W" tvg-id="" tvg-chno="78",SporSmart 2
@@ -682,13 +722,9 @@ http://31.43.191.125:8080/restream/restream/141807
 http://31.43.191.125:8080/restream/restream/141867
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",beIN Movies Stars
 http://31.43.191.125:8080/restream/restream/141477
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
 
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
 
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
 
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
 
