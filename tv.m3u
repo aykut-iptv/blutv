@@ -579,9 +579,9 @@ http://31.43.191.125:8080/restream/restream/134823
 http://31.43.191.125:8080/restream/restream/134996
 #EXTINF:-1 tvg-logo="https://setsentertainment.com/wp-content/uploads/2021/06/Comedy_Central_2018-1.png" tvg-id="" group-title="Deutschland" tvg-chno="806",Comedy Central
 http://31.43.191.125:8080/restream/restream/147088
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="807",AXN Black
+#EXTINF:-1 tvg-logo="https://axn.pl/wp-content/uploads/2024/10/axn_black_spec-980x438.png" tvg-id="" group-title="Deutschland" tvg-chno="807",AXN Black
 http://31.43.191.125:8080/restream/restream/134798
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="808",AXN White
+#EXTINF:-1 tvg-logo="https://axn.pl/wp-content/uploads/2024/10/axn_white-1-980x438.png" tvg-id="" group-title="Deutschland" tvg-chno="808",AXN White
 http://31.43.191.125:8080/restream/restream/134799
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="809",Heimatkanal
 http://31.43.191.125:8080/restream/restream/134801
