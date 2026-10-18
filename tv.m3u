@@ -643,7 +643,7 @@ http://31.43.191.125:8080/restream/restream/147087
 http://31.43.191.125:8080/restream/restream/147086
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/1037/29956-s5120-02fb420bdf91398c2f1c2a2a656a5782.png/Kika_Logo_2012_alternative_version-s5120.png?dl" tvg-id="" group-title="Deutschland" tvg-chno="838",KiKA
 http://31.43.191.125:8080/restream/restream/147092
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1H7UyXio552kZjk_OjHYLrAUuRXRMrEjZ" tvg-id="" group-title="Deutschland" tvg-chno="839",Super RTL
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1zhJOMrqAXlciV9IuToK9T3Uz-acEY07H" tvg-id="" group-title="Deutschland" tvg-chno="839",Toggo
 http://31.43.191.125:8080/restream/restream/134987
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Y4MoKya0psaXGcHRXvym4Xy2FLs_ecrE" tvg-id="" group-title="Deutschland" tvg-chno="840",Disney Channel
 http://31.43.191.125:8080/restream/restream/147089
@@ -653,15 +653,15 @@ http://31.43.191.125:8080/restream/restream/147099
 http://31.43.191.125:8080/restream/restream/134940
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1lvGkNaPHtR4pAxwb00cICOAFjDXFcPIQ" tvg-id="" group-title="Deutschland" tvg-chno="843",MTV DE
 http://31.43.191.125:8080/restream/restream/134952
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="844",Deluxe Music
+#EXTINF:-1 tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" tvg-id="" group-title="Deutschland" tvg-chno="844",Deluxe Music
 http://31.43.191.125:8080/restream/restream/135196
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="845",Welt
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1oVl8NdWaAEMl6w5c0JO7nsE-FF3K2vW5" tvg-id="" group-title="Deutschland" tvg-chno="845",Welt
 http://31.43.191.125:8080/restream/restream/135012
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="846",ntv
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PVTnQF32_qB8k-LhOhaDVPthFj-lMuPC" tvg-id="" group-title="Deutschland" tvg-chno="846",ntv
 http://31.43.191.125:8080/restream/restream/135024
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10aIDQ64Ei-6sEPnjzuGHADCG6NLTXqMv" tvg-id="" group-title="Deutschland" tvg-chno="847",Tagesschau 24
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1SLpExp4HXhmOQmDiZiiDz-T8Q846zQmR" tvg-id="" group-title="Deutschland" tvg-chno="847",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Deutschland" tvg-chno="848",ZDFinfo
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1DWaePepoG3VGMQ4Xk5cyw4hQFm9c1xj_" tvg-id="" group-title="Deutschland" tvg-chno="848",ZDFinfo
 http://31.43.191.125:8080/restream/restream/135016
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wd44lzRclTWd0X31BeMOB9ZjzecBgVos" tvg-id="EPG_ID" tvg-chno="72",Sıfır TV
 https://streams.uzunmuhalefet.com/stream/d1208b47-c4c7-48d2-8c1a-d36cdadf5467.m3u8
