@@ -746,7 +746,7 @@ http://31.43.191.125:8080/restream/restream/141810
 http://31.43.191.125:8080/restream/restream/141817
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Sinema 1002
 http://31.43.191.125:8080/restream/restream/141807
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Rai Due
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1280px-Rai_2_-_Logo_2016.svg.png" tvg-id="" group-title="Italy" tvg-chno="",Rai Due
 http://31.43.191.125:8080/restream/restream/135851
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Rai Tre
 http://31.43.191.125:8080/restream/restream/135854
@@ -762,7 +762,7 @@ http://31.43.191.125:8080/restream/restream/135843
 http://31.43.191.125:8080/restream/restream/136223
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Sky Crime
 http://31.43.191.125:8080/restream/restream/136220
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Discovery Italia
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X90QjoblNOtafuDjn-_s_XBeou9p9-2E" tvg-id="" group-title="Italy" tvg-chno="",Discovery Italia
 http://31.43.191.125:8080/restream/restream/136114
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",TV8 Italia
 http://31.43.191.125:8080/restream/restream/136229
