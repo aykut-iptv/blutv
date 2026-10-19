@@ -766,7 +766,7 @@ http://31.43.191.125:8080/restream/restream/136220
 http://31.43.191.125:8080/restream/restream/136114
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",TV8 Italia
 http://31.43.191.125:8080/restream/restream/136229
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",MTV Italia
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1lvGkNaPHtR4pAxwb00cICOAFjDXFcPIQ" tvg-id="" group-title="Italy" tvg-chno="",MTV Italia
 http://31.43.191.125:8080/restream/restream/136234
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",LA5
 http://31.43.191.125:8080/restream/restream/136209
