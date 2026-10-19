@@ -179,7 +179,7 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 http://31.43.191.125:8080/restream/restream/140919
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-4RHB9lDSPo8UftI0DHanJ0ZXAhj_jrq" tvg-id="SİNEMA.YERLİ.HD.tr" group-title="Movies Series" tvg-chno="129",Sinema Yerli
 http://31.43.191.125:8080/restream/restream/141819
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=18eyv5hzdwzIM59hleOkqlByfWlPonF7v" tvg-id="" group-title="International" tvg-chno="130",Rai Uno
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=18eyv5hzdwzIM59hleOkqlByfWlPonF7v" tvg-id="" group-title="Italy" tvg-chno="130",Rai Uno
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WYijg4ZTn-1kMPvYyFKJ3yD94JVd3an4" tvg-id="TV5.Monde.de" group-title="International" tvg-chno="131",TV5Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
@@ -245,9 +245,9 @@ http://31.43.191.125:8080/restream/restream/141898
 http://31.43.191.125:8080/restream/restream/141897
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" group-title="Child" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest/scale-to-width-down/250?cb=20241015184948" tvg-id="" group-title="Child" tvg-chno="167",Nick Jr.
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest/scale-to-width-down/250?cb=20241015184948" tvg-id="Nick.JR.tr" group-title="Child" tvg-chno="167",Nick Jr.
 http://31.43.191.125:8080/restream/restream/141923
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltb36bff5b4924228e/66bc78234f0e47c3e25a4816/Cartoonito_-_Logo_2021.png" tvg-id="" group-title="Child" tvg-chno="168",Cartoonito
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltb36bff5b4924228e/66bc78234f0e47c3e25a4816/Cartoonito_-_Logo_2021.png" tvg-id="CARTOONITO.tr" group-title="Child" tvg-chno="168",Cartoonito
 http://31.43.191.125:8080/restream/restream/140873
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="CARTOON.NETWORK.tr" group-title="Child" tvg-chno="169",Cartoon Network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DEZWG4KWUAEXFK/6846/index.m3u8
@@ -275,7 +275,7 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X90QjoblNOtafuDjn-_s_XBeou9p9-2E" tvg-id="DiscoveryChannel.tr" group-title="Documentary" tvg-chno="191",Discovery Channel
 http://31.43.191.125:8080/restream/restream/141861
-#EXTINF:-1 tvg-logo="https://www.a1.hr/documents/d/a1/viasat_explore_logo_rgb_colour_1" tvg-id="" group-title="Documentary" tvg-chno="192",Viasat Explore
+#EXTINF:-1 tvg-logo="https://www.a1.hr/documents/d/a1/viasat_explore_logo_rgb_colour_1" tvg-id="VIASAT.EXPLORE.tr" group-title="Documentary" tvg-chno="192",Viasat Explore
 http://31.43.191.125:8080/restream/restream/141885
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wj9dufYesBbTbg2-hTlPyEDT7GgGm2pL" tvg-id="LOVE.NATURE.HD.tr" group-title="Documentary" tvg-chno="193",Love Nature
 http://31.43.191.125:8080/restream/restream/141094
@@ -746,13 +746,57 @@ http://31.43.191.125:8080/restream/restream/141810
 http://31.43.191.125:8080/restream/restream/141817
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Sinema 1002
 http://31.43.191.125:8080/restream/restream/141807
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Rai Due
+http://31.43.191.125:8080/restream/restream/135851
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Rai Tre
+http://31.43.191.125:8080/restream/restream/135854
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Rete 4
+http://31.43.191.125:8080/restream/restream/135867
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Canale 5
+http://31.43.191.125:8080/restream/restream/135829
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Italia 1
+http://31.43.191.125:8080/restream/restream/135832
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",LA7
+http://31.43.191.125:8080/restream/restream/135843
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Sky Uno
+http://31.43.191.125:8080/restream/restream/136223
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Sky Crime
+http://31.43.191.125:8080/restream/restream/136220
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Discovery Italia
+http://31.43.191.125:8080/restream/restream/136114
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",TV8 Italia
+http://31.43.191.125:8080/restream/restream/136229
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",MTV Italia
+http://31.43.191.125:8080/restream/restream/136234
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",LA5
+http://31.43.191.125:8080/restream/restream/136209
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Real Time Italia
+http://31.43.191.125:8080/restream/restream/136217
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Rai News 24
+http://31.43.191.125:8080/restream/restream/136249
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
 
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
 
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
 
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
 
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
 
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
 
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
 
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
+
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
 
 
 
