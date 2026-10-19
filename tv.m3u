@@ -770,7 +770,7 @@ http://31.43.191.125:8080/restream/restream/136229
 http://31.43.191.125:8080/restream/restream/136234
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",LA5
 http://31.43.191.125:8080/restream/restream/136209
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Real Time Italia
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1QrXWeXH2TRSYlVNpczqJu2Hk3YTl1ain" tvg-id="" group-title="Italy" tvg-chno="",Real Time Italia
 http://31.43.191.125:8080/restream/restream/136217
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/8/84/Rai_News_24.svg" tvg-id="" group-title="Italy" tvg-chno="",Rai News 24
 http://31.43.191.125:8080/restream/restream/136249
