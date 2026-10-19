@@ -758,9 +758,9 @@ http://31.43.191.125:8080/restream/restream/135829
 http://31.43.191.125:8080/restream/restream/135832
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",LA7
 http://31.43.191.125:8080/restream/restream/135843
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Sky Uno
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ea/69/fa/ea69fa3270e51d1005ce8eb78100132e.jpg" tvg-id="" group-title="Italy" tvg-chno="",Sky Uno
 http://31.43.191.125:8080/restream/restream/136223
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Sky Crime
+#EXTINF:-1 tvg-logo="https://bilder.wunschliste.de/logos/hr/1007-1b8ce998315da7e4d5c78765eebd6a25.png" tvg-id="" group-title="Italy" tvg-chno="",Sky Crime
 http://31.43.191.125:8080/restream/restream/136220
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X90QjoblNOtafuDjn-_s_XBeou9p9-2E" tvg-id="" group-title="Italy" tvg-chno="",Discovery Italia
 http://31.43.191.125:8080/restream/restream/136114
