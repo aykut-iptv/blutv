@@ -752,15 +752,15 @@ http://31.43.191.125:8080/restream/restream/135851
 http://31.43.191.125:8080/restream/restream/135854
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_iIDytAa4gYkO-pwiQh8-VKmAtWZX1-8" tvg-id="" group-title="Italy" tvg-chno="",Rete 4
 http://31.43.191.125:8080/restream/restream/135867
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Canale 5
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/a/ae/Canale_5.svg" tvg-id="" group-title="Italy" tvg-chno="",Canale 5
 http://31.43.191.125:8080/restream/restream/135829
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Italia 1
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/e/e2/Italia_1.svg" tvg-id="" group-title="Italy" tvg-chno="",Italia 1
 http://31.43.191.125:8080/restream/restream/135832
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",LA7
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/6/66/La_7.svg" tvg-id="" group-title="Italy" tvg-chno="",LA7
 http://31.43.191.125:8080/restream/restream/135843
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ea/69/fa/ea69fa3270e51d1005ce8eb78100132e.jpg" tvg-id="" group-title="Italy" tvg-chno="",Sky Uno
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/5/5c/Sky_Uno.svg" tvg-id="" group-title="Italy" tvg-chno="",Sky Uno
 http://31.43.191.125:8080/restream/restream/136223
-#EXTINF:-1 tvg-logo="https://bilder.wunschliste.de/logos/hr/1007-1b8ce998315da7e4d5c78765eebd6a25.png" tvg-id="" group-title="Italy" tvg-chno="",Sky Crime
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/8/8a/Sky_Crime.svg" tvg-id="" group-title="Italy" tvg-chno="",Sky Crime
 http://31.43.191.125:8080/restream/restream/136220
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X90QjoblNOtafuDjn-_s_XBeou9p9-2E" tvg-id="" group-title="Italy" tvg-chno="",Discovery Italia
 http://31.43.191.125:8080/restream/restream/136114
