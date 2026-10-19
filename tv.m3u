@@ -539,8 +539,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JJYjHK6kqRxms_xQT-ZOVBOsEfdcrU-J" tvg-id="" tvg-chno="777",İdman TV
 http://live.cdn-vizi.workers.dev/?ID=53
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_sJKU0ZH6SrXXcPeHTqFPPZymoTysGWB" tvg-id="" tvg-chno="778",CBC Sport
-http://live.cdn-vizi.workers.dev/?ID=52
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_sJKU0ZH6SrXXcPeHTqFPPZymoTysGWB" tvg-id="" group-title="Azerbaijan" tvg-chno="778",CBC Sport
+https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12PCAnbo6tYnfuZD3jVJ6RGWxC1BFXaQi" tvg-id="" tvg-chno="780",Ayaz TV
 http://janya-ayaztv.vgcdn.net/ptnr-Vintera/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yDh4Fwgij3jxRf5BZTUyx9ruSs8kg3Ut" tvg-id="" tvg-chno="784",Channel 4
@@ -774,6 +774,14 @@ http://31.43.191.125:8080/restream/restream/136209
 http://31.43.191.125:8080/restream/restream/136217
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/images/8/84/Rai_News_24.svg" tvg-id="" group-title="Italy" tvg-chno="",Rai News 24
 http://31.43.191.125:8080/restream/restream/136249
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Rai 4K
+http://31.43.191.125:8080/restream/restream/135859
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="" tvg-chno="",Mezzo Live
+http://31.43.191.125:8080/restream/restream/157556
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="" tvg-chno="",Hayat 2
+http://31.43.191.125:8080/restream/restream/144182
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="" tvg-chno="",Dizi
+http://31.43.191.125:8080/restream/restream/144345
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
 
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
@@ -790,14 +798,97 @@ http://31.43.191.125:8080/restream/restream/136249
 
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
 
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
-
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
-
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
-
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",
-
-
+#EXTINF:-1,S Sport 1
+https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1,S Sport 2
+https://andro.1386503.xyz/checklist/androstreamlivess2.m3u8
+#EXTINF:-1,S Sport Plus
+https://andro.326503.xyz/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1,Tivibu SPOR
+https://andro.326503.xyz/checklist/androstreamlivets.m3u8
+#EXTINF:-1,Tivibu SPOR 1
+https://andro.1386503.xyz/checklist/androstreamlivets1.m3u8
+#EXTINF:-1,Tivibu SPOR 2
+https://andro.1286503.xyz/checklist/androstreamlivets2.m3u8
+#EXTINF:-1,Tivibu SPOR 3
+https://andro.1386503.xyz/checklist/androstreamlivets3.m3u8
+#EXTINF:-1,Tivibu SPOR 4
+https://andro.1286503.xyz/checklist/androstreamlivets4.m3u8
+#EXTINF:-1,Smart Spor 1
+https://andro.1286503.xyz/checklist/androstreamlivesm1.m3u8
+#EXTINF:-1,Smart Spor 2
+https://andro.1386503.xyz/checklist/androstreamlivesm2.m3u8
+#EXTINF:-1,Euro Sport 1
+https://andro.1386503.xyz/checklist/androstreamlivees1.m3u8
+#EXTINF:-1,Euro Sport 2
+https://andro.326503.xyz/checklist/androstreamlivees2.m3u8
+#EXTINF:-1,Idman TV
+https://andro.326503.xyz/checklist/androstreamliveidm.m3u8
+#EXTINF:-1,TRT 1
+https://andro.1386503.xyz/checklist/androstreamlivetrt1.m3u8
+#EXTINF:-1,Trt Spor
+https://andro.1386503.xyz/checklist/androstreamlivetrts.m3u8
+#EXTINF:-1,Trt Spor Yıldız
+https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
+#EXTINF:-1,Atv
+https://andro.226503.xyz/checklist/androstreamliveatv.m3u8
+#EXTINF:-1,A Spor
+https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
+#EXTINF:-1,A2
+https://andro.226503.xyz/checklist/androstreamlivea2.m3u8
+#EXTINF:-1,Tjk
+https://andro.326503.xyz/checklist/androstreamlivetjk.m3u8
+#EXTINF:-1,HT SPOR
+https://andro.1286503.xyz/checklist/androstreamliveht.m3u8
+#EXTINF:-1,NBA TV
+https://andro.326503.xyz/checklist/androstreamlivenba.m3u8
+#EXTINF:-1,TV 8
+https://andro.1286503.xyz/checklist/androstreamlivetv8.m3u8
+#EXTINF:-1,TV 8,5
+https://andro.226503.xyz/checklist/androstreamlivetv85.m3u8
+#EXTINF:-1,Tabii Spor
+https://andro.326503.xyz/checklist/androstreamlivetb.m3u8
+#EXTINF:-1,Tabii Spor 1
+https://andro.226503.xyz/checklist/androstreamlivetb1.m3u8
+#EXTINF:-1,Tabii Spor 2
+https://andro.1286503.xyz/checklist/androstreamlivetb2.m3u8
+#EXTINF:-1,Tabii Spor 3
+https://andro.1286503.xyz/checklist/androstreamlivetb3.m3u8
+#EXTINF:-1,Tabii Spor 4
+https://andro.1286503.xyz/checklist/androstreamlivetb4.m3u8
+#EXTINF:-1,Tabii Spor 5
+https://andro.226503.xyz/checklist/androstreamlivetb5.m3u8
+#EXTINF:-1,Tabii Spor 6
+https://andro.1286503.xyz/checklist/androstreamlivetb6.m3u8
+#EXTINF:-1,Tabii Spor 7
+https://andro.326503.xyz/checklist/androstreamlivetb7.m3u8
+#EXTINF:-1,Tabii Spor 8
+https://andro.226503.xyz/checklist/androstreamlivetb8.m3u8
+#EXTINF:-1,Fb TV
+https://andro.326503.xyz/checklist/androstreamlivefb.m3u8
+#EXTINF:-1,Cbc Sport
+https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
+#EXTINF:-1,Gs TV
+https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
+#EXTINF:-1,Sports Tv
+https://andro.326503.xyz/checklist/androstreamlivesptstv.m3u8
+#EXTINF:-1,Exxen TV
+https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
+#EXTINF:-1,Exxen Sport 1
+https://andro.1386503.xyz/checklist/androstreamliveexn1.m3u8
+#EXTINF:-1,Exxen Sport 2
+https://andro.1286503.xyz/checklist/androstreamliveexn2.m3u8
+#EXTINF:-1,Exxen Sport 3
+https://andro.1386503.xyz/checklist/androstreamliveexn3.m3u8
+#EXTINF:-1,Exxen Sport 4
+https://andro.1286503.xyz/checklist/androstreamliveexn4.m3u8
+#EXTINF:-1,Exxen Sport 5
+https://andro.1386503.xyz/checklist/androstreamliveexn5.m3u8
+#EXTINF:-1,Exxen Sport 6
+https://andro.1286503.xyz/checklist/androstreamliveexn6.m3u8
+#EXTINF:-1,Exxen Sport 7
+https://andro.1386503.xyz/checklist/androstreamliveexn7.m3u8
+#EXTINF:-1,Exxen Sport 8
+https://andro.1286503.xyz/checklist/androstreamliveexn8.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",
