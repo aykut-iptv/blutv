@@ -78,7 +78,7 @@ https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14mnH90Uc56_BHzc2gi-DJmJ0B5A2rthL" tvg-id="TURKHABERTV.tr" group-title="News" tvg-chno="59",TH Türk Haber
 https://edge2.taksimbilisim.com/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L807ofFUax-08AYnmCuhEzUGx0R5WsLP" tvg-id="SÖZCÜ.TV.tr" group-title="News" tvg-chno="60",SZC
-http://176.65.153.12:6001/play/a04u/index.m3u8
+http://45.88.139.156/yt1/szctv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Ax_vjWiDY28v7zjSujoLymiZ-I5awaHK" tvg-id="TRT.TÜRK.tr" group-title="General" tvg-chno="61",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://s.krttv.com.tr/assets/web/images/logo.svg?v=3" tvg-id="KRTTV.tr" group-title="News" tvg-chno="62",KRT TV
@@ -302,7 +302,7 @@ https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Nd58IEXkUH0sTNjB4EmcNwfUakxasQt0" tvg-id="KONTV.HD.tr" group-title="Local" tvg-chno="249",Kon TV
 http://176.65.153.12:6004/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nyCTHL4EuabJg2RWCrjh1U7PNDVtTl8B" tvg-id="" group-title="Local" tvg-chno="250",Koza TV
-https://45.88.139.156/yt1/koza.m3u8
+http://45.88.139.156/yt1/koza.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_x31EHaOaJ-SLZlb-7K193A7G6soX2EL" tvg-id="KANAL.23.tr" group-title="Local" tvg-chno="256",Kanal 23
 https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hsUu5AnEIZKEJKAdrntEJ1n1J4xfJyzR" tvg-id="KANAL.V.tr" group-title="Local" tvg-chno="257",Kanal V
