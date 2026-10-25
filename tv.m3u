@@ -347,6 +347,8 @@ https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17ZPubOP4LRwvT7-mQed_1hXQDf4dJDQV" tvg-id="" group-title="International News" tvg-chno="",CGTN Arabic
 https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1LJNJTJkJdShGZTwlg5u8xi8wfTmRnSvN" tvg-id="" group-title="International" tvg-chno="",Hayat 2
+http://31.43.191.125:8080/restream/restream/144182
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rQXFjg_GO6_XONQvcJP0qgnDJ4dxKlzg" tvg-id="" group-title="International" tvg-chno="330",RTR Planeta
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://www.antenna.gr/images/logo.svg" tvg-id="" group-title="International" tvg-chno="331",ANT1
@@ -707,8 +709,7 @@ http://31.43.191.125:8080/restream/restream/136249
 http://31.43.191.125:8080/restream/restream/135859
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="" tvg-chno="",Mezzo Live
 http://31.43.191.125:8080/restream/restream/157556
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="" tvg-chno="",Hayat 2
-http://31.43.191.125:8080/restream/restream/144182
+
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Azerbaijan" tvg-chno="",Mədəniyyət TV
 https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Azerbaijan" tvg-chno="",GünAz TV
