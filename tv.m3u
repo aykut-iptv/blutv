@@ -9,7 +9,7 @@ http://31.43.191.125:8080/restream/restream/140859
 http://31.43.191.125:8080/restream/restream/140857
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" group-title="General" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Sy0jDG8ieG6zW1XUPMUNeYBWI8BkYBBv" tvg-id="TRT.1.HD.tr" group-title="General" tvg-chno="23",TRT 1
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839124.png" tvg-id="TRT.1.HD.tr" group-title="General" tvg-chno="23",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vOEdhjNpz4NGaLLDP_fQB38Fmi9q0_bV" tvg-id="KANAL.D.HD.tr" group-title="General" tvg-chno="24",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
