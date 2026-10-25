@@ -59,6 +59,8 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://cdn.ekoturk.net/hls/720p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Y9UxsEm_WaAekb5gLR4C5UI8EH1Tr_rm" tvg-id="HABERGLOBAL.tr" group-title="News" tvg-chno="47",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nyCTHL4EuabJg2RWCrjh1U7PNDVtTl8B" tvg-id="" group-title="News" tvg-chno="48",Koza TV
+http://45.88.139.156/yt1/koza.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uRv06DHJekrqGjtiofCJsH75D4GwrjyS" tvg-id="EKOL.TV.tr" group-title="General" tvg-chno="49",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1VqiOWE_QaLB2uU_AiEJGhn7WaQ0nJmb8" tvg-id="FlashHaberTV.tr" group-title="General" tvg-chno="50",Flash TV
@@ -301,8 +303,6 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Nd58IEXkUH0sTNjB4EmcNwfUakxasQt0" tvg-id="KONTV.HD.tr" group-title="Local" tvg-chno="249",Kon TV
 http://176.65.153.12:6004/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nyCTHL4EuabJg2RWCrjh1U7PNDVtTl8B" tvg-id="" group-title="Local" tvg-chno="250",Koza TV
-http://45.88.139.156/yt1/koza.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_x31EHaOaJ-SLZlb-7K193A7G6soX2EL" tvg-id="KANAL.23.tr" group-title="Local" tvg-chno="256",Kanal 23
 https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hsUu5AnEIZKEJKAdrntEJ1n1J4xfJyzR" tvg-id="KANAL.V.tr" group-title="Local" tvg-chno="257",Kanal V
