@@ -181,6 +181,8 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 http://31.43.191.125:8080/restream/restream/140919
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-4RHB9lDSPo8UftI0DHanJ0ZXAhj_jrq" tvg-id="SİNEMA.YERLİ.HD.tr" group-title="Movies Series" tvg-chno="129",Sinema Yerli
 http://31.43.191.125:8080/restream/restream/141819
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" group-title="Movies Series" tvg-chno="130",Sinema TV
+http://31.43.191.125:8080/restream/restream/141817
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WYijg4ZTn-1kMPvYyFKJ3yD94JVd3an4" tvg-id="TV5.Monde.de" group-title="International" tvg-chno="131",TV5Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1gA1eG2-zaWAAcQqrJwyG0l67JKa7NxSP" tvg-id="FRANCE.24.HD-FR.tr" group-title="International News" tvg-chno="132",France 24 Français
@@ -740,8 +742,6 @@ http://31.43.191.125:8080/restream/restream/141814
 http://31.43.191.125:8080/restream/restream/141813
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mmd3xM0U294nb16LDZ_YeLhgKrhzuxXU" tvg-id="SİNEMA.TV.AKSİYON.HD.tr" tvg-chno="122",Sinema Aksiyon
 http://31.43.191.125:8080/restream/restream/141810
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" tvg-chno="121",Sinema TV
-http://31.43.191.125:8080/restream/restream/141817
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-chno="",Sinema 1002
 http://31.43.191.125:8080/restream/restream/141807
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=18eyv5hzdwzIM59hleOkqlByfWlPonF7v" tvg-id="" group-title="Italy" tvg-chno="130",Rai Uno
