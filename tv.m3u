@@ -319,6 +319,10 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" tvg-id="TRT.GENÇ.tr" group-title="Other" tvg-chno="280",TRT Genç
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://agrotvcomtr.teimg.com/agrotv-com-tr/uploads/2024/09/100x400-1.png" tvg-id="" group-title="Other" tvg-chno="",Agro TV
+https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7f48a7b_output_0.m3u8?session=WiBL6q6PzoRV7DTJZaMvmo
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O79oqWHVhSk2Vn3S4K64H5cg6BRQFb6N" tvg-id="" group-title="Local" tvg-chno="",Aksu TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12by1JhNeoWLGtVKX-Hugmn9LK9hZp5VW" tvg-id="" group-title="International" tvg-chno="290",Türkmeneli TV
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1hIeD4EhQPvWKfhp2EyBSXxjhlhg7tk5M" tvg-id="BRT.1.HD.tr" group-title="Cyprus" tvg-chno="291",BRT 1
