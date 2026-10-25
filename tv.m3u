@@ -541,38 +541,12 @@ https://25693.live.streamtheworld.com/SC009_SO1AAC.aac
 https://28563.live.streamtheworld.com/KPOP128AAC.aac
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UJVRYUbbnChoVxoH37dofaLVyWgXvVx-" tvg-id="" group-title="Azerbaijan" tvg-chno="763",Az TV
 https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yUbXlYlapAH59YiBkMcMYvFvojJXcu31" tvg-id="" tvg-chno="764",Xəzər TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CA4EDVy8F4PaDrAhIjMK25gJxE86w2Rd" tvg-id="" tvg-chno="765",CBC TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UbMMwiKMuiuL5TSx7GFPM0gIBsEJkZDJ" tvg-id="" tvg-chno="766",ARB TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" group-title="Azerbaijan" tvg-chno="767",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JJYjHK6kqRxms_xQT-ZOVBOsEfdcrU-J" tvg-id="" tvg-chno="777",İdman TV
-http://live.cdn-vizi.workers.dev/?ID=53
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_sJKU0ZH6SrXXcPeHTqFPPZymoTysGWB" tvg-id="" group-title="Azerbaijan" tvg-chno="778",CBC Sport
 https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12PCAnbo6tYnfuZD3jVJ6RGWxC1BFXaQi" tvg-id="" group-title="Azerbaijan" tvg-chno="780",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yDh4Fwgij3jxRf5BZTUyx9ruSs8kg3Ut" tvg-id="" tvg-chno="784",Channel 4
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Jd9mrBBp1WsWLLP5yqfUcWb8MC7IW2kV" tvg-id="" tvg-chno="785",Channel 5
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1bva3DxP0mqOo1AX8Zcsm6qqVgFotylaj" tvg-id="" tvg-chno="786",BBC Three/CBBC
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OcmK5IMARKryDN0SbPNa2TDW6IRmm2s_" tvg-id="" tvg-chno="787",BBC Four/CBeebies
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=107RJp518d9MS4aoKrDY_TSTXlzvpWf6I" tvg-id="" tvg-chno="782",ITV 2
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10N4QlALde9pqFB_oOKyhXghv25cDRqFO" tvg-id="" tvg-chno="783",ITV 3
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yXIL4ola-NybRS_G5Y9aJgufNMrz6tmc" tvg-id="" tvg-chno="784",ITV 4
-https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YaLMsHxlm_Rtsz0qzjUoTM6cBntxYs8k" tvg-id="" tvg-chno="786",More 4
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1wUpFWTcTNNixKCXu_3e5z1A4dupFrFq-" tvg-id="" tvg-chno="788",Film 4
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1LxVEhtgE4mLQj5l2flV2jMhXfiQFh2zi" tvg-id="" group-title="Deutschland" tvg-chno="801",Universal TV
 http://31.43.191.125:8080/restream/restream/134822
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15OXTg7ZZ3Bwvww68aMjtVGzmdLxyJey7" tvg-id="" group-title="Deutschland" tvg-chno="802",13th Street
@@ -669,10 +643,6 @@ http://31.43.191.125:8080/restream/restream/135024
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1DWaePepoG3VGMQ4Xk5cyw4hQFm9c1xj_" tvg-id="" group-title="Deutschland" tvg-chno="848",ZDFinfo
 http://31.43.191.125:8080/restream/restream/135016
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1XpGnG06WCGiyiipKuyRe4fgF-4rFcRGo" tvg-id="" tvg-chno="901",NPO 1
-http://62.131.195.211:8086/12.ts
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1y9kD9Fm9i15AcTliHz15ZpCv-MsuMuKq" tvg-id="" tvg-chno="902",BVN TV
-https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=19Ztl4SHPXTxDh306b1qjykyyR6M1z5nY" tvg-id="" group-title="Netherlands" tvg-chno="905",AT 5
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=10OD2gGuHwYpGdpMjYJQiGh1WjZR--6v6" tvg-id="" group-title="Netherlands" tvg-chno="910",Xite
