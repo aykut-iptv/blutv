@@ -157,6 +157,8 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1eJfQtdb2pR32UH_gzX_hNvJESfBWteZd" tvg-id="POWER.TV.HD.tr" group-title="Music" tvg-chno="100",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15fKo30dZRFlkZZmuddrO0bBmm_qmUNxg" tvg-id="" group-title="Music" tvg-chno="102",Mezzo Live
+http://31.43.191.125:8080/restream/restream/157556
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nTVnP-Ar1vRICd8TM46Zjdb-HMzlM_Gr" tvg-id="EPG_ID" group-title="Music" tvg-chno="103",360TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=10veMRAs5tQv5IRQXlJQQ7IBWzw8OUOtP" tvg-id="TRT.MÜZİK.tr" group-title="Music" tvg-chno="104",TRT Müzik
@@ -707,8 +709,7 @@ http://31.43.191.125:8080/restream/restream/136217
 http://31.43.191.125:8080/restream/restream/136249
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Rai 4K
 http://31.43.191.125:8080/restream/restream/135859
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="" tvg-chno="",Mezzo Live
-http://31.43.191.125:8080/restream/restream/157556
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Azerbaijan" tvg-chno="",Mədəniyyət TV
 https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
