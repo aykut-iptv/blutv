@@ -375,7 +375,7 @@ https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlwW8eFYRFH3HDfToBClD-7x4DegeUzuPWQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="416",Radyo Viva
 https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8
-#EXTINF:-1 tvg-logo="https://radyo45lik.com/wp-content/uploads/2025/07/Radyo-45lik-Logo-_1A.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="417",45'lik
+#EXTINF:-1 tvg-logo="https://kuasark.com/files/stations-logos/radyo-45lik.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="417",45'lik
 http://stream.radyo45lik.com:4545/stream
 #EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/106/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=000810&tr=w-1000%3A%2Cbg-000810&v=011024092525" tvg-id="EPG_ID" group-title="Radio" tvg-chno="418",Radyo D
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
