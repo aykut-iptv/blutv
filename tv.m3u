@@ -380,7 +380,7 @@ http://stream.radyo45lik.com:4545/stream
 #EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/106/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=000810&tr=w-1000%3A%2Cbg-000810&v=011024092525" tvg-id="EPG_ID" group-title="Radio" tvg-chno="418",Radyo D
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbhLksEeiBEwf3b2fZ8E6c6a6AkQhXRZdcg&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="419",NR1 Türk FM
-https://eustr75.mediatriple.net/Number1Media/00_Number1_Turk_FM.stream/playlist.m3u8
+https://number1.radyotvonline.net/hls/play/number1_turk_fm.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNAK3Xo2IgsjSa5B8CR_b2F7HBWghqg2Z_g&s" tvg-id="" group-title="Radio" tvg-chno="421",Baba Radyo
 https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStDTu_SvmHWb9RjX_28F3O585g9aelr82kqg&s" tvg-id="" group-title="Radio" tvg-chno="422",Karadeniz FM
@@ -402,7 +402,7 @@ https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2TO9infI1KSKbkET_gnkkhbqa_XlZT_jNA&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="430",Power FM
 https://live.powerapp.com.tr/powerfmadver/abr/powerfmadver/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5hTFqSBotUDDcDvOj2Tr1Aqi_BQwQ0IciDQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="431",NR1 FM
-https://eustr75.mediatriple.net/Number1Media/01_Number1Fm.stream/playlist.m3u8
+https://number1.radyotvonline.net/hls/play/number1_fm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="433",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingraydjazz/logos/channels-logo-white._CB581386909_.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="434",Stingray Djazz
