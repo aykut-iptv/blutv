@@ -467,6 +467,8 @@ https://live.powerapp.com.tr/powerdeep/abr/powerdeep/256/chunks.m3u8
 https://live.powerapp.com.tr/powerrbhiphop/abr/powerrbhiphop/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_47.png?v=8" tvg-id="" group-title="Music" tvg-chno="567",Power Smooth Jazz
 https://live.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/256/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_40.png?v=8" tvg-id="" group-title="Music" tvg-chno="568",Power Dance
+https://live.powerapp.com.tr/powerdance/abr/powerdance/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/ded6c190-5f9e-4de3-a5e5-868f789df1a5.jpg" tvg-id="" group-title="Radio" tvg-chno="500",TRT Radyo 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12JYkmyYeCX_74ZcOdUfHZx8Rs7VEk8gG" tvg-id="" group-title="Radio" tvg-chno="501",TRT TSR
