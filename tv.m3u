@@ -366,7 +366,7 @@ https://live.powerapp.com.tr/powerturk/abr/powerturk/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdkbEAOb3HvSIgS3dP_y-aMNhU0s7l6XOJKQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="411",Kral Pop
 https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zigNezQwbOiksaYwf5v03QdMUa4hNcFUQt1ERc0fCwwHTakB0TFosSz23Mhej0QPmGQ" tvg-id="EPG_ID" group-title="Radio" tvg-chno="412",Slow Türk
-https://radyo.duhnet.tv/ak_dtvh_slowturk
+https://stream.radyotvonline.net/hls/play/slowturk.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SEG2Xr2wtL_ay_tW8sMQx2GRgf8p5M7WYUBnm-70mBPy2-A98q_t3SYTrR0B55gxQg" tvg-id="EPG_ID" group-title="Radio" tvg-chno="413",Radyo 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhU0kbXhLirDNlejFytrtPmJDSn-tS-CgcA&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="414",Show Radyo
@@ -375,6 +375,8 @@ https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlwW8eFYRFH3HDfToBClD-7x4DegeUzuPWQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="416",Radyo Viva
 https://listen.radyotvonline.net/hls/play/adsonline_radyoviva.m3u8
+#EXTINF:-1 tvg-logo="https://radyo45lik.com/wp-content/uploads/2025/07/Radyo-45lik-Logo-_1A.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="417",45'lik
+http://stream.radyo45lik.com:4545/stream
 #EXTINF:-1 tvg-logo="https://ik.fskit.net/radyohome/media/station/106/logo_square.png?w=1000%3A&format=auto&fit=crop&bg=000810&tr=w-1000%3A%2Cbg-000810&v=011024092525" tvg-id="EPG_ID" group-title="Radio" tvg-chno="418",Radyo D
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbhLksEeiBEwf3b2fZ8E6c6a6AkQhXRZdcg&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="419",NR1 Türk FM
@@ -657,8 +659,7 @@ http://31.43.191.125:8080/restream/restream/136217
 http://31.43.191.125:8080/restream/restream/136249
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Rai 4K
 http://31.43.191.125:8080/restream/restream/135859
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="410",PowerTürk FM
-http://live.powerapp.com.tr/powerturk/mpeg/icecast.audio?/;stream.mp3
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Azerbaijan" tvg-chno="",Mədəniyyət TV
 https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
