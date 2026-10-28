@@ -243,10 +243,6 @@ http://31.43.191.125:8080/restream/restream/141898
 http://31.43.191.125:8080/restream/restream/141897
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" group-title="Child" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest/scale-to-width-down/250?cb=20241015184948" tvg-id="Nick.JR.tr" group-title="Child" tvg-chno="167",Nick Jr.
-http://31.43.191.125:8080/restream/restream/141923
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltb36bff5b4924228e/66bc78234f0e47c3e25a4816/Cartoonito_-_Logo_2021.png" tvg-id="CARTOONITO.tr" group-title="Child" tvg-chno="168",Cartoonito
-http://31.43.191.125:8080/restream/restream/140873
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="CARTOON.NETWORK.tr" group-title="Child" tvg-chno="169",Cartoon Network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DEZWG4KWUAEXFK/6846/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mHVB1z9fEHLFyYRYwxLNjT_TiclEdsh9" tvg-id="MİNİKA.GO.tr" group-title="Child" tvg-chno="170",minikaGO
@@ -257,14 +253,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 http://31.43.191.125:8080/restream/restream/141867
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" group-title="Documentary" tvg-chno="181",National Geographic
 http://31.43.191.125:8080/restream/restream/141869
-#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250805841180.png" tvg-id="" group-title="Documentary" tvg-chno="182",Habitat TV
-http://31.43.191.125:8080/restream/restream/141005
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="BBC.EARTH.tr" group-title="Documentary" tvg-chno="183",BBC Earth
-http://31.43.191.125:8080/restream/restream/140853
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dVMsNq4T6Krb2M-of4K69e5AYqTmVVuU" tvg-id="VIASAT.NATURE.-.HISTORY.tr" group-title="Documentary" tvg-chno="184",Viasat History
 http://31.43.191.125:8080/restream/restream/141887
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UsloiMCuw66vrFyAL1lEFk_quikFrj4D" tvg-id="NatGeoWild.tr" group-title="Documentary" tvg-chno="185",National Geographic Wild
-http://31.43.191.125:8080/restream/restream/141871
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sW-5-bPEUluTbTfg6_7sfyPz41Jj3BE_" tvg-id="DISCOVERY.ID.tr" group-title="Documentary" tvg-chno="186",Investigation Discovery
 http://31.43.191.125:8080/restream/restream/141862
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nub8nwDeupjt3EF2626hdEVSwWTb9l_T" tvg-id="DMAX.tr" group-title="Documentary" tvg-chno="187",DMAX
@@ -273,10 +263,6 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X90QjoblNOtafuDjn-_s_XBeou9p9-2E" tvg-id="DiscoveryChannel.tr" group-title="Documentary" tvg-chno="191",Discovery Channel
 http://31.43.191.125:8080/restream/restream/141861
-#EXTINF:-1 tvg-logo="https://www.a1.hr/documents/d/a1/viasat_explore_logo_rgb_colour_1" tvg-id="VIASAT.EXPLORE.tr" group-title="Documentary" tvg-chno="192",Viasat Explore
-http://31.43.191.125:8080/restream/restream/141885
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wj9dufYesBbTbg2-hTlPyEDT7GgGm2pL" tvg-id="LOVE.NATURE.HD.tr" group-title="Documentary" tvg-chno="193",Love Nature
-http://31.43.191.125:8080/restream/restream/141094
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YX1tyX5T85T-AKgZPxIfcqNH4N8MRcOF" tvg-id="CGTN.9.DOCUMENTARY.tr" group-title="Documentary" tvg-chno="194",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/27/RT_Documentary.png/revision/latest/scale-to-width-down/250?cb=20240623210059&path-prefix=ru" tvg-id="" group-title="Documentary" tvg-chno="195",RT Doc
