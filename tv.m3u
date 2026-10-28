@@ -521,8 +521,12 @@ https://25693.live.streamtheworld.com/SC009_SO1AAC.aac
 https://28563.live.streamtheworld.com/KPOP128AAC.aac
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_3275.png?v=4" tvg-id="" group-title="Music" tvg-chno="600",Power Pop TV
 https://listen.powerapp.com.tr/ppop/pop.smil/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2026/04/nr1ask.png" tvg-id="" group-title="Music" tvg-chno="602",NR1 Aşk TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_2577.png?v=4" tvg-id="" group-title="Music" tvg-chno="603",PowerTürk Slow TV
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yuoWa6bKL871wiaSyB4mw8GFMj6kmVQj" tvg-id="" group-title="Music" tvg-chno="604",NR1 Rap TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UJVRYUbbnChoVxoH37dofaLVyWgXvVx-" tvg-id="" group-title="Azerbaijan" tvg-chno="763",Az TV
 https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" group-title="Azerbaijan" tvg-chno="767",Azad TV
