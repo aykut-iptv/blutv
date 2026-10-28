@@ -453,6 +453,14 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa28301e1-00c2-4783-9a44-1e822be96cb9%2F11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="457",MovieMusic by Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_3275.png?v=4" tvg-id="" group-title="Music" tvg-chno="560",Power Pop TV
+https://listen.powerapp.com.tr/ppop/pop.smil/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2026/04/nr1ask.png" tvg-id="" group-title="Music" tvg-chno="561",NR1 Aşk TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_2577.png?v=4" tvg-id="" group-title="Music" tvg-chno="562",PowerTürk Slow TV
+https://listen.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yuoWa6bKL871wiaSyB4mw8GFMj6kmVQj" tvg-id="" group-title="Music" tvg-chno="563",NR1 Rap TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/ded6c190-5f9e-4de3-a5e5-868f789df1a5.jpg" tvg-id="" group-title="Radio" tvg-chno="500",TRT Radyo 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12JYkmyYeCX_74ZcOdUfHZx8Rs7VEk8gG" tvg-id="" group-title="Radio" tvg-chno="501",TRT TSR
@@ -519,14 +527,6 @@ https://29103.live.streamtheworld.com/SC002_SO1AAC.aac
 https://25693.live.streamtheworld.com/SC009_SO1AAC.aac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/362/logos/android_default_logo.png?v=170725021356" tvg-id="" group-title="Radio" tvg-chno="591",K-Pop
 https://28563.live.streamtheworld.com/KPOP128AAC.aac
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_3275.png?v=4" tvg-id="" group-title="Music" tvg-chno="601",Power Pop TV
-https://listen.powerapp.com.tr/ppop/pop.smil/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2026/04/nr1ask.png" tvg-id="" group-title="Music" tvg-chno="602",NR1 Aşk TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_2577.png?v=4" tvg-id="" group-title="Music" tvg-chno="603",PowerTürk Slow TV
-https://listen.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yuoWa6bKL871wiaSyB4mw8GFMj6kmVQj" tvg-id="" group-title="Music" tvg-chno="604",NR1 Rap TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UJVRYUbbnChoVxoH37dofaLVyWgXvVx-" tvg-id="" group-title="Azerbaijan" tvg-chno="763",Az TV
 https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" group-title="Azerbaijan" tvg-chno="767",Azad TV
