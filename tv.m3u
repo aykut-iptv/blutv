@@ -154,7 +154,7 @@ http://31.43.191.125:8080/restream/restream/157556
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nTVnP-Ar1vRICd8TM46Zjdb-HMzlM_Gr" tvg-id="EPG_ID" group-title="Music" tvg-chno="103",360TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=10veMRAs5tQv5IRQXlJQQ7IBWzw8OUOtP" tvg-id="TRT.MÜZİK.tr" group-title="Music" tvg-chno="104",TRT Müzik
-https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
+https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cCbsQDiaNvwdyBJSsflFEsi3W6WFpAcp" tvg-id="EPG_ID" group-title="Music" tvg-chno="105",Kral Pop TV
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1l5Bgw1i5gbdYtZlSHWCcDnkYToG1wtGH" tvg-id="DREAM.TÜRK.tr" group-title="Music" tvg-chno="108",Dream Türk
@@ -184,7 +184,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1gA1eG2-zaWAAcQqrJwyG0l67JKa7NxSP" tvg-id="FRANCE.24.HD-FR.tr" group-title="International News" tvg-chno="132",France 24 Français
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Q1J8AUNj7FqZevcfeJB_haOX6kTtuCk5" tvg-id="TRTArabi.tr" group-title="International News" tvg-chno="133",TRT Arabi
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+https://tv-trtarabi.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Jdd7txogrijXcbNmedI4r9cOyct4ZkWZ" tvg-id="AL.JAZEERA.ARABIC.tr" group-title="International News" tvg-chno="134",Al Jazeera Channel
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1CDuzjHfQyYUuPajpeUa_KfzwZHneZHbs" tvg-id="" group-title="International News" tvg-chno="135",Freedom
@@ -200,7 +200,7 @@ http://31.43.191.125:8080/restream/restream/140816
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vsX72zzJRz_sJMfqGHbkeZVDHyMfq7kg" tvg-id="BBC.World.News.de" group-title="International News Europe" tvg-chno="141",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Bwd_xqJHfdRsdcZ2TrG0Yuh5Hburyt1p" tvg-id="TRT.WORLD.HD.tr" group-title="International News Europe" tvg-chno="142",TRT World
-https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Dj5TWu641Vfg2FDLp-mXLnkJEP_hBnfE" tvg-id="CNN.INTERNATIONAL.tr" group-title="International News Europe" tvg-chno="143",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11dYrNPDZW6_8y5rS_f31L3JDlDS_4Ja1" tvg-id="AL.JAZEERA.INTERNATIONAL.tr" group-title="International News Europe" tvg-chno="144",Al Jazeera International
@@ -230,9 +230,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uK7NEjNmuJD3cxTEQlMnsNd9eYVgw71V" tvg-id="DiyanetTV.tr" group-title="Religious" tvg-chno="158",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1AGenLouPwe-Sx0s84l7_O8kcF5D2nTYO" tvg-id="TRT.DIYANET.COCUK.tr" group-title="Religious" tvg-chno="159",TRT Diyanet Çocuk
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1080.m3u8
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1lCyk5l3Epunft7lolDkeM8jcloDA1MWO" tvg-id="TRT.ÇOCUK.tr" group-title="Child" tvg-chno="160",TRT Çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
+https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1INMOJhcwFNfVEeZGk5ZRueEiHskOK2Eu" tvg-id="DUCKTV.HD.tr" group-title="Child" tvg-chno="161",Duck TV
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RpsnevyYc38xtZ8d35Fl_aikSJFIeWqr" tvg-id="BABY.TV.tr" group-title="Child" tvg-chno="162",Baby TV
@@ -260,7 +260,7 @@ http://31.43.191.125:8080/restream/restream/141862
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nub8nwDeupjt3EF2626hdEVSwWTb9l_T" tvg-id="DMAX.tr" group-title="Documentary" tvg-chno="187",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" tvg-id="TRT.BELGESEL.HD.tr" group-title="Documentary" tvg-chno="190",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X90QjoblNOtafuDjn-_s_XBeou9p9-2E" tvg-id="DiscoveryChannel.tr" group-title="Documentary" tvg-chno="191",Discovery Channel
 http://31.43.191.125:8080/restream/restream/141861
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YX1tyX5T85T-AKgZPxIfcqNH4N8MRcOF" tvg-id="CGTN.9.DOCUMENTARY.tr" group-title="Documentary" tvg-chno="194",CGTN Documentary
@@ -298,7 +298,7 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1w9Ofj6iOdSr2CW9YUmfrROB8KfMFq8jD" tvg-id="" group-title="Local" tvg-chno="278",BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" tvg-id="TRT.GENÇ.tr" group-title="Other" tvg-chno="280",TRT Genç
-https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+https://tv-trtgenc.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-logo="https://agrotvcomtr.teimg.com/agrotv-com-tr/uploads/2024/09/100x400-1.png" tvg-id="" group-title="Other" tvg-chno="",Agro TV
 https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7f48a7b_output_0.m3u8?session=WiBL6q6PzoRV7DTJZaMvmo
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O79oqWHVhSk2Vn3S4K64H5cg6BRQFb6N" tvg-id="" group-title="Local" tvg-chno="",Aksu TV
@@ -342,7 +342,7 @@ https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1u0qxnXakFedAtpq_0GQ8embuOge8nrZk" tvg-id="" group-title="International" tvg-chno="389",Saudi TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" tvg-id="TRT.KURDİ.tr" group-title="International" tvg-chno="390",TRT Kurdî
-https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6swVbl5M_XqlHqaVKEM0Fg3dXdmkYOWqVQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="401",Alem FM
 https://alemfm.radyotvonline.net/alemfmaac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/1/logos/android_default_logo.png?v=301024040744" tvg-id="EPG_ID" group-title="Radio" tvg-chno="402",Süper FM
