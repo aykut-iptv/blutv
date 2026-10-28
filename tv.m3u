@@ -657,7 +657,8 @@ http://31.43.191.125:8080/restream/restream/136217
 http://31.43.191.125:8080/restream/restream/136249
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Italy" tvg-chno="",Rai 4K
 http://31.43.191.125:8080/restream/restream/135859
-
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/tvos/logo_34.png" tvg-id="EPG_ID" group-title="Radio" tvg-chno="410",PowerTürk FM
+http://live.powerapp.com.tr/powerturk/mpeg/icecast.audio?/;stream.mp3
 
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Azerbaijan" tvg-chno="",Mədəniyyət TV
 https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
