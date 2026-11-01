@@ -181,7 +181,7 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 https://79.76.50.223/live/iOS/SiNETECH/39677.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1b13H_ZRtlai6wiWU77mkG2rxoDhahCOo" tvg-id="MovieSmartTurk.tr" tvg-chno="122",MovieSmart Türk
 https://79.76.50.223/live/iOS/SiNETECH/40004.ts
-#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/B/IQ/246150/logo_50.png?v=638671715307583467" tvg-id="MovieSmartTurk.tr" tvg-chno="123",MovieSmart Classic
+#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/B/IQ/246150/logo_50.png?v=638671715307583467" tvg-id="" tvg-chno="123",MovieSmart Classic
 https://79.76.50.223/live/iOS/SiNETECH/40002.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" group-title="Movies Series" tvg-chno="124",Sinema TV
 https://79.76.50.223/live/iOS/SiNETECH/39342.ts
@@ -269,6 +269,8 @@ https://79.76.50.223/live/iOS/SiNETECH/39297.ts
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hpoAES0Zzbep6AZ99rpLwMklG5D9zbpx" tvg-id="MİNİKA.ÇOCUK.tr" group-title="Child" tvg-chno="174",minikaÇocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:-1 tvg-logo="https://framerusercontent.com/images/PjVx8jeG3RzqWp9Now3SePCk5Q.png?scale-down-to=512&width=1437&height=984" tvg-id="" group-title="Child" tvg-chno="175",Spacetoon
+https://79.76.50.223/live/iOS/SiNETECH/34945.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Yey907kl6CCwZg1dpc-5s43J4h62V_-S" tvg-id="" group-title="Documentary" tvg-chno="180",Cosmo EN
 http://31.43.191.125:8080/restream/restream/141867
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" group-title="Documentary" tvg-chno="181",National Geographic
