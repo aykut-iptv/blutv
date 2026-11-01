@@ -1,4 +1,10 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1fnZgT7AQt6ntxABHq2MEPXjWjXQknsfv" tvg-id="" group-title="Movies Series" tvg-chno="17",beIN Movies Türk
+https://79.76.50.223/live/iOS/SiNETECH/39474.ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Ce7u28wVPTKeR7Vjg6-_Sod0-e80t9oI" tvg-id="" group-title="Documentary" tvg-chno="18",beIN İZ
+https://79.76.50.223/live/iOS/SiNETECH/39462.ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1A8KYXIRlYRH2ZnAheQKwHvXondde8nZa" tvg-id="" group-title="Entertainment Life" tvg-chno="21",beIN Gurme
+https://79.76.50.223/live/iOS/SiNETECH/39461.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IWLbUfYNj9viBXi4FHZm3jxQKbdyaD9d" tvg-id="SHOW.TV.HD.tr" group-title="General" tvg-chno="22",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839124.png" tvg-id="TRT.1.HD.tr" group-title="General" tvg-chno="23",TRT 1
@@ -91,16 +97,16 @@ https://gzttv-live.lg.mncdn.com/gzttv-live/gzttv/media-ucdj7n6ye_w213561894_1334
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=18-JymFbjseZ8GYA8MUvaQeNm1mNqYbLW" tvg-id="AKİT.TV.tr" group-title="News" tvg-chno="69",Akit TV
 http://176.65.153.12:6004/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sLG8ypag1LTO1hbj_tjUfinePU-DdB-a" tvg-id="EPG_ID" group-title="General" tvg-chno="70",Show Max
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" tvg-id="tabii.spor.tr" group-title="Sport" tvg-chno="70",tabii Spor
+http://live.tabitv.workers.dev/?ID=tabii%20spor
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PV0xdyFgrLCgxTSoHvPt0v5WVbWeyE6J" tvg-id="S.SPORT.tr" group-title="Sport" tvg-chno="71",S Sport
 http://31.43.191.125:8080/restream/restream/141401
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1LAK-e7U2tAnq9WI5oUZJn9aw8M1jBwVT" tvg-id="S.SPORT.2.tr" group-title="Sport" tvg-chno="72",S Sport 2
 https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" tvg-id="tabii.spor.tr" group-title="Sport" tvg-chno="73",tabii Spor
-http://live.tabitv.workers.dev/?ID=tabii%20spor
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" group-title="Sport" tvg-chno="74",SporSmart
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" group-title="Sport" tvg-chno="73",SporSmart
 http://31.43.191.125:8080/restream/restream/141418
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" group-title="Sport" tvg-chno="74",SporSmart 2
+https://79.76.50.223/live/iOS/SiNETECH/40194.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" tvg-id="HTSPOR.tr" group-title="Sport" tvg-chno="75",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" tvg-id="FBTV.tr" group-title="Sport" tvg-chno="76",FB TV
@@ -132,7 +138,7 @@ https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IVen506PSfTCk3g012eA7mjV71Kbugyy" tvg-id="EUROSPORT.1.HD.tr" group-title="Sport" tvg-chno="91",Eurosport 1
 http://31.43.191.125:8080/restream/restream/141378
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mj9-OeE2xeqr4LTXMt4HsdQXdYnRlcLE" tvg-id="EUROSPORT.2.HD.tr" group-title="Sport" tvg-chno="92",Eurosport 2
-http://31.43.191.125:8080/restream/restream/141379
+https://79.76.50.223/live/iOS/SiNETECH/39308.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tkX4ant3jYe_bY7xaNfbXKoLVuJ6YVqI" tvg-id="" group-title="Sport" tvg-chno="93",Cosmo Sports
 http://31.43.191.125:8080/restream/restream/140980
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-AM7yL3ikUm4m4K9BhELsdjzQzP9RaOa" tvg-id="TRACE.SPORT.STARS.HD.tr" group-title="Sport" tvg-chno="94",Trace Sport Stars
@@ -167,16 +173,26 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" group-title="Movies Series" tvg-chno="115",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tqnipsIWWf3KwydON_Y0UXrkTaXCHuPT" tvg-id="FILM.SCREEN.tr" group-title="Movies Series" tvg-chno="125",FilmScreen International
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tqnipsIWWf3KwydON_Y0UXrkTaXCHuPT" tvg-id="FILM.SCREEN.tr" group-title="Movies Series" tvg-chno="119",FilmScreen International
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="tabii.TV.tr" group-title="Movies Series" tvg-chno="126",tabii TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="tabii.TV.tr" group-title="Movies Series" tvg-chno="120",tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/D/qo/246015/logo_50.png?v=638671714129947027" tvg-id="" group-title="Movies Series" tvg-chno="127",DiziSmart Max
+#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/D/qo/246015/logo_50.png?v=638671714129947027" tvg-id="" group-title="Movies Series" tvg-chno="121",DiziSmart Max
 http://31.43.191.125:8080/restream/restream/140919
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-4RHB9lDSPo8UftI0DHanJ0ZXAhj_jrq" tvg-id="SİNEMA.YERLİ.HD.tr" group-title="Movies Series" tvg-chno="128",Sinema Yerli
-http://31.43.191.125:8080/restream/restream/141819
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" group-title="Movies Series" tvg-chno="129",Sinema TV
-http://31.43.191.125:8080/restream/restream/141817
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1b13H_ZRtlai6wiWU77mkG2rxoDhahCOo" tvg-id="MovieSmartTurk.tr" tvg-chno="122",MovieSmart Türk
+https://79.76.50.223/live/iOS/SiNETECH/40004.ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1b13H_ZRtlai6wiWU77mkG2rxoDhahCOo" tvg-id="MovieSmartTurk.tr" tvg-chno="123",MovieSmart Classic
+https://79.76.50.223/live/iOS/SiNETECH/40002.ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" group-title="Movies Series" tvg-chno="124",Sinema TV
+https://79.76.50.223/live/iOS/SiNETECH/39342.ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" group-title="Movies Series" tvg-chno="125",Sinema Aksiyon
+https://79.76.50.223/live/iOS/SiNETECH/39341.ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" group-title="Movies Series" tvg-chno="127",Sinema Aile
+https://79.76.50.223/live/iOS/SiNETECH/39336.ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" group-title="Movies Series" tvg-chno="128",Sinema Komedi
+https://79.76.50.223/live/iOS/SiNETECH/39338.ts
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" group-title="Movies Series" tvg-chno="129",Sinema 1001
+https://79.76.50.223/live/iOS/SiNETECH/39339.ts
 #EXTINF:-1 tvg-logo="https://dizi.com/wp-content/uploads/2020/07/cropped-timeless-dizi-channel-without-logo-1.png" tvg-id="" group-title="Movies Series" tvg-chno="130",Dizi
 http://31.43.191.125:8080/restream/restream/144345
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WYijg4ZTn-1kMPvYyFKJ3yD94JVd3an4" tvg-id="TV5.Monde.de" group-title="International" tvg-chno="131",TV5Monde
@@ -193,6 +209,8 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://gtrk-volga.ru/media/hr24/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1vjRpgMvOYc-2zYLJ0YsOaFVb19uLHXMG" tvg-id="" group-title="International News Europe" tvg-chno="137",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1O4LR-ztnbVPio142Ayzwl5OkZdtAlR2H" tvg-id="CNBC.de" tvg-chno="138",CNBC
+https://79.76.50.223/live/iOS/SiNETECH/39163.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PsEqL1EZkFa_G3tiDrZphtUkGtfdcOdK" tvg-id="BLOOMBERG.tr" group-title="International News Europe" tvg-chno="139",Bloomberg
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1vbATr4qcvZMzlyhxBx7xpyHLr8nNhMUD" tvg-id="A.NEWS.HD.tr" group-title="International News Europe" tvg-chno="140",A News
@@ -243,8 +261,10 @@ http://31.43.191.125:8080/restream/restream/141898
 http://31.43.191.125:8080/restream/restream/141897
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" group-title="Child" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltb36bff5b4924228e/66bc78234f0e47c3e25a4816/Cartoonito_-_Logo_2021.png" tvg-id="CARTOONITO.tr" group-title="Child" tvg-chno="168",Cartoonito
+https://79.76.50.223/live/iOS/SiNETECH/39296.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="CARTOON.NETWORK.tr" group-title="Child" tvg-chno="169",Cartoon Network
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DEZWG4KWUAEXFK/6846/index.m3u8
+https://79.76.50.223/live/iOS/SiNETECH/39297.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mHVB1z9fEHLFyYRYwxLNjT_TiclEdsh9" tvg-id="MİNİKA.GO.tr" group-title="Child" tvg-chno="170",minikaGO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hpoAES0Zzbep6AZ99rpLwMklG5D9zbpx" tvg-id="MİNİKA.ÇOCUK.tr" group-title="Child" tvg-chno="174",minikaÇocuk
@@ -253,16 +273,24 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 http://31.43.191.125:8080/restream/restream/141867
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" group-title="Documentary" tvg-chno="181",National Geographic
 http://31.43.191.125:8080/restream/restream/141869
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="BBC.EARTH.tr" group-title="Documentary" tvg-chno="183",BBC Earth
+https://79.76.50.223/live/iOS/SiNETECH/39449.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dVMsNq4T6Krb2M-of4K69e5AYqTmVVuU" tvg-id="VIASAT.NATURE.-.HISTORY.tr" group-title="Documentary" tvg-chno="184",Viasat History
 http://31.43.191.125:8080/restream/restream/141887
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1UsloiMCuw66vrFyAL1lEFk_quikFrj4D" tvg-id="NatGeoWild.tr" group-title="Documentary" tvg-chno="185",National Geographic Wild
+https://79.76.50.223/live/iOS/SiNETECH/39324.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sW-5-bPEUluTbTfg6_7sfyPz41Jj3BE_" tvg-id="DISCOVERY.ID.tr" group-title="Documentary" tvg-chno="186",Investigation Discovery
 http://31.43.191.125:8080/restream/restream/141862
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nub8nwDeupjt3EF2626hdEVSwWTb9l_T" tvg-id="DMAX.tr" group-title="Documentary" tvg-chno="187",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1EIbviB64pv2YBWFfgp5aHZaoUgahgSwE" tvg-id="" tvg-chno="189",Yaban TV
+https://79.76.50.223/live/iOS/SiNETECH/40424.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" tvg-id="TRT.BELGESEL.HD.tr" group-title="Documentary" tvg-chno="190",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1X90QjoblNOtafuDjn-_s_XBeou9p9-2E" tvg-id="DiscoveryChannel.tr" group-title="Documentary" tvg-chno="191",Discovery Channel
 http://31.43.191.125:8080/restream/restream/141861
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Wj9dufYesBbTbg2-hTlPyEDT7GgGm2pL" tvg-id="LOVE.NATURE.HD.tr" group-title="Documentary" tvg-chno="193",Love Nature
+https://79.76.50.223/live/iOS/SiNETECH/39320.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YX1tyX5T85T-AKgZPxIfcqNH4N8MRcOF" tvg-id="CGTN.9.DOCUMENTARY.tr" group-title="Documentary" tvg-chno="194",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/27/RT_Documentary.png/revision/latest/scale-to-width-down/250?cb=20240623210059&path-prefix=ru" tvg-id="" group-title="Documentary" tvg-chno="195",RT Doc
@@ -285,6 +313,8 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_outpu
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1A-SHe-ANszNcJq-I8flgwSFIiT7M-0Ck" tvg-id="TV5.tr" group-title="Other" tvg-chno="245",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1sLG8ypag1LTO1hbj_tjUfinePU-DdB-a" tvg-id="EPG_ID" group-title="General" tvg-chno="246",Show Max
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Nd58IEXkUH0sTNjB4EmcNwfUakxasQt0" tvg-id="KONTV.HD.tr" group-title="Local" tvg-chno="249",Kon TV
 http://176.65.153.12:6004/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_x31EHaOaJ-SLZlb-7K193A7G6soX2EL" tvg-id="KANAL.23.tr" group-title="Local" tvg-chno="256",Kanal 23
