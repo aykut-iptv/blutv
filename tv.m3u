@@ -125,8 +125,10 @@ https://ladyboy.ardastream2.cfd//bein5/tracks-v1a1/mono.m3u8
 https://ladyboy.ardastream2.cfd//beinmax1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12E1Cc3aBHv-MfqUCPlEeqeF9w6UNid-n" tvg-id="beIN.SPORTS.MAX.2.tr" group-title="Sport" tvg-chno="83",beIN Sports Max 2
 https://ladyboy.ardastream2.cfd//beinmax2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_5guYsmeoTNz6YObHQ3gFHNGLw1MkWFi" tvg-id="beIN.SPORTS.HABER.HD.tr" group-title="Sport" tvg-chno="85",beIN Sports Haber
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_5guYsmeoTNz6YObHQ3gFHNGLw1MkWFi" tvg-id="beIN.SPORTS.HABER.HD.tr" group-title="Sport" tvg-chno="84",beIN Sports Haber
 http://31.43.191.125:8080/restream/restream/141370
+#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839221.png" tvg-id="TİVİBU.SPOR.tr" group-title="Sport" tvg-chno="85",Tivibu Spor
+https://79.76.50.223/live/iOS/SiNETECH/40275.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1twBcD3uoVn69--0lOafxhFF7o5ETssLf" tvg-id="TRT.SPOR.HD.tr" group-title="Sport" tvg-chno="86",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1xFr9KkQuP2bVviL8MTk0XBy4PeB4wHFO" tvg-id="TRTSPORYILDIZ.tr" group-title="Sport" tvg-chno="87",TRT Spor Yıldız
@@ -275,6 +277,8 @@ https://79.76.50.223/live/iOS/SiNETECH/34945.ts
 http://31.43.191.125:8080/restream/restream/141867
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" group-title="Documentary" tvg-chno="181",National Geographic
 http://31.43.191.125:8080/restream/restream/141869
+#EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250805841180.png" tvg-id="" group-title="Documentary" tvg-chno="182",Habitat TV
+https://79.76.50.223/live/iOS/SiNETECH/34922.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="BBC.EARTH.tr" group-title="Documentary" tvg-chno="183",BBC Earth
 https://79.76.50.223/live/iOS/SiNETECH/39449.ts
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dVMsNq4T6Krb2M-of4K69e5AYqTmVVuU" tvg-id="VIASAT.NATURE.-.HISTORY.tr" group-title="Documentary" tvg-chno="184",Viasat History
