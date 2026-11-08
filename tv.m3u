@@ -150,7 +150,7 @@ http://31.43.191.125:8080/restream/restream/157556
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1nTVnP-Ar1vRICd8TM46Zjdb-HMzlM_Gr" tvg-id="EPG_ID" group-title="Music" tvg-chno="103",360TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=10veMRAs5tQv5IRQXlJQQ7IBWzw8OUOtP" tvg-id="TRT.MÜZİK.tr" group-title="Music" tvg-chno="104",TRT Müzik
-https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
+https://tv-trtmuzik.medya.trt.com.tr/master_2160.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cCbsQDiaNvwdyBJSsflFEsi3W6WFpAcp" tvg-id="EPG_ID" group-title="Music" tvg-chno="105",Kral Pop TV
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1l5Bgw1i5gbdYtZlSHWCcDnkYToG1wtGH" tvg-id="DREAM.TÜRK.tr" group-title="Music" tvg-chno="108",Dream Türk
