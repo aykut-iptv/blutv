@@ -25,19 +25,19 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8
 http://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1F_wNy3XhCP3Le0FmHSDSnJqD9ci5-Oy6" tvg-id="KANAL.7.HD.tr" group-title="General" tvg-chno="34",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gWtFLz5FTsqkLzIBm525B_uoBMrO3MdJ" tvg-id="A2.HD.tr" group-title="General" tvg-chno="35",A2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YC0KDSTUjrAUsSo6lmaYRXY-5xIge-hV" tvg-id="A2.HD.tr" group-title="General" tvg-chno="35",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15qQosGMf0k0Nz4ZdRTlakWSTDLwZv_Di" tvg-id="BEYAZ.TV.HD.tr" group-title="General" tvg-chno="36",Beyaz TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1kSh0kI-X3SErR_7Eg3osSIGs7h3711tI" tvg-id="BEYAZ.TV.HD.tr" group-title="General" tvg-chno="36",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ogOLMxAOiA0dczkOkELkBuyMv5GHmCJP" tvg-id="TV100.tr" group-title="News" tvg-chno="37",TV 100
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1jNHtcFE6TGiHZkqSTrBYG9gS55LzWVSn" tvg-id="TV100.tr" group-title="News" tvg-chno="37",TV 100
 https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gWkpir1Bd4tDrnm3v1jhxAwWEQyIe6UK" tvg-id="ÜLKE.TV.HD.tr" group-title="News" tvg-chno="38",Ülke TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PT_wQ48iPJQMS3n6yFXmQAMcMRbYt-It" tvg-id="ÜLKE.TV.HD.tr" group-title="News" tvg-chno="38",Ülke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1FQLMWVe0PHWxFc4wsvMbc_WcksoOVRfs" tvg-id="TVNET.HD.tr" group-title="News" tvg-chno="39",TVNet
 https://tvnet-live.lg.mncdn.com/tvnet-live/tvnet/media-uitf8nwoj_w1643123262_22133.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12LVdw70cxm_J0Z68DT4gQJNgrRai0XrW" tvg-id="24.TV.tr" group-title="News" tvg-chno="40",24
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uJcKnXdVrBT8sp5Y7N81RFaGhhl-OMzC" tvg-id="24.TV.tr" group-title="News" tvg-chno="40",24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=15lVAi1_UHt5enamKj38KwSufVblXB1kV" tvg-id="NTV.HD.tr" group-title="News" tvg-chno="41",NTV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=19f6kgL-SGo8MjcB0Mf_UXkakMbb4Qoxr" tvg-id="NTV.HD.tr" group-title="News" tvg-chno="41",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" tvg-id="CNN.TÜRK.HD.tr" group-title="News" tvg-chno="42",CNN Türk
 http://izlego.minikirppis-com.workers.dev/ID=427315396743dfe9212c50
