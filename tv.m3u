@@ -117,6 +117,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IVen506PSfTCk3g012eA7mjV71Kbugyy" tvg-id="EUROSPORT.1.HD.tr" group-title="Sport" tvg-chno="91",Eurosport 1
 http://31.43.191.125:8080/restream/restream/141378
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mj9-OeE2xeqr4LTXMt4HsdQXdYnRlcLE" tvg-id="EUROSPORT.2.HD.tr" group-title="Sport" tvg-chno="92",Eurosport 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=707&extension=ts&play_token=2mg4QJgGT9
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1tkX4ant3jYe_bY7xaNfbXKoLVuJ6YVqI" tvg-id="" group-title="Sport" tvg-chno="93",Cosmo Sports
 http://31.43.191.125:8080/restream/restream/140980
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1-AM7yL3ikUm4m4K9BhELsdjzQzP9RaOa" tvg-id="TRACE.SPORT.STARS.HD.tr" group-title="Sport" tvg-chno="94",Trace Sport Stars
@@ -157,6 +159,10 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/D/qo/246015/logo_50.png?v=638671714129947027" tvg-id="" group-title="Movies Series" tvg-chno="121",DiziSmart Max
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU
+#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/B/IQ/246150/logo_50.png?v=638671715307583467" tvg-id="" tvg-chno="122",MovieSmart Classic
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471684&extension=ts&play_token=txJYZNZE6k
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1b13H_ZRtlai6wiWU77mkG2rxoDhahCOo" tvg-id="MovieSmartTurk.tr" tvg-chno="123",MovieSmart Türk
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197136&extension=ts&play_token=XUCMlJbssm
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=18eyv5hzdwzIM59hleOkqlByfWlPonF7v" tvg-id="" group-title="International" tvg-chno="130",Rai Uno
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WYijg4ZTn-1kMPvYyFKJ3yD94JVd3an4" tvg-id="TV5.Monde.de" group-title="International" tvg-chno="131",TV5Monde
