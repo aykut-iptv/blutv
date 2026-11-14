@@ -75,8 +75,8 @@ https://edge2.taksimbilisim.com/turkhaber/bant1/chunks.m3u8
 http://45.88.139.156/yt1/szctv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Ax_vjWiDY28v7zjSujoLymiZ-I5awaHK" tvg-id="TRT.TÜRK.tr" group-title="General" tvg-chno="61",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://s.krttv.com.tr/assets/web/images/logo.svg?v=3" tvg-id="KRTTV.tr" group-title="News" tvg-chno="62",KRT TV
-http://176.65.153.12:6004/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNYG5qmZ/download.png" tvg-id="KRTTV.tr" group-title="News" tvg-chno="62",KRT TV
+http://176.65.153.3:8042/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YqNYdGMb3bbWts1tQANHFWOpNSBpz_gX" tvg-id="BENGÜ.TÜRK.tr" group-title="News" tvg-chno="63",BengüTürk
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1tOMKDXxUION9-PN6aca1o4ItFzc91tY-" tvg-id="TV.4.tr" group-title="General" tvg-chno="64",TV 4
@@ -217,10 +217,10 @@ https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RpsnevyYc38xtZ8d35Fl_aikSJFIeWqr" tvg-id="BABY.TV.tr" group-title="Child" tvg-chno="162",Baby TV
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/p/mN/246012/logo_50.png?v=638671714105411282" tvg-id="" group-title="Child" tvg-chno="164",ÇocukSmart
-http://31.43.191.125:8080/restream/restream/141897
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1RvPl4MYofKHFNLKrxu6vvEJHoYcZRaH0" tvg-id="DisneyJunior.tr" group-title="Child" tvg-chno="165",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/p/mN/246012/logo_50.png?v=638671714105411282" tvg-id="" group-title="Child" tvg-chno="166",ÇocukSmart
+http://31.43.191.125:8080/restream/restream/141897
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1CmTDdX3XdTAs__WLvHm-4_XCs3DnkGBe" tvg-id="CARTOON.NETWORK.tr" group-title="Child" tvg-chno="169",Cartoon Network
 http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mHVB1z9fEHLFyYRYwxLNjT_TiclEdsh9" tvg-id="MİNİKA.GO.tr" group-title="Child" tvg-chno="170",minika GO
