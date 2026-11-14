@@ -103,6 +103,8 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1h5L4wPtRSdGI9Yd1iF1yjpP1vDamirwD" tvg-id="beIN.SPORTS.1.tr" group-title="Sport" tvg-chno="77",beIN Sports 1
 https://css.d6e3eds5e065t5.help//hls/b1.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1h5L4wPtRSdGI9Yd1iF1yjpP1vDamirwD" tvg-id="beIN.SPORTS.1.tr" group-title="Sport" tvg-chno="77",beIN Sports 1
+http://57.129.0.61:1990/stream/117/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i9eFcnmP0Q3FKnibJauri1KmlvJCvbuw" tvg-id="beIN.SPORTS.2.tr" group-title="Sport" tvg-chno="78",beIN Sports 2
 https://css.d6e3eds5e065t5.help//b2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_5guYsmeoTNz6YObHQ3gFHNGLw1MkWFi" tvg-id="beIN.SPORTS.HABER.HD.tr" group-title="Sport" tvg-chno="84",beIN Sports Haber
