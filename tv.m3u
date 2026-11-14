@@ -99,7 +99,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:BF&stream=712&extensi
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18638&extension=ts&play_token=Ww38qH3LB4
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" group-title="Sport" tvg-chno="73",SporSmart
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:BF&stream=713&extension=ts&play_token=QWIXpgpYhS
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1exzK265kxxFmLsNCnJyZacuL4f3Sdz-b" tvg-id="" group-title="Sport" tvg-chno="74",SporSmart 2
+#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/a/hB/246171/logo_50.png?v=638671715480892871" tvg-id="" group-title="Sport" tvg-chno="74",SporSmart 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18640&extension=ts&play_token=FyZggTEunT
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" tvg-id="HTSPOR.tr" group-title="Sport" tvg-chno="75",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
