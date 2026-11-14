@@ -128,7 +128,7 @@ https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/e/ef/Fightboxekr2020.png/revision/latest/scale-to-width-down/5000?cb=20240607193927&path-prefix=pl" tvg-id="" group-title="Sport" tvg-chno="96",FightBox
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1D7mA21AEaOGYJWguk-EWoIZhvlJhyxc3" tvg-id="NUMBER1.TURK.HD.tr" group-title="Music" tvg-chno="97",NR1 Türk TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+http://176.65.153.3:8042/play/a03n/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1XecYIxx6Sp3WNEIpWVp4n217xiTiMxaa" tvg-id="POWER.TURK.HD.tr" group-title="Music" tvg-chno="98",PowerTürk TV
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14xfXavYhP-5cHwXeEFNaNWvwL-BUjAe4" tvg-id="NUMBER1.TV.HD.tr" group-title="Music" tvg-chno="99",NR1 TV
@@ -290,7 +290,7 @@ https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7f48a7b_o
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O79oqWHVhSk2Vn3S4K64H5cg6BRQFb6N" tvg-id="" group-title="Local" tvg-chno="",Aksu TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12by1JhNeoWLGtVKX-Hugmn9LK9hZp5VW" tvg-id="" group-title="International" tvg-chno="290",Türkmeneli TV
-https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/playlist.m3u8
+https://turkmeneli-live.b-cdn.net/hls/main2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1hIeD4EhQPvWKfhp2EyBSXxjhlhg7tk5M" tvg-id="BRT.1.HD.tr" group-title="Cyprus" tvg-chno="291",BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1jUw8oJuQcA4NIXpEZIy5PRxTymnzF8AB" tvg-id="BRT.2.HD.tr" group-title="Cyprus" tvg-chno="292",BRT 2
