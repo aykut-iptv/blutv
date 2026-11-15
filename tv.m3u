@@ -299,8 +299,6 @@ https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Nd58IEXkUH0sTNjB4EmcNwfUakxasQt0" tvg-id="KONTV.HD.tr" group-title="Local" tvg-chno="249",Kon TV
 https://canli.kontv.com.tr/live/kontv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RMxtt8S/37958065-ico.png" tvg-id="" group-title="Local" tvg-chno="253",Çay TV
-https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_x31EHaOaJ-SLZlb-7K193A7G6soX2EL" tvg-id="KANAL.23.tr" group-title="Local" tvg-chno="256",Kanal 23
 https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hsUu5AnEIZKEJKAdrntEJ1n1J4xfJyzR" tvg-id="KANAL.V.tr" group-title="Local" tvg-chno="257",Kanal V
