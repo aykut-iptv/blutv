@@ -347,10 +347,16 @@ https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" tvg-id="TRT.KURDİ.tr" group-title="International" tvg-chno="390",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" group-title="Azerbaijan" tvg-chno="392",Azad TV
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Azerbaijan" tvg-chno="397",TEST
+https://xezer.tvstream.az/hls/stream/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.gunaz.tv/frontend/images/logo.png" tvg-id="" group-title="Azerbaijan" tvg-chno="398",GünAz TV
+https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Azerbaijan" tvg-chno="397",Idman TV
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LVFGLXHUW45A8PBECGUURD6K/6840/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Azerbaijan" tvg-chno="398",GünAz TV
-https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_sJKU0ZH6SrXXcPeHTqFPPZymoTysGWB" tvg-id="" group-title="Azerbaijan" tvg-chno="398",CBC Sport
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LVFGLXHUW45A8PBECGUURD6K/2193/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12PCAnbo6tYnfuZD3jVJ6RGWxC1BFXaQi" tvg-id="" group-title="Azerbaijan" tvg-chno="399",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6swVbl5M_XqlHqaVKEM0Fg3dXdmkYOWqVQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="401",Alem FM
