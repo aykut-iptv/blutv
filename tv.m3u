@@ -337,7 +337,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 http://31.43.191.125:8080/restream/restream/144182
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rQXFjg_GO6_XONQvcJP0qgnDJ4dxKlzg" tvg-id="" group-title="International" tvg-chno="330",RTR Planeta
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
-#EXTINF:-1 tvg-logo="https://www.antenna.gr/images/logo.svg" tvg-id="" group-title="International" tvg-chno="331",ANT1
+#EXTINF:-1 tvg-logo="https://artrebel.gr/wp-content/uploads/2014/09/Ant1.png" tvg-id="" group-title="International" tvg-chno="331",ANT1
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/TVE_Internacional_2026.svg/revision/latest/scale-to-width-down/250?cb=20260125143756" tvg-id="" group-title="International" tvg-chno="386",TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
