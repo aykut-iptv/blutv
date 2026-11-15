@@ -345,9 +345,9 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 https://tv-trtkurdi.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="Azerbaijan" tvg-chno="397",Idman TV
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LVFGLXHUW45A8PBECGUURD6K/6840/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Azerbaijan" tvg-chno="399",GünAz TV
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="Azerbaijan" tvg-chno="398",GünAz TV
 https://tv.gunaz.tv/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12PCAnbo6tYnfuZD3jVJ6RGWxC1BFXaQi" tvg-id="" group-title="Azerbaijan" tvg-chno="400",Ayaz TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12PCAnbo6tYnfuZD3jVJ6RGWxC1BFXaQi" tvg-id="" group-title="Azerbaijan" tvg-chno="399",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6swVbl5M_XqlHqaVKEM0Fg3dXdmkYOWqVQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="401",Alem FM
 https://alemfm.radyotvonline.net/alemfmaac
