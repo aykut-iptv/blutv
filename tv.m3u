@@ -163,6 +163,8 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197130&extension=ts&play_token=OGpmnWnGk8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1b13H_ZRtlai6wiWU77mkG2rxoDhahCOo" tvg-id="MovieSmartTurk.tr" tvg-chno="126",MovieSmart Türk
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197136&extension=ts&play_token=XUCMlJbssm
+#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/B/IQ/246150/logo_50.png?v=638671715307583467" tvg-id="" tvg-chno="127",MovieSmart Classic
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197139&extension=ts&play_token=ZOc5rxcKi6
 #EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/D/qo/246015/logo_50.png?v=638671714129947027" tvg-id="" group-title="Movies Series" tvg-chno="128",DiziSmart Max
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="tabii.TV.tr" group-title="Movies Series" tvg-chno="129",tabii TV
