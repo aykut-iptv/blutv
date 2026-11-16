@@ -331,6 +331,8 @@ https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1w9Ofj6iOdSr2CW9YUmfrROB8KfMFq8jD" tvg-id="" group-title="Local" tvg-chno="278",BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vantv.tr/wp-content/uploads/2024/08/vantv-logo-scaled.png" tvg-id="" group-title="Local" tvg-chno="265",Van TV
+https://raw.githubusercontent.com/ibrahim9071/kick2/refs/heads/main/streams/vantv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O79oqWHVhSk2Vn3S4K64H5cg6BRQFb6N" tvg-id="" group-title="Local" tvg-chno="282",Aksu TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" tvg-id="TRT.GENÇ.tr" group-title="Other" tvg-chno="289",TRT Genç
