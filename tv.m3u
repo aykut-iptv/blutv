@@ -161,18 +161,8 @@ https://saran-live.ercdn.net/fx/index.m3u8
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ErWzrOkFKKBrfRyH9BjyJWvsTQyh1KiQ" tvg-id="SİNEMA.TV.tr" group-title="Movies Series" tvg-chno="120",Sinema TV
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197130&extension=ts&play_token=OGpmnWnGk8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mmd3xM0U294nb16LDZ_YeLhgKrhzuxXU" tvg-id="SİNEMA.TV.AKSİYON.HD.tr" tvg-chno="121",Sinema Aksiyon
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471692&extension=ts&play_token=JrSdLylyR5
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1L0DrXWhq35YDfaGuPcTDjoU6FNzyrdto" tvg-id="SİNEMA.KOMEDİ.HD.tr" tvg-chno="123",Sinema Komedi
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471694&extension=ts&play_token=gUDQpjYD0L
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1uQJxABxPkuYHxqt6Y6JIgEJSj_K1oDz_" tvg-id="SİNEMA.AİLE.HD.tr" tvg-chno="124",Sinema Aile
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471690&extension=ts&play_token=XkCHN9quwY
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1IHhsxbryQtPGgC1zxL2SD2ND_PdzN8x4" tvg-id="SİNEMA.TV.1001.HD.tr" tvg-chno="125",Sinema 1001
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471686&extension=ts&play_token=yPA99fo4XP
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1b13H_ZRtlai6wiWU77mkG2rxoDhahCOo" tvg-id="MovieSmartTurk.tr" tvg-chno="126",MovieSmart Türk
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197136&extension=ts&play_token=XUCMlJbssm
-#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/B/IQ/246150/logo_50.png?v=638671715307583467" tvg-id="" tvg-chno="127",MovieSmart Classic
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471684&extension=ts&play_token=txJYZNZE6k
 #EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/D/qo/246015/logo_50.png?v=638671714129947027" tvg-id="" group-title="Movies Series" tvg-chno="128",DiziSmart Max
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" tvg-id="tabii.TV.tr" group-title="Movies Series" tvg-chno="129",tabii TV
