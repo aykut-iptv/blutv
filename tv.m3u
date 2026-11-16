@@ -262,7 +262,7 @@ https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Yey907kl6CCwZg1dpc-5s43J4h62V_-S" tvg-id="" group-title="Documentary" tvg-chno="180",Cosmo EN
 http://31.43.191.125:8080/restream/restream/141867
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1qEhjFUaQADRXx7n2ozziXQ1gG5jc6uf5" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" group-title="Documentary" tvg-chno="181",National Geographic
-http://31.43.191.125:8080/restream/restream/141869
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" tvg-id="BBC.EARTH.tr" group-title="Documentary" tvg-chno="183",BBC Earth
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:BF&stream=197431&extension=ts&play_token=nCZocT8oj0
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1dVMsNq4T6Krb2M-of4K69e5AYqTmVVuU" tvg-id="VIASAT.NATURE.-.HISTORY.tr" group-title="Documentary" tvg-chno="184",Viasat History
