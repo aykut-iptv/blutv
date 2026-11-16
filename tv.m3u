@@ -333,7 +333,7 @@ https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8
 https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/24h_2026.svg/revision/latest/scale-to-width-down/200?cb=20260125143654" tvg-id="" group-title="International News" tvg-chno="302",Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1LJNJTJkJdShGZTwlg5u8xi8wfTmRnSvN" tvg-id="" group-title="International" tvg-chno="",Hayat 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1LJNJTJkJdShGZTwlg5u8xi8wfTmRnSvN" tvg-id="" group-title="International" tvg-chno="322",Hayat 2
 http://31.43.191.125:8080/restream/restream/144182
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rQXFjg_GO6_XONQvcJP0qgnDJ4dxKlzg" tvg-id="" group-title="International" tvg-chno="330",RTR Planeta
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
