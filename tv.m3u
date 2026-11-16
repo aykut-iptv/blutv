@@ -365,12 +365,18 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 https://tv-trtkurdi.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" group-title="Azerbaijan" tvg-chno="392",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-logo="https://www.gunaz.tv/frontend/images/logo.png" tvg-id="" group-title="Azerbaijan" tvg-chno="396",GünAz TV
+#EXTINF:-1 tvg-logo="https://www.gunaz.tv/frontend/images/logo.png" tvg-id="" group-title="Azerbaijan" tvg-chno="393",GünAz TV
 https://tv.gunaz.tv/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_sJKU0ZH6SrXXcPeHTqFPPZymoTysGWB" tvg-id="" group-title="Azerbaijan" tvg-chno="398",CBC Sport
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_sJKU0ZH6SrXXcPeHTqFPPZymoTysGWB" tvg-id="" group-title="Azerbaijan" tvg-chno="395",CBC Sport
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LVFGLXHUW45A8PBECGUURD6K/2193/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12PCAnbo6tYnfuZD3jVJ6RGWxC1BFXaQi" tvg-id="" group-title="Azerbaijan" tvg-chno="399",Ayaz TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12PCAnbo6tYnfuZD3jVJ6RGWxC1BFXaQi" tvg-id="" group-title="Azerbaijan" tvg-chno="396",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
+#EXTINF:-1 tvg-logo="https://tmb.tv/wp-content/themes/techvio/assets/images/logo.png" tvg-id="" group-title="Music" tvg-chno="397",TMB TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197344&extension=ts&play_token=XeQODwvtKm
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_3275.png?v=4" tvg-id="" group-title="Music" tvg-chno="398",Power Pop TV
+https://listen.powerapp.com.tr/ppop/pop.smil/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_2577.png?v=4" tvg-id="" group-title="Music" tvg-chno="399",PowerTürk Slow TV
+https://listen.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6swVbl5M_XqlHqaVKEM0Fg3dXdmkYOWqVQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="401",Alem FM
 https://alemfm.radyotvonline.net/alemfmaac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/1/logos/android_default_logo.png?v=301024040744" tvg-id="EPG_ID" group-title="Radio" tvg-chno="402",Süper FM
@@ -563,9 +569,5 @@ https://29103.live.streamtheworld.com/SC002_SO1AAC.aac
 https://25693.live.streamtheworld.com/SC009_SO1AAC.aac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/362/logos/android_default_logo.png?v=170725021356" tvg-id="" group-title="Radio" tvg-chno="591",K-Pop
 https://28563.live.streamtheworld.com/KPOP128AAC.aac
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_3275.png?v=4" tvg-id="" group-title="Music" tvg-chno="601",Power Pop TV
-https://listen.powerapp.com.tr/ppop/pop.smil/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_2577.png?v=4" tvg-id="" group-title="Music" tvg-chno="602",PowerTürk Slow TV
-https://listen.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8
 
 
