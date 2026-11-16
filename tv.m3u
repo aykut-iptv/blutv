@@ -12,9 +12,9 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1a6eDM1w2E7W5rKBau9F0cfUjWefTuNV7" tvg-id="KANAL.D.HD.tr" group-title="General" tvg-chno="24",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1mPxmhf5vl0xFw6EopPorjzaxFkmplsNl" tvg-id="ATV.HD.tr" group-title="General" tvg-chno="25",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196714&extension=ts&play_token=DWNCFJZrjl
 #EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838440.png" tvg-id="FOX.HD.tr" group-title="General" tvg-chno="26",NOW
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196710&extension=ts&play_token=Vinm127vDi
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1cls804EPAFFquavfEGAffhLig9BnlTjO" tvg-id="STAR.TV.HD.tr" group-title="General" tvg-chno="27",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3
 #EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839104.png" tvg-id="TV8.tr" group-title="General" tvg-chno="28",TV8
