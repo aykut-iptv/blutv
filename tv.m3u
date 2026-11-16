@@ -301,14 +301,16 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 http://sultanbaysal.serv00.net/yt/bizimevtv2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/6pm8rnhb.png" tvg-id="" group-title="Other" tvg-chno="211",Kanal 1
 http://176.65.153.40:6002/play/a01e/index.m3u8
-#EXTINF:-1 tvg-logo="https://telenews.com.tr/wp-content/uploads/2025/08/telenews-logo.png" tvg-id="" group-title="Other" tvg-chno="240",Telenews
+#EXTINF:-1 tvg-logo="https://telenews.com.tr/wp-content/uploads/2025/08/telenews-logo.png" tvg-id="" group-title="Other" tvg-chno="230",Telenews
 https://cdn4.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yaJQ755pOGfGEVg1X6gsvEgdu4wjIAkL" tvg-id="" group-title="Other" tvg-chno="241",Kanal B
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yaJQ755pOGfGEVg1X6gsvEgdu4wjIAkL" tvg-id="" group-title="Other" tvg-chno="231",Kanal B
 https://tv.kanalb.tr/hls/kanalb/1_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Z5EBaW_XkpuN7uo7AqAUjVy8W5_ajSWC" tvg-id="" group-title="Other" tvg-chno="242",MK TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Z5EBaW_XkpuN7uo7AqAUjVy8W5_ajSWC" tvg-id="" group-title="Other" tvg-chno="232",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O946xn-OQEoYwAOCqqxUQdqk0cNKxYlO" tvg-id="" group-title="Other" tvg-chno="243",Cine 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O946xn-OQEoYwAOCqqxUQdqk0cNKxYlO" tvg-id="" group-title="Other" tvg-chno="233",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5787bd5a-fb4c-4363-9df9-fe5700cb3b9d-profile_image-300x300.png" tvg-id="" group-title="Local" tvg-chno="241",Kocaeli TV
+https://edge1.taksimbilisim.com/kocaelitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1KZVY3H6zIKngnOgq6MoACaR8I30e09Sx" tvg-id="MELTEM.TV.tr" group-title="Other" tvg-chno="244",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1A-SHe-ANszNcJq-I8flgwSFIiT7M-0Ck" tvg-id="TV5.tr" group-title="Other" tvg-chno="245",TV 5
