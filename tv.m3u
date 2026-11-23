@@ -365,15 +365,15 @@ http://31.43.191.125:8080/restream/restream/144182
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://artrebel.gr/wp-content/uploads/2014/09/Ant1.png" tvg-id="" group-title="International" tvg-chno="331",ANT1
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/TVE_Internacional_2026.svg/revision/latest/scale-to-width-down/250?cb=20260125143756" tvg-id="" group-title="International" tvg-chno="386",TVE Internacional
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/TVE_Internacional_2026.svg/revision/latest/scale-to-width-down/250?cb=20260125143756" tvg-id="" group-title="International" tvg-chno="374",TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/RTP_Mundo_2026_Alt3.svg/revision/latest/scale-to-width-down/250?cb=20260330160355" tvg-id="" group-title="International" tvg-chno="387",RTP Mundo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/RTP_Mundo_2026_Alt3.svg/revision/latest/scale-to-width-down/250?cb=20260330160355" tvg-id="" group-title="International" tvg-chno="375",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=14Ky_H8RpQnRD2K8FM5QHYe1M126UTrGh" tvg-id="" group-title="International" tvg-chno="386",Arirang
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=14Ky_H8RpQnRD2K8FM5QHYe1M126UTrGh" tvg-id="" group-title="International" tvg-chno="376",Arirang
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1u0qxnXakFedAtpq_0GQ8embuOge8nrZk" tvg-id="" group-title="International" tvg-chno="389",Saudi TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1u0qxnXakFedAtpq_0GQ8embuOge8nrZk" tvg-id="" group-title="International" tvg-chno="379",Saudi TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" tvg-id="TRT.KURDİ.tr" group-title="International" tvg-chno="390",TRT Kurdî
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" tvg-id="TRT.KURDİ.tr" group-title="International" tvg-chno="380",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" group-title="Azerbaijan" tvg-chno="392",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
@@ -391,6 +391,8 @@ https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 https://listen.powerapp.com.tr/ppop/pop.smil/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_2577.png?v=4" tvg-id="" group-title="Music" tvg-chno="399",PowerTürk Slow TV
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/raptv.jpg" tvg-id="" group-title="Music" tvg-chno="399",NR1 Rap TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6swVbl5M_XqlHqaVKEM0Fg3dXdmkYOWqVQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="401",Alem FM
 https://alemfm.radyotvonline.net/alemfmaac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/1/logos/android_default_logo.png?v=301024040744" tvg-id="EPG_ID" group-title="Radio" tvg-chno="402",Süper FM
