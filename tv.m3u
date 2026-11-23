@@ -323,6 +323,8 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_outpu
 https://edge1.taksimbilisim.com/kocaelitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.altastv.com.tr/images/altastvlogo.png" tvg-id="" group-title="Local" tvg-chno="252",Altaş TV
 https://edge2.taksimbilisim.com/altastv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/59/Caytv.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="" group-title="Local" tvg-chno="253",Çay TV
+https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_x31EHaOaJ-SLZlb-7K193A7G6soX2EL" tvg-id="KANAL.23.tr" group-title="Local" tvg-chno="256",Kanal 23
 https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hsUu5AnEIZKEJKAdrntEJ1n1J4xfJyzR" tvg-id="KANAL.V.tr" group-title="Local" tvg-chno="257",Kanal V
@@ -349,8 +351,10 @@ https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s.kaytv.com.tr/dosya/logo/kay-tv-logo.png" tvg-id="" group-title="Local" tvg-chno="284",Kay TV
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_40.png?v=7" tvg-id="" group-title="Local" tvg-chno="286",Er TV
+#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_40.png?v=7" tvg-id="" group-title="Local" tvg-chno="285",Er TV
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/On4_tv_Logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="" group-title="Local" tvg-chno="286",On4 TV
+https://live.artidijitalmedya.com/artidijital_on4tv/on4tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv52.com.tr/tv52-logo.png" tvg-id="" group-title="Local" tvg-chno="287",TV 52
 https://edge1.taksimbilisim.com/tv52/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936012.png" tvg-id="" group-title="Other" tvg-chno="288",TRT Eba
