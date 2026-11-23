@@ -163,6 +163,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1pYaka6Uc-WsU3lCLXWjkWyXi4lTYFtR4" tvg-id="Fashion.TV.de" group-title="Entertainment Life" tvg-chno="110",Fashion TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.myzen.tv/wp-content/uploads/2019/12/My-Zen-Tv_LOGO_Couleur_vide-300x300.png" tvg-id="" group-title="Entertainment Life" tvg-chno="111",MyZen TV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12aG27v5xMNk2FMbQ4qbjFhFoEbnoaD2Q" tvg-id="TLC.HD.tr" group-title="Entertainment Life" tvg-chno="112",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" tvg-id="FX.HD.tr" group-title="Movies Series" tvg-chno="115",FX
