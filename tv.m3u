@@ -327,6 +327,8 @@ https://edge2.taksimbilisim.com/altastv/bant1/chunks.m3u8
 https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1hsUu5AnEIZKEJKAdrntEJ1n1J4xfJyzR" tvg-id="KANAL.V.tr" group-title="Local" tvg-chno="257",Kanal V
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_76.png?v=5" tvg-id="" group-title="Local" tvg-chno="258",Kanal 58
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ETKDRFOxXMaGCoTEwsdUsgJW6J1xAo9yrjqJyQmehPDlRY583BS-4eA685hu6N_FH3zsb8PAjg=s900-c-k-c0x00ffffff-no-rj" tvg-id="" group-title="Local" tvg-chno="263",Kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://api.tv264.gunesozturk.com/Uploads/img/logo/ubp82n3ksdk9n4xlof.jpg" tvg-id="" group-title="Local" tvg-chno="264",TV 264
@@ -345,6 +347,8 @@ https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/tv3-buyuk.png?rkt=DfS6Tgv6Hjr93k3" tvg-id="" group-title="Local" tvg-chno="283",TV 3
 https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s.kaytv.com.tr/dosya/logo/kay-tv-logo.png" tvg-id="" group-title="Local" tvg-chno="284",Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936012.png" tvg-id="" group-title="Other" tvg-chno="288",TRT Eba
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" tvg-id="TRT.GENÇ.tr" group-title="Other" tvg-chno="289",TRT Genç
