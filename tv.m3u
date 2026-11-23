@@ -309,12 +309,14 @@ https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Nd58IEXkUH0sTNjB4EmcNwfUakxasQt0" tvg-id="KONTV.HD.tr" group-title="Local" tvg-chno="220",Kon TV
 https://canli.kontv.com.tr/live/kontv.m3u8
-#EXTINF:-1 tvg-logo="https://telenews.com.tr/wp-content/uploads/2025/08/telenews-logo.png" tvg-id="" group-title="Other" tvg-chno="230",Telenews
+#EXTINF:-1 tvg-logo="https://telenews.com.tr/wp-content/uploads/2025/08/telenews-logo.png" tvg-id="" group-title="Other" tvg-chno="225",Telenews
 https://cdn4.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yaJQ755pOGfGEVg1X6gsvEgdu4wjIAkL" tvg-id="" group-title="Other" tvg-chno="231",Kanal B
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1yaJQ755pOGfGEVg1X6gsvEgdu4wjIAkL" tvg-id="" group-title="Other" tvg-chno="226",Kanal B
 https://tv.kanalb.tr/hls/kanalb/1_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Z5EBaW_XkpuN7uo7AqAUjVy8W5_ajSWC" tvg-id="" group-title="Other" tvg-chno="232",MK TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Z5EBaW_XkpuN7uo7AqAUjVy8W5_ajSWC" tvg-id="" group-title="Other" tvg-chno="227",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanal32.com.tr/images/site/logopng-141621-20240429.png" tvg-id="" group-title="Local" tvg-chno="241",Kanal 32
+https://edge2.taksimbilisim.com/kanal32/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1O946xn-OQEoYwAOCqqxUQdqk0cNKxYlO" tvg-id="" group-title="Other" tvg-chno="233",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5787bd5a-fb4c-4363-9df9-fe5700cb3b9d-profile_image-300x300.png" tvg-id="" group-title="Local" tvg-chno="241",Kocaeli TV
