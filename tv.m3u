@@ -349,6 +349,8 @@ https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s.kaytv.com.tr/dosya/logo/kay-tv-logo.png" tvg-id="" group-title="Local" tvg-chno="284",Kay TV
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_40.png?v=7" tvg-id="" group-title="Local" tvg-chno="286",Er TV
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv52.com.tr/tv52-logo.png" tvg-id="" group-title="Local" tvg-chno="287",TV 52
 https://edge1.taksimbilisim.com/tv52/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936012.png" tvg-id="" group-title="Other" tvg-chno="288",TRT Eba
