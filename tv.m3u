@@ -339,6 +339,8 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/grt-buyuk.png?rkt=DfS6Tgv6Hjr93k3" tvg-id="" group-title="Local" tvg-chno="283",GRT TV
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/sun-rtv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" tvg-id="" group-title="Local" tvg-chno="283",Sun RTV
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936012.png" tvg-id="" group-title="Other" tvg-chno="288",TRT Eba
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" tvg-id="TRT.GENÇ.tr" group-title="Other" tvg-chno="289",TRT Genç
