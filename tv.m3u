@@ -381,6 +381,10 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1LJNJTJkJdShGZTwlg5u8xi8wfTmRnSvN" tvg-id="" group-title="International" tvg-chno="322",Hayat 2
 http://31.43.191.125:8080/restream/restream/144182
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1jA8hcQIOLzrw4pOSkf2pIcqUoj1ley0B" tvg-id="" group-title="International" tvg-chno="323",RTL
+http://31.43.191.125:8080/restream/restream/134973
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1gVUj1N_kXdYOlsb-GdieQMFBtGOVh5Rj" tvg-id="" group-title="International" tvg-chno="326",ProSieben
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1rQXFjg_GO6_XONQvcJP0qgnDJ4dxKlzg" tvg-id="" group-title="International" tvg-chno="330",RTR Planeta
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://artrebel.gr/wp-content/uploads/2014/09/Ant1.png" tvg-id="" group-title="International" tvg-chno="331",ANT1
