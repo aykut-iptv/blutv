@@ -375,24 +375,28 @@ https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" tvg-id="TRT.KURDİ.tr" group-title="International" tvg-chno="380",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" group-title="Azerbaijan" tvg-chno="392",Azad TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1PFIFtIPXr20F_H5XEqvzZvulTCIiUl35" tvg-id="" group-title="Azerbaijan" tvg-chno="389",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-logo="https://www.gunaz.tv/frontend/images/logo.png" tvg-id="" group-title="Azerbaijan" tvg-chno="393",GünAz TV
+#EXTINF:-1 tvg-logo="https://www.gunaz.tv/frontend/images/logo.png" tvg-id="" group-title="Azerbaijan" tvg-chno="390",GünAz TV
 https://tv.gunaz.tv/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_sJKU0ZH6SrXXcPeHTqFPPZymoTysGWB" tvg-id="" group-title="Azerbaijan" tvg-chno="394",CBC Sport
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_sJKU0ZH6SrXXcPeHTqFPPZymoTysGWB" tvg-id="" group-title="Azerbaijan" tvg-chno="391",CBC Sport
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LVFGLXHUW45A8PBECGUURD6K/2193/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12PCAnbo6tYnfuZD3jVJ6RGWxC1BFXaQi" tvg-id="" group-title="Azerbaijan" tvg-chno="395",Ayaz TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=12PCAnbo6tYnfuZD3jVJ6RGWxC1BFXaQi" tvg-id="" group-title="Azerbaijan" tvg-chno="392",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
-#EXTINF:-1 tvg-logo="https://tmb.tv/wp-content/themes/techvio/assets/images/logo.png" tvg-id="" group-title="Music" tvg-chno="396",TMB TV
+#EXTINF:-1 tvg-logo="https://tmb.tv/wp-content/themes/techvio/assets/images/logo.png" tvg-id="" group-title="Music" tvg-chno="393",TMB TV
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197344&extension=ts&play_token=XeQODwvtKm
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/gfh3hses.png" tvg-id="" group-title="Music" tvg-chno="397",4Türk Pop TV
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/gfh3hses.png" tvg-id="" group-title="Music" tvg-chno="394",4Türk Pop TV
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_3275.png?v=4" tvg-id="" group-title="Music" tvg-chno="398",Power Pop TV
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_3275.png?v=4" tvg-id="" group-title="Music" tvg-chno="395",Power Pop TV
 https://listen.powerapp.com.tr/ppop/pop.smil/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_2577.png?v=4" tvg-id="" group-title="Music" tvg-chno="399",PowerTürk Slow TV
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/150x150/powerapp/channels/v3/logo_2577.png?v=4" tvg-id="" group-title="Music" tvg-chno="396",PowerTürk Slow TV
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/raptv.jpg" tvg-id="" group-title="Music" tvg-chno="399",NR1 Rap TV
+#EXTINF:-1 tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg" tvg-id="" group-title="Music" tvg-chno="397",NR1 Aşk TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/raptv.jpg" tvg-id="" group-title="Music" tvg-chno="398",NR1 Rap TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/dance-tv-web.jpg" tvg-id="" group-title="Music" tvg-chno="399",NR1 Dance TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6swVbl5M_XqlHqaVKEM0Fg3dXdmkYOWqVQ&s" tvg-id="EPG_ID" group-title="Radio" tvg-chno="401",Alem FM
 https://alemfm.radyotvonline.net/alemfmaac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/1/logos/android_default_logo.png?v=301024040744" tvg-id="EPG_ID" group-title="Radio" tvg-chno="402",Süper FM
