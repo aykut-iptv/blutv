@@ -501,21 +501,21 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa28301e1-00c2-4783-9a44-1e822be96cb9%2F11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png" tvg-id="EPG_ID" group-title="Music" tvg-chno="457",MovieMusic by Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_624.png?v=10" tvg-id="" group-title="Music" tvg-chno="560",Power Pop
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_624.png?v=10" tvg-id="" group-title="Radio" tvg-chno="560",Power Pop
 https://live.powerapp.com.tr/powerpop/abr/powerpop/256/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_43.png?v=8" tvg-id="" group-title="Music" tvg-chno="561",PowerTürk Taptaze
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_43.png?v=8" tvg-id="" group-title="Radio" tvg-chno="561",PowerTürk Taptaze
 https://live.powerapp.com.tr/powerturktaptaze/abr/powerturktaptaze/256/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_2450.png?v=8" tvg-id="" group-title="Music" tvg-chno="562",PowerTürk Slow
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_2450.png?v=8" tvg-id="" group-title="Radio" tvg-chno="562",PowerTürk Slow
 https://live.powerapp.com.tr/powerturkslow/abr/powerturkslow/256/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_1403.png?v=8" tvg-id="" group-title="Music" tvg-chno="564",PowerTürk Rap
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_1403.png?v=8" tvg-id="" group-title="Radio" tvg-chno="564",PowerTürk Rap
 https://live.powerapp.com.tr/powerturkrap/abr/powerturkrap/256/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_637.png?v=11" tvg-id="" group-title="Music" tvg-chno="565",Power Deep
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_637.png?v=11" tvg-id="" group-title="Radio" tvg-chno="565",Power Deep
 https://live.powerapp.com.tr/powerdeep/abr/powerdeep/256/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_57.png?v=8" tvg-id="" group-title="Music" tvg-chno="566",Power R&B Hip Hop
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_57.png?v=8" tvg-id="" group-title="Radio" tvg-chno="566",Power R&B Hip Hop
 https://live.powerapp.com.tr/powerrbhiphop/abr/powerrbhiphop/256/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_47.png?v=8" tvg-id="" group-title="Music" tvg-chno="567",Power Smooth Jazz
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_47.png?v=8" tvg-id="" group-title="Radio" tvg-chno="567",Power Smooth Jazz
 https://live.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/256/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_40.png?v=8" tvg-id="" group-title="Music" tvg-chno="568",Power Dance
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/300x300/powerapp/channels/v3/logo_40.png?v=8" tvg-id="" group-title="Radio" tvg-chno="568",Power Dance
 https://live.powerapp.com.tr/powerdance/abr/powerdance/256/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/ded6c190-5f9e-4de3-a5e5-868f789df1a5.jpg" tvg-id="" group-title="Radio" tvg-chno="500",TRT Radyo 1
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
