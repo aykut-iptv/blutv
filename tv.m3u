@@ -86,7 +86,7 @@ http://45.88.139.156/yt1/szctv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1Ax_vjWiDY28v7zjSujoLymiZ-I5awaHK" tvg-id="TRT.TÜRK.tr" group-title="General" tvg-chno="61",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNYG5qmZ/download.png" tvg-id="KRTTV.tr" group-title="News" tvg-chno="62",KRT TV
-http://sultanbaysal.serv00.net/yt/krtcanli.m3u8
+http://176.65.153.3:8042/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1YqNYdGMb3bbWts1tQANHFWOpNSBpz_gX" tvg-id="BENGÜ.TÜRK.tr" group-title="News" tvg-chno="63",BengüTürk
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1tOMKDXxUION9-PN6aca1o4ItFzc91tY-" tvg-id="TV.4.tr" group-title="General" tvg-chno="64",TV 4
