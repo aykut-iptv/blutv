@@ -549,7 +549,9 @@ https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8
 https://25583.live.streamtheworld.com/JOYTURK_AKUSTIK128AAC.aac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/41/logos/android_default_logo.png?v=041022033335" tvg-id="" group-title="Radio" tvg-chno="509",Pop90
 https://25503.live.streamtheworld.com/POP90128AAC.aac
-#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/13/logos/android_default_logo.png?v=041022033552" tvg-id="" group-title="Radio" tvg-chno="510",Efkâr
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/374/logos/android_default_logo.png?v=021026014744" tvg-id="" group-title="Radio" tvg-chno="510",PopTR
+https://25453.live.streamtheworld.com/POP_TR128AAC.aac
+#EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/13/logos/android_default_logo.png?v=041022033552" tvg-id="" group-title="Radio" tvg-chno="511",Efkâr
 https://22193.live.streamtheworld.com/EFKAR128AAC.aac
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/16/logos/android_default_logo.png?v=041022033529" tvg-id="" group-title="Radio" tvg-chno="512",Süper2
 https://25683.live.streamtheworld.com/SUPER2128AAC.aac
